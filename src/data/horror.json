@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2050650,
+    "name": "Resident Evil 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2050650/",
+    "popularity": "red"
+  },
+  {
+    "id": 883710,
+    "name": "Resident Evil 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/883710/",
+    "popularity": "red"
+  },
+  {
+    "id": 418370,
+    "name": "Resident Evil 7 Biohazard",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/418370/",
+    "popularity": "red"
+  },
+  {
+    "id": 1196590,
+    "name": "Resident Evil Village",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1196590/",
+    "popularity": "red"
+  },
+  {
+    "id": 2124490,
+    "name": "SILENT HILL 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2124490/",
+    "popularity": "red"
+  },
+  {
+    "id": 1693980,
+    "name": "Dead Space",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1693980/",
+    "popularity": "red"
+  },
+  {
+    "id": 739630,
+    "name": "Phasmophobia",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/739630/",
+    "popularity": "red"
+  },
+  {
+    "id": 1966720,
+    "name": "Lethal Company",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1966720/",
+    "popularity": "red"
+  },
+  {
+    "id": 238320,
+    "name": "Outlast",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/238320/",
+    "popularity": "red"
+  },
+  {
+    "id": 414700,
+    "name": "Outlast 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/414700/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1304930,
+    "name": "The Outlast Trials",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1304930/",
+    "popularity": "gold"
+  },
+  {
+    "id": 214490,
+    "name": "Alien: Isolation",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/214490/",
+    "popularity": "red"
+  },
+  {
+    "id": 282140,
+    "name": "SOMA",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/282140/",
+    "popularity": "red"
+  },
+  {
+    "id": 57300,
+    "name": "Amnesia: The Dark Descent",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/57300/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1944430,
+    "name": "Amnesia: The Bunker",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1944430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1944430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 999220,
+    "name": "Amnesia: Rebirth",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/999220/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1262350,
+    "name": "SIGNALIS",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1262350/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1295920,
+    "name": "The Mortuary Assistant",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1295920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1295920/",
+    "popularity": "gold"
+  },
+  {
+    "id": 594330,
+    "name": "Visage",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/594330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/594330/",
+    "popularity": "gold"
+  },
+  {
+    "id": 274520,
+    "name": "Darkwood",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/274520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/274520/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1388880,
+    "name": "Doki Doki Literature Club Plus!",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1388880/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1388880/",
+    "popularity": "red"
+  },
+  {
+    "id": 424840,
+    "name": "Little Nightmares",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/424840/",
+    "popularity": "red"
+  },
+  {
+    "id": 860510,
+    "name": "Little Nightmares II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/860510/",
+    "popularity": "red"
+  },
+  {
+    "id": 1326470,
+    "name": "Sons Of The Forest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1326470/",
+    "popularity": "red"
+  },
+  {
+    "id": 242760,
+    "name": "The Forest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/242760/",
+    "popularity": "red"
+  },
+  {
+    "id": 2881650,
+    "name": "Content Warning",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1274570,
+    "name": "DEVOUR",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1274570/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1670870,
+    "name": "MADiSON",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1670870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1670870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1623940,
+    "name": "Bramble: The Mountain King",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1623940/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1846170,
+    "name": "Iron Lung",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1846170/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1846170/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1721470,
+    "name": "Poppy Playtime",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1721470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1721470/",
+    "popularity": "gold"
+  },
+  {
+    "id": 319510,
+    "name": "Five Nights at Freddy's",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/319510/",
+    "popularity": "red"
+  },
+  {
+    "id": 747660,
+    "name": "Five Nights at Freddy's: Security Breach",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/747660/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/747660/",
+    "popularity": "gold"
+  },
+  {
+    "id": 268050,
+    "name": "The Evil Within",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/268050/",
+    "popularity": "gold"
+  },
+  {
+    "id": 601430,
+    "name": "The Evil Within 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/601430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1002300,
+    "name": "Fear & Hunger",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1002300/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1002300/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2171440,
+    "name": "Fear & Hunger 2: Termina",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2171440/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2171440/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1179080,
+    "name": "FAITH: The Unholy Trinity",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1179080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1179080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 555220,
+    "name": "Detention",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/555220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/555220/",
+    "popularity": "gold"
+  },
+  {
+    "id": 913740,
+    "name": "WORLD OF HORROR",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/913740/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/913740/",
+    "popularity": "purple"
+  },
+  {
+    "id": 223710,
+    "name": "Cry of Fear",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/223710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/223710/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1622910,
+    "name": "Still Wakes the Deep",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1622910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1622910/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2475490,
+    "name": "Mouthwashing",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2475490/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1996010,
+    "name": "Crow Country",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1996010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1996010/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1367590,
+    "name": "Tormented Souls",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1367590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1367590/",
+    "popularity": "purple"
+  },
+  {
+    "id": 698670,
+    "name": "Scorn",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/698670/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/698670/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1946700,
+    "name": "Layers of Fear",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1946700/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1946700/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1929610,
+    "name": "Demonologist",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1929610/",
+    "popularity": "purple"
+  },
+  {
+    "id": 967050,
+    "name": "Pacify",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/967050/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/967050/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1361000,
+    "name": "In Silence",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1361000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1361000/",
+    "popularity": "gray"
+  }
+]

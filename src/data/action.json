@@ -1,0 +1,352 @@
+[
+  {
+    "id": 730,
+    "name": "Counter-Strike 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/730/",
+    "popularity": "red"
+  },
+  {
+    "id": 570,
+    "name": "Dota 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/570/",
+    "popularity": "red"
+  },
+  {
+    "id": 1245620,
+    "name": "ELDEN RING",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1245620/",
+    "popularity": "red"
+  },
+  {
+    "id": 1091500,
+    "name": "Cyberpunk 2077",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1091500/",
+    "popularity": "red"
+  },
+  {
+    "id": 814380,
+    "name": "Sekiro: Shadows Die Twice",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/814380/",
+    "popularity": "gold"
+  },
+  {
+    "id": 582010,
+    "name": "Monster Hunter: World",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/582010/",
+    "popularity": "gold"
+  },
+  {
+    "id": 553850,
+    "name": "HELLDIVERS™ 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/553850/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1145360,
+    "name": "Hades",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1145360/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1238810,
+    "name": "Battlefield™ V",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1238810/",
+    "popularity": "purple"
+  },
+  {
+    "id": 601150,
+    "name": "Devil May Cry 5",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/601150/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1659040,
+    "name": "HITMAN World of Assassination",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1659040/",
+    "popularity": "purple"
+  },
+  {
+    "id": 861540,
+    "name": "Cyber Shadow",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/861540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/861540/",
+    "popularity": "gray"
+  },
+  {
+    "id": 985890,
+    "name": "Streets of Rogue",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/985890/",
+    "popularity": "gray"
+  },
+  {
+    "id": 400910,
+    "name": "The Signal From Tölva",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/400910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/400910/",
+    "popularity": "gray"
+  },
+  {
+    "id": 2567870,
+    "name": "Chained Together",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2567870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2881650,
+    "name": "Content Warning",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1782210,
+    "name": "Crab Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1782210/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1358640,
+    "name": "Dread Hunger",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1358640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1358640/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1943950,
+    "name": "Escape the Backrooms",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1943950/",
+    "popularity": "gold"
+  },
+  {
+    "id": 756800,
+    "name": "Contraband Police",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/756800/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/756800/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1824220,
+    "name": "Chivalry 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1824220/",
+    "popularity": "purple"
+  },
+  {
+    "id": 268910,
+    "name": "Cuphead",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/268910/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2780620,
+    "name": "Lockdown Protocol",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2780620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2780620/",
+    "popularity": "gray"
+  },
+  {
+    "id": 376210,
+    "name": "The Isle",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/376210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 739630,
+    "name": "Phasmophobia",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/739630/",
+    "popularity": "red"
+  },
+  {
+    "id": 1260320,
+    "name": "Party Animals",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1260320/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1274570,
+    "name": "DEVOUR",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1274570/",
+    "popularity": "purple"
+  },
+  {
+    "id": 815370,
+    "name": "Green Hell",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/815370/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1326470,
+    "name": "Sons Of The Forest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1326470/",
+    "popularity": "red"
+  },
+  {
+    "id": 252490,
+    "name": "Rust",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/252490/",
+    "popularity": "red"
+  },
+  {
+    "id": 1172620,
+    "name": "Sea of Thieves",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1172620/",
+    "popularity": "red"
+  },
+  {
+    "id": 285900,
+    "name": "Gang Beasts",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/285900/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1509960,
+    "name": "PICO PARK",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1509960/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1623730,
+    "name": "Palworld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1623730/",
+    "popularity": "red"
+  },
+  {
+    "id": 1144200,
+    "name": "Ready or Not",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1144200/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2358720,
+    "name": "Black Myth: Wukong",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2358720/",
+    "popularity": "red"
+  },
+  {
+    "id": 271590,
+    "name": "Grand Theft Auto V",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/271590/",
+    "popularity": "red"
+  },
+  {
+    "id": 1222680,
+    "name": "Need for Speed™ Heat",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1222680/",
+    "popularity": "gold"
+  },
+  {
+    "id": 228380,
+    "name": "Wreckfest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/228380/",
+    "popularity": "purple"
+  },
+  {
+    "id": 39690,
+    "name": "GRIP: Combat Racing",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/39690/",
+    "popularity": "gray"
+  },
+  {
+    "id": 460920,
+    "name": "Steep™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/460920/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2315690,
+    "name": "WWE 2K24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2315690/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1451190,
+    "name": "Undisputed",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1451190/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1114290,
+    "name": "Windjammers 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1114290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1114290/",
+    "popularity": "gray"
+  },
+  {
+    "id": 261550,
+    "name": "Mount & Blade II: Bannerlord",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/261550/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1446780,
+    "name": "Monster Hunter Rise",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1446780/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2054970,
+    "name": "Dragon's Dogma 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2054970/",
+    "popularity": "gold"
+  },
+  {
+    "id": 374320,
+    "name": "DARK SOULS™ III",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/374320/",
+    "popularity": "red"
+  },
+  {
+    "id": 238960,
+    "name": "Path of Exile",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/238960/",
+    "popularity": "red"
+  },
+  {
+    "id": 236390,
+    "name": "War Thunder",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/236390/",
+    "popularity": "red"
+  }
+]

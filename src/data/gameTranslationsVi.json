@@ -1,0 +1,4675 @@
+{
+  "440": {
+    "id": 440,
+    "name": "Team Fortress 2",
+    "descriptionVi": "Game bắn súng chia phe 9 lớp nhân vật kinh điển của Valve, nơi bạn vào vai Gián điệp, Bác sĩ, Lính bắn tỉa hay Hạng nặng trong các trận tranh tài nảy lửa và vui nhộn.",
+    "shortDescriptionVi": "Huyền thoại bắn súng chia phe 9 lớp nhân vật vui nhộn miễn phí.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Hành động",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "550": {
+    "id": 550,
+    "name": "Left 4 Dead 2",
+    "descriptionVi": "Sát cánh cùng 3 người bạn vượt qua bầy thây ma hung hãn và những quái vật đột biến nguy hiểm khắp miền Nam nước Mỹ trong tựa game bắn súng phối hợp kinh điển của Valve.",
+    "shortDescriptionVi": "Bắn súng sinh tồn phối hợp diệt thây ma kinh điển của Valve.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Kinh dị",
+      "Phối hợp",
+      "Hành động"
+    ]
+  },
+  "570": {
+    "id": 570,
+    "name": "Dota 2",
+    "descriptionVi": "Đấu trường trực tuyến (MOBA) đỉnh cao quy tụ hơn 100 vị tướng, đòi hỏi tư duy chiến lược sâu sắc và sự phối hợp ăn ý giữa các đồng đội để phá hủy thánh tích đối phương.",
+    "shortDescriptionVi": "Đấu trường chiến thuật trực tuyến 5v5 huyền thoại.",
+    "genresVi": [
+      "Chiến thuật",
+      "Hành động",
+      "Nhiều người chơi trực tuyến"
+    ]
+  },
+  "620": {
+    "id": 620,
+    "name": "Portal 2",
+    "descriptionVi": "Kiệt tác giải đố vật lý góc nhìn thứ nhất của Valve, sử dụng khẩu súng tạo cổng không gian portal để vượt qua các phòng thử nghiệm hiểm hóc của AI GLaDOS mỉa mai.",
+    "shortDescriptionVi": "Kiệt tác giải đố cổng không gian đỉnh cao mọi thời đại của Valve.",
+    "genresVi": [
+      "Giải đố",
+      "Khoa học viễn tưởng",
+      "Góc nhìn thứ nhất",
+      "Phối hợp"
+    ]
+  },
+  "730": {
+    "id": 730,
+    "name": "Counter-Strike 2",
+    "descriptionVi": "Tựa game bắn súng chiến thuật góc nhìn thứ nhất huyền thoại của Valve, nơi hai phe Khủng bố và Chống khủng bố so tài qua những pha đặt bom và đấu súng nghẹt thở.",
+    "shortDescriptionVi": "Bắn súng chiến thuật góc nhìn thứ nhất đỉnh cao.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Hành động",
+      "Chiến thuật",
+      "Đối kháng trực tuyến"
+    ]
+  },
+  "8930": {
+    "id": 8930,
+    "name": "Sid Meier's Civilization® V",
+    "descriptionVi": "Tựa game chiến thuật 4X kinh điển trên bản đồ ô lục giác, mở rộng lãnh thổ, nghiên cứu khoa học và kiến tạo di sản trường tồn cùng thời gian.",
+    "shortDescriptionVi": "Tượng đài chiến thuật 4X theo lượt kinh điển của dòng game Civ.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật theo lượt",
+      "Lịch sử",
+      "4X"
+    ]
+  },
+  "11020": {
+    "id": 11020,
+    "name": "TrackMania Nations Forever",
+    "descriptionVi": "Tựa game đua xe vượt chướng ngại vật hoàn toàn miễn phí huyền thoại, phóng qua các vòng cung lộn ngược trên cao và so tài thời gian với hàng triệu người chơi.",
+    "shortDescriptionVi": "Huyền thoại đua xe vượt chướng ngại vật tốc độ cao miễn phí.",
+    "genresVi": [
+      "Đua xe",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "22380": {
+    "id": 22380,
+    "name": "Fallout: New Vegas",
+    "descriptionVi": "Bị bắn vào đầu và chôn sống giữa sa mạc Mojave, người đưa thư Courier bắt đầu hành trình báo thù và định đoạt quyền lực kiểm soát dải Las Vegas hậu hạt nhân.",
+    "shortDescriptionVi": "Huyền thoại nhập vai thế giới mở hậu tận thế tại New Vegas.",
+    "genresVi": [
+      "Nhập vai",
+      "Hậu tận thế",
+      "Thế giới mở",
+      "Bắn súng"
+    ]
+  },
+  "39210": {
+    "id": 39210,
+    "name": "FINAL FANTASY XIV Online",
+    "descriptionVi": "Một trong những tựa game MMORPG vĩ đại nhất lịch sử, đưa bạn vào vai Chiến Binh Ánh Sáng khám phá cõi Eorzea với cốt truyện lay động hàng triệu trái tim người chơi.",
+    "shortDescriptionVi": "Tuyệt phẩm MMORPG huyền thoại với câu chuyện sử thi lay động lòng người.",
+    "genresVi": [
+      "MMORPG",
+      "Nhập vai",
+      "Cốt truyện sâu sắc",
+      "Giả tưởng"
+    ]
+  },
+  "39690": {
+    "id": 39690,
+    "name": "GRIP: Combat Racing",
+    "descriptionVi": "Đua xe chiến đấu tốc độ cao trên các phương tiện bánh lốp lật ngược hai mặt, gắn vũ khí hạng nặng và phóng như bay trên mọi địa hình tường và trần nhà.",
+    "shortDescriptionVi": "Đua xe chiến đấu phản trọng lực với tốc độ xé gió.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "48000": {
+    "id": 48000,
+    "name": "LIMBO",
+    "descriptionVi": "Bước vào thế giới đen trắng ma mị của Limbo, dẫn dắt một cậu bé vượt qua vô số cạm bẫy tử thần để đi tìm số phận của người em gái mất tích.",
+    "shortDescriptionVi": "Huyền thoại giải đố đi cảnh đen trắng đầy ma mị và cạm bẫy.",
+    "genresVi": [
+      "Giải đố",
+      "Đi cảnh",
+      "Độc lập",
+      "Cổ điển"
+    ]
+  },
+  "57300": {
+    "id": 57300,
+    "name": "Amnesia: The Dark Descent",
+    "descriptionVi": "Tỉnh dậy trong tòa lâu đài u ám không chút ký ức, người chơi phải mò mẫm trong bóng tối, giữ vững sự tỉnh táo và lẩn trốn những bóng ma rình rập.",
+    "shortDescriptionVi": "Tượng đài kinh dị sinh tồn góc nhìn thứ nhất gieo rắc nỗi sợ thuần túy.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Phiêu lưu",
+      "Giải đố"
+    ]
+  },
+  "105600": {
+    "id": 105600,
+    "name": "Terraria",
+    "descriptionVi": "Thế giới hộp cát 2D vô tận nơi bạn đào bới, chiến đấu, khám phá và xây dựng, đối đầu với hàng chục con trùm kỳ dị và tìm kiếm hàng ngàn vật phẩm trang bị quý hiếm.",
+    "shortDescriptionVi": "Phiêu lưu đào bới và sinh tồn hộp cát 2D sáng tạo không giới hạn.",
+    "genresVi": [
+      "Sinh tồn",
+      "Hộp cát",
+      "Phiêu lưu",
+      "Chế tạo"
+    ]
+  },
+  "204360": {
+    "id": 204360,
+    "name": "Castle Crashers",
+    "descriptionVi": "Tựa game chặt chém đi cảnh 2D kinh điển của The Behemoth, điều khiển 4 hiệp sĩ đầy màu sắc giải cứu công chúa và đánh bại phù thủy hắc ám.",
+    "shortDescriptionVi": "Chặt chém đi cảnh 4 hiệp sĩ kinh điển vui nhộn và kịch tính.",
+    "genresVi": [
+      "Hành động",
+      "Chặt chém",
+      "Phối hợp",
+      "Cổ điển"
+    ]
+  },
+  "207140": {
+    "id": 207140,
+    "name": "SpeedRunners",
+    "descriptionVi": "Cuộc đua chạy bộ 4 người chơi tốc độ cao, sử dụng móc câu, tên lửa và bom mìn để loại đối thủ ra khỏi khung hình màn hình đang co lại.",
+    "shortDescriptionVi": "Đua chạy bộ dùng móc câu tranh tài tốc độ 4 người gay cấn.",
+    "genresVi": [
+      "Hành động",
+      "Đi cảnh",
+      "Đua tốc độ",
+      "Nhiều người chơi"
+    ]
+  },
+  "214490": {
+    "id": 214490,
+    "name": "Alien: Isolation",
+    "descriptionVi": "Cảm nhận nỗi sợ hãi nghẹt thở khi trốn tránh một quái vật Xenomorph tàn nhẫn được điều khiển bởi AI thông minh trên trạm vũ trụ Sevastopol đổ nát.",
+    "shortDescriptionVi": "Trải nghiệm sinh tồn lén lút trốn chạy quái vật ngoài hành tinh chân thực.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Khoa học viễn tưởng",
+      "Lén lút"
+    ]
+  },
+  "214950": {
+    "id": 214950,
+    "name": "Total War: ROME II - Emperor Edition",
+    "descriptionVi": "Trở lại thời kỳ Đế chế La Mã cổ đại hùng mạnh, điều khiển các quân đoàn lính lê dương bách chiến bách thắng và thiết lập quyền bá chủ khắp vùng Địa Trung Hải.",
+    "shortDescriptionVi": "Chỉ huy đế chế La Mã cổ đại chinh phục toàn bộ Địa Trung Hải.",
+    "genresVi": [
+      "Chiến thuật",
+      "Lịch sử",
+      "Chiến thuật thời gian thực",
+      "La Mã"
+    ]
+  },
+  "221100": {
+    "id": 221100,
+    "name": "DayZ",
+    "descriptionVi": "Tồn tại trong vùng đất hoang tàn đầy rẫy thây ma nhiễm bệnh và người chơi khác, nơi cơn đói, bệnh tật và sự phản bội luôn chực chờ kết liễu mạng sống của bạn bất cứ lúc nào.",
+    "shortDescriptionVi": "Huyền thoại sinh tồn thế giới mở chân thực và khắc nghiệt.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Kinh dị",
+      "Nhiều người chơi"
+    ]
+  },
+  "223710": {
+    "id": 223710,
+    "name": "Cry of Fear",
+    "descriptionVi": "Một thanh niên lạc lõng giữa màn đêm giá lạnh vùng Scandinavia, chiến đấu với bầy quái vật ghê rợn và ảo giác điên loạn trong bản mod chuyển thể độc lập miễn phí vang danh một thời.",
+    "shortDescriptionVi": "Kinh dị sinh tồn tâm lý góc nhìn thứ nhất miễn phí kinh điển.",
+    "genresVi": [
+      "Kinh dị",
+      "Bắn súng góc nhìn thứ nhất",
+      "Chơi miễn phí",
+      "Phối hợp"
+    ]
+  },
+  "227300": {
+    "id": 227300,
+    "name": "Euro Truck Simulator 2",
+    "descriptionVi": "Ngồi sau vô lăng xe tải đường dài, vận chuyển hàng hóa qua hàng chục thành phố xinh đẹp của châu Âu trên những cung đường cao tốc chân thực và thư giãn.",
+    "shortDescriptionVi": "Mô phỏng lái xe tải đường dài xuyên khắp các nẻo đường châu Âu.",
+    "genresVi": [
+      "Mô phỏng",
+      "Lái xe",
+      "Thư giãn"
+    ]
+  },
+  "228380": {
+    "id": 228380,
+    "name": "Wreckfest",
+    "descriptionVi": "Tận hưởng những pha va chạm xe hơi phá hủy mãn nhãn với hệ thống vật lý chân thực, tham gia các cuộc đua hủy diệt derby không khoan nhượng.",
+    "shortDescriptionVi": "Đua xe đâm đụng va chạm với vật lý phá hủy chân thực.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Mô phỏng"
+    ]
+  },
+  "230410": {
+    "id": 230410,
+    "name": "Warframe",
+    "descriptionVi": "Hóa thân thành chiến binh cổ xưa Tenno điều khiển các bộ giáp sinh học Warframe tối tân, thi triển kỹ năng nhẫn giả không gian và làm chủ kho vũ khí đồ sộ.",
+    "shortDescriptionVi": "Nhẫn giả không gian hành động tốc độ cao hoàn toàn miễn phí.",
+    "genresVi": [
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba",
+      "Khoa học viễn tưởng",
+      "Chơi miễn phí"
+    ]
+  },
+  "231430": {
+    "id": 231430,
+    "name": "Company of Heroes 2",
+    "descriptionVi": "Chiến thuật quân sự thời gian thực đỉnh cao trên Mặt trận phía Đông Thế chiến II, chỉ huy Hồng quân Liên Xô đẩy lùi quân phát xít qua những trận địa băng tuyết khắc nghiệt.",
+    "shortDescriptionVi": "Chiến thuật quân sự thời gian thực Thế chiến II chân thực và khốc liệt.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Chiến tranh",
+      "Lịch sử"
+    ]
+  },
+  "233860": {
+    "id": 233860,
+    "name": "Kenshi",
+    "descriptionVi": "Game nhập vai hộp cát thế giới mở tự do tuyệt đối, không có cốt truyện định sẵn: bạn có thể là một tên trộm, một thương nhân, một lãnh chúa hoặc miếng mồi cho bầy ăn thịt người.",
+    "shortDescriptionVi": "Nhập vai sinh tồn hộp cát tự do vô hạn giữa sa mạc tàn bạo.",
+    "genresVi": [
+      "Nhập vai",
+      "Hộp cát",
+      "Sinh tồn",
+      "Thế giới mở"
+    ]
+  },
+  "234140": {
+    "id": 234140,
+    "name": "Mad Max",
+    "descriptionVi": "Bước vào vùng đất hoang tàn hậu tận thế của Mad Max, tự tay nâng cấp cỗ xe chiến Magnum Opus gắn lao móc và tham gia các trận chiến xe cộ đẫm máu.",
+    "shortDescriptionVi": "Chiến đấu xe cộ sinh tồn trên vùng đất hoang tàn hậu tận thế khốc liệt.",
+    "genresVi": [
+      "Hành động",
+      "Thế giới mở",
+      "Chiến đấu xe cộ"
+    ]
+  },
+  "236390": {
+    "id": 236390,
+    "name": "War Thunder",
+    "descriptionVi": "Trò chơi mô phỏng chiến đấu khí tài quân sự đồ sộ, cho phép bạn điều khiển hàng trăm loại máy bay, xe tăng và chiến hạm trong các chiến trường Thế chiến II và Chiến tranh Lạnh.",
+    "shortDescriptionVi": "Chiến đấu khí tài quân sự không lục hải quân quy mô lớn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Hành động",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "236850": {
+    "id": 236850,
+    "name": "Europa Universalis IV",
+    "descriptionVi": "Nắm quyền điều hành một quốc gia trải qua 4 thế kỷ lịch sử từ thời Phục hưng đến thời đại Cách mạng, kiểm soát thương mại, bang giao và thuộc địa toàn cầu.",
+    "shortDescriptionVi": "Đại chiến lược điều hành quốc gia suốt 4 thế kỷ lịch sử thế giới.",
+    "genresVi": [
+      "Chiến thuật",
+      "Lịch sử",
+      "Đại chiến lược",
+      "Mô phỏng"
+    ]
+  },
+  "238320": {
+    "id": 238320,
+    "name": "Outlast",
+    "descriptionVi": "Vào vai nhà báo điều tra Miles Upshur chỉ trang bị một chiếc máy quay phim nhìn đêm, tìm đường sống sót trong bệnh viện tâm thần Mount Massive đầy rẫy những kẻ cuồng sát.",
+    "shortDescriptionVi": "Kinh dị sinh tồn góc nhìn thứ nhất nghẹt thở không có khả năng chống trả.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ nhất",
+      "Lén lút"
+    ]
+  },
+  "238460": {
+    "id": 238460,
+    "name": "BattleBlock Theater",
+    "descriptionVi": "Sau vụ đắm tàu bí ẩn, bạn bị bầy mèo độc ác bắt giam vào nhà hát tử thần và phải cùng bạn bè vượt qua hàng trăm màn chơi đi cảnh cạm bẫy lầy lội.",
+    "shortDescriptionVi": "Đi cảnh phối hợp hài hước vượt qua nhà hát tử thần của bầy mèo.",
+    "genresVi": [
+      "Hành động",
+      "Vui nhộn",
+      "Phối hợp",
+      "Đi cảnh"
+    ]
+  },
+  "238960": {
+    "id": 238960,
+    "name": "Path of Exile",
+    "descriptionVi": "Tựa game nhập vai hành động góc nhìn từ trên xuống hoàn toàn miễn phí, nổi tiếng với cây kỹ năng thụ động khổng lồ và hệ thống ngọc bổ trợ biến ảo vô hạn.",
+    "shortDescriptionVi": "Nhập vai hành động chặt chém đen tối với chiều sâu vô tận.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Chơi miễn phí",
+      "Nhiều người chơi"
+    ]
+  },
+  "240720": {
+    "id": 240720,
+    "name": "Getting Over It with Bennett Foddy",
+    "descriptionVi": "Điều khiển một người đàn ông ngồi trong chiếc vạc dùng búa tạ leo lên ngọn núi dốc đứng, tựa game thử thách sự kiên nhẫn và bình tĩnh tối thượng của game thủ.",
+    "shortDescriptionVi": "Leo núi bằng búa tạ thử thách tâm lý ức chế đỉnh cao.",
+    "genresVi": [
+      "Hành động",
+      "Vật lý",
+      "Độ khó cao",
+      "Độc lập"
+    ]
+  },
+  "242760": {
+    "id": 242760,
+    "name": "The Forest",
+    "descriptionVi": "Là người sống sót duy nhất sau vụ rơi máy bay, bạn phải học cách đốn cây làm nơi trú ẩn, kiếm thức ăn và tự vệ trước bộ tộc người đột biến ăn thịt đồng loại trên hòn đảo hoang vu.",
+    "shortDescriptionVi": "Game mô phỏng sinh tồn kinh dị xây dựng căn cứ trên đảo hoang kinh điển.",
+    "genresVi": [
+      "Sinh tồn",
+      "Kinh dị",
+      "Thế giới mở",
+      "Phối hợp"
+    ]
+  },
+  "244210": {
+    "id": 244210,
+    "name": "Assetto Corsa",
+    "descriptionVi": "Tượng đài mô phỏng đua xe ô tô chuẩn xác hàng đầu thế giới, tái hiện cảm giác lái và phản hồi lực vô lăng chân thực trên các đường đua laser-scan danh tiếng.",
+    "shortDescriptionVi": "Tượng đài mô phỏng đua xe thể thao chân thực bậc nhất cho vô lăng.",
+    "genresVi": [
+      "Đua xe",
+      "Mô phỏng",
+      "Thể thao"
+    ]
+  },
+  "250320": {
+    "id": 250320,
+    "name": "The Wolf Among Us",
+    "descriptionVi": "Dựa trên bộ truyện tranh Fables đoạt giải thưởng, người chơi theo chân cảnh trưởng Bigby Wolf điều tra vụ án mạng tàn khốc giữa lòng thành phố nơi các nhân vật cổ tích lẩn trốn hiện thực.",
+    "shortDescriptionVi": "Tuyệt tác trinh thám thần thoại đô thị phong cách comic lừng danh của Telltale.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Trinh thám",
+      "Lựa chọn theo cốt truyện",
+      "Thần thoại đô thị"
+    ]
+  },
+  "250900": {
+    "id": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "descriptionVi": "Khám phá tầng hầm kinh hoàng của cậu bé Isaac, bắn nước mắt tiêu diệt quái vật và kết hợp hàng trăm vật phẩm dị biệt trong tựa game roguelike kinh điển.",
+    "shortDescriptionVi": "Tượng đài bắn súng hầm ngục roguelike kỳ dị và cuốn hút.",
+    "genresVi": [
+      "Hành động",
+      "Roguelike",
+      "Hầm ngục",
+      "Độc lập"
+    ]
+  },
+  "252490": {
+    "id": 252490,
+    "name": "Rust",
+    "descriptionVi": "Mục tiêu duy nhất trong Rust là sinh tồn. Thức dậy trần trụi trên hòn đảo bí ẩn, bạn phải thu thập tài nguyên, chế tạo vũ khí, xây dựng pháo đài và đề phòng những người chơi khác.",
+    "shortDescriptionVi": "Đấu trường sinh tồn nhiều người chơi khốc liệt bậc nhất.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Nhiều người chơi",
+      "Chế tạo"
+    ]
+  },
+  "255710": {
+    "id": 255710,
+    "name": "Cities: Skylines",
+    "descriptionVi": "Tựa game mô phỏng xây dựng và quản trị đô thị hiện đại hàng đầu, quy hoạch đường sá, quản lý giao thông và kiến tạo nên thành phố mơ ước của bạn.",
+    "shortDescriptionVi": "Mô phỏng quy hoạch và xây dựng đô thị hiện đại đỉnh cao.",
+    "genresVi": [
+      "Mô phỏng",
+      "Xây dựng thành phố",
+      "Quản lý"
+    ]
+  },
+  "255920": {
+    "id": 255920,
+    "name": "The 7th Guest",
+    "descriptionVi": "Khám phá dinh thự bỏ hoang của nghệ nhân làm đồ chơi Henry Stauf, giải những câu đố hóc búa để tìm hiểu số phận bi thảm của sáu vị khách và vị khách thứ bảy bí ẩn.",
+    "shortDescriptionVi": "Tượng đài game giải đố kinh dị người đóng mở đường cho định dạng CD-ROM.",
+    "genresVi": [
+      "Kinh dị",
+      "Giải đố",
+      "Cổ điển",
+      "Phim tương tác (FMV)"
+    ]
+  },
+  "255940": {
+    "id": 255940,
+    "name": "The 11th Hour",
+    "descriptionVi": "70 năm sau thảm kịch The 7th Guest, nhà báo điều tra Robin mất tích trong dinh thự mục nát của Stauf, buộc Carl Denning phải bước vào giải mã những câu đố chết người tiếp theo.",
+    "shortDescriptionVi": "Hậu truyện kinh dị giải đố tiếp nối câu chuyện tại dinh thự Stauf.",
+    "genresVi": [
+      "Kinh dị",
+      "Giải đố",
+      "Cổ điển",
+      "Phim tương tác (FMV)"
+    ]
+  },
+  "261550": {
+    "id": 261550,
+    "name": "Mount & Blade II: Bannerlord",
+    "descriptionVi": "Chỉ huy quân đội trên chiến trường thời trung cổ và tự mình cưỡi ngựa xung phong chém giết, xây dựng vương quốc và gây dựng triều đại Calradia của riêng bạn.",
+    "shortDescriptionVi": "Chiến thuật trung cổ kết hợp nhập vai chỉ huy quân đội.",
+    "genresVi": [
+      "Chiến thuật",
+      "Nhập vai",
+      "Hành động",
+      "Thế giới mở"
+    ]
+  },
+  "264710": {
+    "id": 264710,
+    "name": "Subnautica",
+    "descriptionVi": "Rơi xuống đại dương mênh mông của hành tinh xa lạ, bạn phải thu thập tài nguyên, chế tạo thiết bị lặn và khám phá những rạn san hô rực rỡ lẫn vực sâu tăm tối.",
+    "shortDescriptionVi": "Sinh tồn thám hiểm đại dương hành tinh xa lạ kỳ bí.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Phiêu lưu"
+    ]
+  },
+  "265930": {
+    "id": 265930,
+    "name": "Goat Simulator",
+    "descriptionVi": "Tựa game dê quậy phá nguyên bản khởi đầu tất cả, biến chú dê bất tử thành vũ khí hủy diệt đồ vật và gây ra các vụ nổ vật lý phi lý cười ra nước mắt.",
+    "shortDescriptionVi": "Mô phỏng chú dê quậy phá vật lý lầy lội kinh điển.",
+    "genresVi": [
+      "Vui nhộn",
+      "Mô phỏng",
+      "Hài hước",
+      "Hộp cát"
+    ]
+  },
+  "268050": {
+    "id": 268050,
+    "name": "The Evil Within",
+    "descriptionVi": "Tác phẩm kinh dị sinh tồn từ cha đẻ Resident Evil - Shinji Mikami, nơi thám tử Sebastian Castellanos phải sinh tồn giữa thế giới ác mộng đầy rẫy quái vật biến dạng và cạm bẫy chết người.",
+    "shortDescriptionVi": "Kinh dị sinh tồn đậm chất điện ảnh với bầu không khí căng thẳng nghẹt thở.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba"
+    ]
+  },
+  "268500": {
+    "id": 268500,
+    "name": "XCOM® 2",
+    "descriptionVi": "Lãnh đạo lực lượng kháng chiến du kích XCOM chống lại ách thống trị của người ngoài hành tinh trên Trái Đất trong các trận giao tranh chiến thuật theo lượt căng thẳng.",
+    "shortDescriptionVi": "Chiến thuật theo lượt chỉ huy kháng chiến chống người ngoài hành tinh.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật theo lượt",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "268910": {
+    "id": 268910,
+    "name": "Cuphead",
+    "descriptionVi": "Tựa game hành động bắn chạy kinh điển lấy cảm hứng từ phim hoạt hình thập niên 1930, nổi tiếng với độ khó cực cao và các trận đấu trùm vẽ tay công phu.",
+    "shortDescriptionVi": "Hành động bắn chạy hoạt hình cổ điển đầy thử thách.",
+    "genresVi": [
+      "Hành động",
+      "Độc lập",
+      "Đi cảnh",
+      "Độ khó cao"
+    ]
+  },
+  "270880": {
+    "id": 270880,
+    "name": "American Truck Simulator",
+    "descriptionVi": "Cầm lái những chiếc xe tải đầu kéo huyền thoại của nước Mỹ, vận chuyển hàng hóa xuyên qua các tiểu bang California, Nevada và ngắm nhìn cảnh quan tuyệt đẹp.",
+    "shortDescriptionVi": "Lái xe tải đầu kéo xuyên qua các tiểu bang trù phú nước Mỹ.",
+    "genresVi": [
+      "Mô phỏng",
+      "Lái xe",
+      "Thư giãn"
+    ]
+  },
+  "271590": {
+    "id": 271590,
+    "name": "Grand Theft Auto V",
+    "descriptionVi": "Khám phá thành phố Los Santos đầy biến động qua lăng kính của ba tên tội phạm Michael, Franklin và Trevor trong một thế giới mở rộng lớn với vô vàn hoạt động.",
+    "shortDescriptionVi": "Thế giới mở tội phạm đỉnh cao tại thành phố Los Santos.",
+    "genresVi": [
+      "Thế giới mở",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "274520": {
+    "id": 274520,
+    "name": "Darkwood",
+    "descriptionVi": "Game sinh tồn góc nhìn từ trên xuống độc đáo, nơi bạn khám phá khu rừng kỳ bí để thu thập tài nguyên vào ban ngày và cố thủ trong nơi trú ẩn chờ ánh bình minh ban đêm.",
+    "shortDescriptionVi": "Sinh tồn kinh dị góc nhìn từ trên xuống đầy áp lực và ám ảnh.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Nhìn từ trên xuống",
+      "Độc lập"
+    ]
+  },
+  "281990": {
+    "id": 281990,
+    "name": "Stellaris",
+    "descriptionVi": "Trò chơi đại chiến lược không gian 4X, nơi bạn du hành qua các thiên hà xa xôi, thiết lập bang giao với các chủng tộc ngoài hành tinh hoặc phát động các cuộc chiến tranh sao.",
+    "shortDescriptionVi": "Đại chiến lược 4X xây dựng đế chế thiên hà vĩ đại.",
+    "genresVi": [
+      "Chiến thuật",
+      "Khoa học viễn tưởng",
+      "Không gian",
+      "Quản lý"
+    ]
+  },
+  "282140": {
+    "id": 282140,
+    "name": "SOMA",
+    "descriptionVi": "Khám phá cơ sở nghiên cứu dưới đáy đại dương sâu thẳm, đối mặt với những cỗ máy nổi loạn và những câu hỏi triết học nhức nhối về ý thức và bản chất của con người.",
+    "shortDescriptionVi": "Kiệt tác kinh dị tâm lý khoa học viễn tưởng dưới đáy đại dương.",
+    "genresVi": [
+      "Kinh dị",
+      "Khoa học viễn tưởng",
+      "Phiêu lưu",
+      "Tâm lý"
+    ]
+  },
+  "285900": {
+    "id": 285900,
+    "name": "Gang Beasts",
+    "descriptionVi": "Game tiệc tùng đối kháng vật lý lầy lội với các nhân vật dẻo như kẹo cao su, cùng nhau ẩu đả và đẩy đối thủ vào các cạm bẫy nguy hiểm trong thành phố Beef City.",
+    "shortDescriptionVi": "Đối kháng vật lý hài hước cùng các nhân vật thạch dẻo.",
+    "genresVi": [
+      "Hành động",
+      "Vui nhộn",
+      "Nhiều người chơi",
+      "Tiệc tùng"
+    ]
+  },
+  "289070": {
+    "id": 289070,
+    "name": "Sid Meier’s Civilization® VI",
+    "descriptionVi": "Dẫn dắt một nền văn minh từ thời kỳ đồ đá đến thời đại vũ trụ, mở rộng bờ cõi, phát triển công nghệ và xây dựng các kỳ quan thế giới để giành chiến thắng tối cao.",
+    "shortDescriptionVi": "Đỉnh cao chiến thuật theo lượt 4X xây dựng đế chế trường tồn.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật theo lượt",
+      "Lịch sử",
+      "Quản lý"
+    ]
+  },
+  "292030": {
+    "id": 292030,
+    "name": "The Witcher® 3: Wild Hunt",
+    "descriptionVi": "Hóa thân thành thợ săn quái vật Geralt xứ Rivia, chu du qua vùng đất chiến tranh loạn lạc để tìm kiếm Ciri - đứa trẻ trong lời tiên tri đang bị Binh Đoàn Săn Hoang truy lùng.",
+    "shortDescriptionVi": "Tuyệt phẩm nhập vai thế giới mở đỉnh cao cùng thợ săn quỷ Geralt.",
+    "genresVi": [
+      "Nhập vai",
+      "Thế giới mở",
+      "Hành động",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "294100": {
+    "id": 294100,
+    "name": "RimWorld",
+    "descriptionVi": "Trình tạo cốt truyện khoa học viễn tưởng do AI dẫn dắt, quản lý một nhóm người sống sót sau vụ đắm tàu trên hành tinh biên giới với vô số biến cố ngẫu nhiên bất ngờ.",
+    "shortDescriptionVi": "Mô phỏng quản lý thuộc địa sinh tồn trên hành tinh xa xôi.",
+    "genresVi": [
+      "Chiến thuật",
+      "Mô phỏng",
+      "Sinh tồn",
+      "Xây dựng"
+    ]
+  },
+  "304430": {
+    "id": 304430,
+    "name": "INSIDE",
+    "descriptionVi": "Một cậu bé đơn độc bị săn đuổi nhận ra mình đang bị cuốn vào trung tâm của một dự án thí nghiệm đen tối kiểm soát tâm trí con người.",
+    "shortDescriptionVi": "Giải đố đi cảnh đen tối xuất sắc đầy bí ẩn ám ảnh.",
+    "genresVi": [
+      "Giải đố",
+      "Đi cảnh",
+      "Độc lập",
+      "Bầu không khí tăm tối"
+    ]
+  },
+  "306130": {
+    "id": 306130,
+    "name": "The Elder Scrolls® Online",
+    "descriptionVi": "Hòa mình vào đại lục Tamriel rộng lớn cùng hàng triệu người chơi khác, tự do phát triển nhân vật theo ý muốn và dấn thân vào những chuyến thám hiểm hầm ngục, chiến trường liên minh rực lửa.",
+    "shortDescriptionVi": "Trải nghiệm thế giới huyền thoại Tamriel cùng cộng đồng người chơi toàn cầu.",
+    "genresVi": [
+      "Nhập vai",
+      "Nhiều người chơi trực tuyến",
+      "Thế giới mở",
+      "Phiêu lưu"
+    ]
+  },
+  "310560": {
+    "id": 310560,
+    "name": "DiRT Rally",
+    "descriptionVi": "Tựa game đua xe việt dã khắc nghiệt và chân thực nhất, nơi người lái phải lắng nghe hướng dẫn của phụ xe và kiểm soát tay lái qua những cung đường sỏi đá hiểm trở.",
+    "shortDescriptionVi": "Đua xe việt dã rally mô phỏng chân thực và thử thách tột đỉnh.",
+    "genresVi": [
+      "Đua xe",
+      "Mô phỏng",
+      "Thể thao"
+    ]
+  },
+  "319510": {
+    "id": 319510,
+    "name": "Five Nights at Freddy's",
+    "descriptionVi": "Làm nhân viên bảo vệ ca đêm tại tiệm bánh pizza Freddy Fazbear, theo dõi camera an ninh và quản lý nguồn điện hạn hẹp để ngăn chặn những con rối máy nhảy bổ vào phòng trực.",
+    "shortDescriptionVi": "Tác phẩm kinh dị hù dọa kinh điển mở đầu cho đế chế FNAF.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Độc lập",
+      "Chiến thuật"
+    ]
+  },
+  "322330": {
+    "id": 322330,
+    "name": "Don't Starve Together",
+    "descriptionVi": "Cùng bạn bè bước vào thế giới hoang dã u tối kỳ lạ, thu thập tài nguyên, chế tạo công cụ và giữ cho ngọn lửa sáng để không bị bóng đêm nuốt chửng.",
+    "shortDescriptionVi": "Sinh tồn thế giới u tối kinh dị phong cách hoạt hình cùng bạn bè.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Phối hợp",
+      "Chế tạo"
+    ]
+  },
+  "323190": {
+    "id": 323190,
+    "name": "Frostpunk",
+    "descriptionVi": "Lãnh đạo thành phố cuối cùng của nhân loại giữa kỷ băng hà tận thế, vận hành máy phát nhiệt khổng lồ và đưa ra các quyết định đạo đức khắc nghiệt để bảo vệ cư dân.",
+    "shortDescriptionVi": "Sinh tồn xây dựng thành phố khắc nghiệt giữa kỷ băng hà tận thế.",
+    "genresVi": [
+      "Chiến thuật",
+      "Sinh tồn",
+      "Xây dựng thành phố",
+      "Quản lý"
+    ]
+  },
+  "335300": {
+    "id": 335300,
+    "name": "DARK SOULS™ II: Scholar of the First Sin",
+    "descriptionVi": "Hành trình tìm kiếm phương thuốc hóa giải lời nguyền Undead tại vương quốc sụp đổ Drangleic, đối đầu với những thử thách phục kích bất ngờ và những tên trùm ghê rợn.",
+    "shortDescriptionVi": "Phiên bản hoàn chỉnh của Dark Souls II với độ thử thách cao.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Độ khó cao"
+    ]
+  },
+  "363970": {
+    "id": 363970,
+    "name": "Clicker Heroes",
+    "descriptionVi": "Nhấp chuột liên hồi để tiêu diệt từng đợt quái vật, thu thập tiền vàng và chiêu mộ những vị anh hùng kỳ lạ để tự động nâng cấp sát thương lên con số khổng lồ.",
+    "shortDescriptionVi": "Trò chơi nhấp chuột giải trí bất tận với dàn anh hùng thú vị.",
+    "genresVi": [
+      "Giải trí nhẹ nhàng",
+      "Độc lập",
+      "Nhập vai",
+      "Chơi miễn phí"
+    ]
+  },
+  "367520": {
+    "id": 367520,
+    "name": "Hollow Knight",
+    "descriptionVi": "Kiệt tác Metroidvania 2D đưa bạn vào vai hiệp sĩ tí hon khám phá vương quốc côn trùng Hallownest suy tàn, mở khóa kỹ năng và đối đầu những con trùm sử thi.",
+    "shortDescriptionVi": "Kiệt tác Metroidvania 2D phiêu lưu khám phá vương quốc côn trùng.",
+    "genresVi": [
+      "Metroidvania",
+      "Hành động",
+      "Phiêu lưu",
+      "Độc lập"
+    ]
+  },
+  "368370": {
+    "id": 368370,
+    "name": "Her Story",
+    "descriptionVi": "Tìm kiếm các đoạn băng thẩm vấn người phụ nữ qua từ khóa trên máy tính cảnh sát cổ điển, ráp nối từng lời khai để khám phá sự thật chấn động đằng sau một vụ án giết người.",
+    "shortDescriptionVi": "Phim tương tác trinh thám phá án qua kho video thẩm vấn chân thực.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Trinh thám",
+      "Giải đố",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "373390": {
+    "id": 373390,
+    "name": "Contradiction: Spot The Liar",
+    "descriptionVi": "Đóng vai thanh tra Jenks phỏng vấn các cư dân trong ngôi làng bí ẩn, tìm ra những mâu thuẫn trong lời khai của từng người để vạch mặt kẻ giết người dối trá.",
+    "shortDescriptionVi": "Game trinh thám video kinh điển so sánh lời khai tìm mâu thuẫn phá án.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Trinh thám",
+      "Phá án",
+      "Giải đố"
+    ]
+  },
+  "374320": {
+    "id": 374320,
+    "name": "DARK SOULS™ III",
+    "descriptionVi": "Khám phá vương quốc Lothric suy tàn, đối đầu những con trùm huyền thoại trong một trải nghiệm chiến đấu thử thách cao độ đặc trưng của dòng game Souls.",
+    "shortDescriptionVi": "Tuyệt phẩm nhập vai hành động tăm tối thử thách tột cùng.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Độ khó cao"
+    ]
+  },
+  "376210": {
+    "id": 376210,
+    "name": "The Isle",
+    "descriptionVi": "Trải nghiệm sinh tồn thế giới mở nơi bạn hóa thân thành các loài khủng long săn mồi hoặc ăn cỏ, tìm kiếm thức ăn, nước uống và bảo vệ đàn trước những kẻ săn mồi khác.",
+    "shortDescriptionVi": "Sinh tồn thế giới mở trong lốt các loài khủng long tiền sử.",
+    "genresVi": [
+      "Sinh tồn",
+      "Mô phỏng",
+      "Nhiều người chơi",
+      "Thế giới mở"
+    ]
+  },
+  "377160": {
+    "id": 377160,
+    "name": "Fallout 4",
+    "descriptionVi": "Kẻ sống sót duy nhất của Hầm trú ẩn 111 bước ra vùng đất hoang tàn Boston sau chiến tranh hạt nhân, tìm kiếm đứa con trai bị bắt cóc và tự tay xây dựng lại các khu định cư.",
+    "shortDescriptionVi": "Khám phá và xây dựng thế giới hoang tàn hậu hạt nhân Boston.",
+    "genresVi": [
+      "Nhập vai",
+      "Hậu tận thế",
+      "Thế giới mở",
+      "Chế tạo"
+    ]
+  },
+  "379430": {
+    "id": 379430,
+    "name": "Kingdom Come: Deliverance",
+    "descriptionVi": "Trải nghiệm nhập vai lịch sử trung cổ chân thực tại vương quốc Bohemia, theo chân Henry - con trai người thợ rèn báo thù cho gia đình giữa cuộc nội chiến tàn khốc.",
+    "shortDescriptionVi": "Nhập vai lịch sử trung cổ chân thực đến từng đòn kiếm.",
+    "genresVi": [
+      "Nhập vai",
+      "Lịch sử",
+      "Thế giới mở",
+      "Góc nhìn thứ nhất"
+    ]
+  },
+  "380600": {
+    "id": 380600,
+    "name": "Fishing Planet",
+    "descriptionVi": "Trò chơi mô phỏng câu cá trực tuyến góc nhìn thứ nhất cực kỳ chân thực, mang lại trải nghiệm câu cá ngoài đời thực với hàng trăm loài cá và địa điểm sông hồ.",
+    "shortDescriptionVi": "Mô phỏng câu cá thể thao chân thực góc nhìn thứ nhất miễn phí.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Câu cá",
+      "Chơi miễn phí"
+    ]
+  },
+  "381210": {
+    "id": 381210,
+    "name": "Dead by Daylight",
+    "descriptionVi": "Trận chiến sinh tồn bất đối xứng 4 chọi 1, nơi bốn người sống sót phải phối hợp sửa máy phát điện để trốn thoát khỏi tên sát nhân tàn bạo đang lùng sục khắp màn đêm.",
+    "shortDescriptionVi": "Game kinh dị sinh tồn đối kháng bất đối xứng 4v1 nổi tiếng.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Nhiều người chơi",
+      "Đối kháng trực tuyến"
+    ]
+  },
+  "383870": {
+    "id": 383870,
+    "name": "Firewatch",
+    "descriptionVi": "Vào vai nhân viên kiểm lâm Henry cô độc giữa rừng rậm hoang dã Wyoming năm 1989, chỉ có chiếc bộ đàm kết nối với người giám sát Delilah khi những điều kỳ lạ bắt đầu xảy ra.",
+    "shortDescriptionVi": "Bí ẩn rừng hoang dã đầy cảm xúc qua những cuộc trò chuyện bộ đàm.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc",
+      "Bí ẩn",
+      "Độc lập"
+    ]
+  },
+  "386940": {
+    "id": 386940,
+    "name": "Ultimate Chicken Horse",
+    "descriptionVi": "Tự tay đặt cạm bẫy gai góc và chướng ngại vật rồi cùng bạn bè thi chạy về đích, biến mỗi vòng đấu thành cuộc cạnh tranh cười vỡ bụng.",
+    "shortDescriptionVi": "Game đi cảnh tự đặt bẫy hại bạn hài hước không đối thủ.",
+    "genresVi": [
+      "Đi cảnh",
+      "Vui nhộn",
+      "Nhiều người chơi",
+      "Tiệc tùng"
+    ]
+  },
+  "394360": {
+    "id": 394360,
+    "name": "Hearts of Iron IV",
+    "descriptionVi": "Nắm quyền chỉ huy quân sự và sản xuất công nghiệp của bất kỳ quốc gia nào trong Thế chiến II, điều động sư đoàn và hoạch định các chiến dịch quân sự toàn cầu.",
+    "shortDescriptionVi": "Đại chiến lược Thế chiến II đỉnh cao chỉ huy quân sự và kinh tế.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến lược quân sự",
+      "Lịch sử",
+      "Mô phỏng"
+    ]
+  },
+  "397950": {
+    "id": 397950,
+    "name": "Clustertruck",
+    "descriptionVi": "Chạy nhảy theo phong cách parkour trên nóc của hàng chục chiếc xe tải đang lao điên cuồng và đâm vào nhau trên sàn đấu lửa địa ngục.",
+    "shortDescriptionVi": "Parkour nhảy nóc xe tải điên cuồng góc nhìn thứ nhất.",
+    "genresVi": [
+      "Hành động",
+      "Đi cảnh",
+      "Vật lý",
+      "Độc lập"
+    ]
+  },
+  "400910": {
+    "id": 400910,
+    "name": "The Signal From Tölva",
+    "descriptionVi": "Game bắn súng góc nhìn thứ nhất khoa học viễn tưởng, nơi bạn điều khiển robot trinh sát khám phá bề mặt hành tinh hoang tàn Tölva và giải mã tín hiệu bí ẩn.",
+    "shortDescriptionVi": "Bắn súng khám phá hành tinh bí ẩn góc nhìn thứ nhất.",
+    "genresVi": [
+      "Hành động",
+      "Bắn súng góc nhìn thứ nhất",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "402330": {
+    "id": 402330,
+    "name": "Press X to Not Die",
+    "descriptionVi": "Thức dậy giữa thị trấn bỗng chốc phát điên khi người dân lao vào tấn công lẫn nhau, bạn phải nhanh tay nhấn các phím bấm tương tác để sống sót qua bộ phim hành động hài hước.",
+    "shortDescriptionVi": "Phim hành động tương tác vui nhộn với chuỗi phản xạ phím bấm tức thì.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hành động",
+      "Hài hước",
+      "Giải trí nhẹ nhàng"
+    ]
+  },
+  "404540": {
+    "id": 404540,
+    "name": "Candleman: The Complete Journey",
+    "descriptionVi": "Điều khiển một ngọn nến nhỏ chỉ có thể cháy sáng trong 10 giây, tìm đường qua những màn đêm u tối và vượt qua các thử thách giải đố ánh sáng đầy chất thơ.",
+    "shortDescriptionVi": "Giải đố ánh sáng đầy chất thơ cùng chú nến dũng cảm.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Giải đố",
+      "Đi cảnh",
+      "Độc lập"
+    ]
+  },
+  "413150": {
+    "id": 413150,
+    "name": "Stardew Valley",
+    "descriptionVi": "Thừa kế trang trại cũ của người ông tại Pelican Town, dọn dẹp ruộng đồng, trồng trọt chăn nuôi, kết bạn và dựng xây cuộc sống hạnh phúc giữa thung lũng thanh bình.",
+    "shortDescriptionVi": "Tuyệt phẩm nông trại ấm cúng thanh bình được yêu thích nhất thế giới.",
+    "genresVi": [
+      "Mô phỏng",
+      "Nông trại",
+      "Nhập vai",
+      "Độc lập"
+    ]
+  },
+  "414700": {
+    "id": 414700,
+    "name": "Outlast 2",
+    "descriptionVi": "Dấn thân vào vùng hoang vu hẻo lánh của sa mạc Arizona để điều tra vụ án mạng bí ẩn, đối đầu với một giáo phái cuồng tín tin rằng ngày tận thế đã cận kề.",
+    "shortDescriptionVi": "Chuyến trốn chạy kinh hoàng giữa giáo phái cuồng tín nơi hoang mạc.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ nhất",
+      "Lén lút"
+    ]
+  },
+  "418240": {
+    "id": 418240,
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "descriptionVi": "Điều khiển nhóm 5 nhẫn giả và sát thủ tinh nhuệ phối hợp kỹ năng ám sát lén lút trong bóng tối để bảo vệ Shogun thời kỳ Edo Nhật Bản.",
+    "shortDescriptionVi": "Chiến thuật lén lút đỉnh cao thời kỳ Edo Nhật Bản cùng 5 nhẫn giả.",
+    "genresVi": [
+      "Chiến thuật",
+      "Lén lút",
+      "Thời gian thực"
+    ]
+  },
+  "418370": {
+    "id": 418370,
+    "name": "Resident Evil 7 Biohazard",
+    "descriptionVi": "Trải nghiệm nỗi sợ hãi tột cùng dưới góc nhìn thứ nhất khi bước vào trang viên đổ nát của gia đình Baker quái dị để tìm kiếm người vợ mất tích.",
+    "shortDescriptionVi": "Khởi đầu mới đầy kinh hoàng cho dòng game kinh dị sinh tồn kinh điển.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ nhất",
+      "Phiêu lưu"
+    ]
+  },
+  "424840": {
+    "id": 424840,
+    "name": "Little Nightmares",
+    "descriptionVi": "Giúp cô bé Six nhỏ bé trốn thoát khỏi The Maw - con tàu ngầm khổng lồ chứa đầy những linh hồn sa đọa đang thèm khát những bữa ăn ghê rợn.",
+    "shortDescriptionVi": "Hành trình trốn chạy u tối của cô bé Six khỏi con tàu quái dị.",
+    "genresVi": [
+      "Kinh dị",
+      "Giải đố",
+      "Đi cảnh",
+      "Độc lập"
+    ]
+  },
+  "427520": {
+    "id": 427520,
+    "name": "Factorio",
+    "descriptionVi": "Xây dựng và tự động hóa các dây chuyền nhà máy công nghiệp khổng lồ trên hành tinh lạ, từ khai thác quặng, lắp ráp máy móc đến chế tạo tên lửa không gian.",
+    "shortDescriptionVi": "Tự động hóa nhà máy công nghiệp đỉnh cao gây nghiện không lối thoát.",
+    "genresVi": [
+      "Chiến thuật",
+      "Tự động hóa",
+      "Mô phỏng",
+      "Chế tạo"
+    ]
+  },
+  "433340": {
+    "id": 433340,
+    "name": "Slime Rancher",
+    "descriptionVi": "Khám phá Vùng Đất Xa Xôi cùng Beatrix LeBeau, sử dụng súng hút chân không Vacpack để nuôi dưỡng những chú slime tròn xoe đáng yêu và làm giàu từ tinh thể plort.",
+    "shortDescriptionVi": "Nuôi slime tròn xoe dễ thương và khám phá hành tinh rực rỡ.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Mô phỏng",
+      "Dễ thương",
+      "Góc nhìn thứ nhất"
+    ]
+  },
+  "435150": {
+    "id": 435150,
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "descriptionVi": "Tuyệt tác nhập vai chiến thuật theo lượt cổ điển, tự do kết hợp các nguyên tố lửa nước băng độc và viết nên câu chuyện trở thành vị thần mới của cõi Rivellon.",
+    "shortDescriptionVi": "Đỉnh cao nhập vai chiến thuật theo lượt tự do sáng tạo.",
+    "genresVi": [
+      "Nhập vai",
+      "Chiến thuật theo lượt",
+      "Phối hợp",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "448510": {
+    "id": 448510,
+    "name": "Overcooked! 2",
+    "descriptionVi": "Trở lại Vương quốc Hành tây hỗn loạn, cùng bạn bè phối hợp chuẩn bị nguyên liệu, nấu nướng và phục vụ món ăn qua những căn bếp điên rồ đầy cạm bẫy chuyển động.",
+    "shortDescriptionVi": "Nấu ăn phối hợp hỗn loạn và thử thách tình bạn đỉnh cao.",
+    "genresVi": [
+      "Vui nhộn",
+      "Phối hợp",
+      "Nấu ăn",
+      "Tiệc tùng"
+    ]
+  },
+  "460920": {
+    "id": 460920,
+    "name": "Steep™",
+    "descriptionVi": "Thỏa sức trượt tuyết, dù lượn và bay lượn bằng bộ đồ wingsuit qua những rặng núi tuyết hùng vĩ của dãy Alps trong một thế giới mở thể thao mạo hiểm tự do.",
+    "shortDescriptionVi": "Thể thao mạo hiểm trượt tuyết thế giới mở trên dãy Alps.",
+    "genresVi": [
+      "Thể thao",
+      "Thế giới mở",
+      "Phiêu lưu"
+    ]
+  },
+  "466560": {
+    "id": 466560,
+    "name": "Northgard",
+    "descriptionVi": "Dẫn dắt bộ tộc người Viking khám phá và định cư tại lục địa mới Northgard, chinh phục vùng đất hoang dã trước mùa đông băng giá và quái vật thần thoại Bắc Âu.",
+    "shortDescriptionVi": "Chiến thuật bộ tộc người Viking chinh phục lục địa mới bí ẩn.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Thần thoại",
+      "Bắc Âu"
+    ]
+  },
+  "477160": {
+    "id": 477160,
+    "name": "Human Fall Flat",
+    "descriptionVi": "Trò chơi giải đố vật lý hài hước với các nhân vật vụng về như cao su, thử thách bạn và bạn bè vượt qua các thế giới kỳ lạ bằng những pha leo trèo ngộ nghĩnh.",
+    "shortDescriptionVi": "Giải đố vật lý lầy lội cùng các nhân vật người cao su.",
+    "genresVi": [
+      "Vui nhộn",
+      "Giải đố",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "481110": {
+    "id": 481110,
+    "name": "The Bunker",
+    "descriptionVi": "Người sống sót duy nhất trong boongke hạt nhân ngầm John bắt đầu gặp phải các sự cố đe dọa sự an toàn, buộc anh phải đối diện với nỗi sợ hãi tột cùng để tìm đường lên mặt đất.",
+    "shortDescriptionVi": "Phim tương tác kinh dị tâm lý trong boongke trú ẩn hậu hạt nhân u ám.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Kinh dị",
+      "Tâm lý",
+      "Hậu tận thế"
+    ]
+  },
+  "489830": {
+    "id": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "descriptionVi": "Trở thành Dragonborn sở hữu tiếng gầm của loài rồng, tự do định đoạt số phận của toàn bộ vùng đất băng tuyết Skyrim huyền thoại với hàng trăm nhiệm vụ kỳ thú.",
+    "shortDescriptionVi": "Huyền thoại nhập vai thế giới mở tự do không giới hạn.",
+    "genresVi": [
+      "Nhập vai",
+      "Thế giới mở",
+      "Giả tưởng",
+      "Phiêu lưu"
+    ]
+  },
+  "493340": {
+    "id": 493340,
+    "name": "Planet Coaster",
+    "descriptionVi": "Thỏa sức sáng tạo công viên giải trí trong mơ, tự tay uốn lượn từng khúc cua của tàu lượn siêu tốc và mang lại niềm vui cho hàng ngàn du khách ghé thăm.",
+    "shortDescriptionVi": "Thiết kế và quản lý công viên tàu lượn siêu tốc kỳ vĩ.",
+    "genresVi": [
+      "Mô phỏng",
+      "Xây dựng",
+      "Quản lý"
+    ]
+  },
+  "504230": {
+    "id": 504230,
+    "name": "Celeste",
+    "descriptionVi": "Giúp cô gái Madeline vượt qua những bất an trong tâm hồn và chinh phục đỉnh núi Celeste hiểm trở qua hàng trăm thử thách nhảy né cạm bẫy chuẩn xác từng pixel.",
+    "shortDescriptionVi": "Kiệt tác đi cảnh chính xác chinh phục đỉnh núi và nội tâm con người.",
+    "genresVi": [
+      "Đi cảnh",
+      "Độ khó cao",
+      "Cốt truyện sâu sắc",
+      "Độc lập"
+    ]
+  },
+  "517710": {
+    "id": 517710,
+    "name": "Redout: Enhanced Edition",
+    "descriptionVi": "Đua phi thuyền phản trọng lực tương lai với tốc độ chóng mặt hơn 800 km/h, kế thừa tinh hoa của các huyền thoại F-Zero và Wipeout.",
+    "shortDescriptionVi": "Đua phi thuyền phản trọng lực tương lai tốc độ xé gió nghẹt thở.",
+    "genresVi": [
+      "Đua xe",
+      "Khoa học viễn tưởng",
+      "Tốc độ cao"
+    ]
+  },
+  "518790": {
+    "id": 518790,
+    "name": "theHunter: Call of the Wild™",
+    "descriptionVi": "Trải nghiệm săn bắn hoang dã chân thực nhất giữa các khu bảo tồn thiên nhiên rộng lớn, lần theo dấu chân, tiếng kêu và hướng gió để tiếp cận con mồi.",
+    "shortDescriptionVi": "Mô phỏng săn bắn hoang dã chân thực giữa thiên nhiên hùng vĩ.",
+    "genresVi": [
+      "Mô phỏng",
+      "Săn bắn",
+      "Thế giới mở"
+    ]
+  },
+  "524220": {
+    "id": 524220,
+    "name": "NieR:Automata™",
+    "descriptionVi": "Câu chuyện triết học sâu sắc về cuộc chiến giữa người máy android 2B, 9S và đội quân máy móc ngoài hành tinh trên Trái Đất hoang tàn, kết hợp hành động chặt chém và âm nhạc mê hoặc.",
+    "shortDescriptionVi": "Kiệt tác chặt chém triết học đầy cảm xúc cùng người máy 2B.",
+    "genresVi": [
+      "Hành động",
+      "Nhập vai",
+      "Chặt chém",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "526870": {
+    "id": 526870,
+    "name": "Satisfactory",
+    "descriptionVi": "Xây dựng và tự động hóa những tổ hợp nhà máy khổng lồ dưới góc nhìn thứ nhất trên hành tinh người ngoài hành tinh xinh đẹp cùng bạn bè.",
+    "shortDescriptionVi": "Xây dựng nhà máy tự động hóa góc nhìn thứ nhất cực kỳ quy mô.",
+    "genresVi": [
+      "Mô phỏng",
+      "Tự động hóa",
+      "Góc nhìn thứ nhất",
+      "Chế tạo"
+    ]
+  },
+  "529340": {
+    "id": 529340,
+    "name": "Victoria 3",
+    "descriptionVi": "Mô phỏng kinh tế xã hội và chính trị sâu sắc trong thế kỷ 19 đầy biến động của cuộc Cách mạng Công nghiệp, kiến tạo xã hội lý tưởng theo đường lối của bạn.",
+    "shortDescriptionVi": "Mô phỏng kinh tế chính trị thời kỳ Cách mạng Công nghiệp thế kỷ 19.",
+    "genresVi": [
+      "Chiến thuật",
+      "Kinh tế",
+      "Lịch sử",
+      "Mô phỏng"
+    ]
+  },
+  "535930": {
+    "id": 535930,
+    "name": "Two Point Hospital",
+    "descriptionVi": "Thiết kế và điều hành những bệnh viện kỳ lạ, chữa trị các căn bệnh quái chiêu như Đầu Bóng Đèn hay Bệnh Xương Báo Mộng bằng các cỗ máy y tế hài hước.",
+    "shortDescriptionVi": "Mô phỏng quản lý bệnh viện vui nhộn với những căn bệnh kỳ dị.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Hài hước"
+    ]
+  },
+  "545540": {
+    "id": 545540,
+    "name": "The Infectious Madness of Doctor Dekker",
+    "descriptionVi": "Đóng vai bác sĩ tâm thần tiếp quản phòng khám của cố Tiến sĩ Dekker, điều trị cho những bệnh nhân kỳ quặc và tự mình gõ câu hỏi để tìm kiếm manh mối về cái chết của người tiền nhiệm.",
+    "shortDescriptionVi": "Trinh thám tâm lý tương tác độc đáo cho phép người chơi gõ câu hỏi tự do.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Tâm lý",
+      "Bí ẩn",
+      "Trinh thám"
+    ]
+  },
+  "550320": {
+    "id": 550320,
+    "name": "art of rally",
+    "descriptionVi": "Tôn vinh kỷ nguyên vàng của môn đua xe việt dã thập niên 60-80 với góc nhìn từ trên xuống tuyệt đẹp, trôi bánh qua những cánh đồng hoa rực rỡ và đồi tuyết.",
+    "shortDescriptionVi": "Đua xe việt dã phong cách nghệ thuật tối giản đẹp mê hồn.",
+    "genresVi": [
+      "Đua xe",
+      "Phong cách nghệ thuật",
+      "Thư giãn",
+      "Độc lập"
+    ]
+  },
+  "553420": {
+    "id": 553420,
+    "name": "TUNIC",
+    "descriptionVi": "Khám phá vùng đất đổ nát cùng một chú cáo nhỏ, thu thập từng trang sổ tay hướng dẫn cổ xưa và chiến đấu với những quái thú huyền thoại.",
+    "shortDescriptionVi": "Phiêu lưu giải mã bí mật cổ xưa cùng chú cáo dũng cảm.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hành động",
+      "Giải đố",
+      "Độc lập"
+    ]
+  },
+  "553850": {
+    "id": 553850,
+    "name": "HELLDIVERS™ 2",
+    "descriptionVi": "Tựa game bắn súng góc nhìn thứ ba phối hợp 4 người, nơi bạn gia nhập lực lượng Helldivers để bảo vệ nền dân chủ tự do trước làn sóng bọ hung tợn và robot ngoài hành tinh.",
+    "shortDescriptionVi": "Bắn súng phối hợp 4 người chiến đấu vì tự do ngân hà.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ ba",
+      "Hành động",
+      "Phối hợp",
+      "Nhiều người chơi"
+    ]
+  },
+  "555220": {
+    "id": 555220,
+    "name": "Detention",
+    "descriptionVi": "Khai thác bối cảnh Đài Loan những năm 1960 dưới thời thiết quân luật kết hợp tôn giáo Á Đông, kể câu chuyện đau thương của những học sinh bị mắc kẹt trong ngôi trường ma ám Greenwood.",
+    "shortDescriptionVi": "Kinh dị tâm lý Á Đông sâu sắc trong bối cảnh lịch sử thời thiết quân luật.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "570940": {
+    "id": 570940,
+    "name": "DARK SOULS™: REMASTERED",
+    "descriptionVi": "Trở lại vùng đất Lordran huyền thoại trong bản nâng cấp đồ họa sắc nét, thắp sáng những ngọn lửa tàn và vượt qua những thử thách khắc nghiệt khởi nguồn dòng game Souls.",
+    "shortDescriptionVi": "Bản nâng cấp huyền thoại của tựa game Souls khai sinh thể loại.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Độ khó cao",
+      "Cổ điển"
+    ]
+  },
+  "571740": {
+    "id": 571740,
+    "name": "Golf It!",
+    "descriptionVi": "Chơi golf mini nhiều người chơi với các sân golf sáng tạo, đường dốc uốn lượn và chướng ngại vật đầy cạm bẫy thách thức kỹ năng gạt bóng của bạn.",
+    "shortDescriptionVi": "Chơi golf mini vui nhộn cùng bạn bè qua các sân đấu kỳ ảo.",
+    "genresVi": [
+      "Thể thao",
+      "Vui nhộn",
+      "Nhiều người chơi"
+    ]
+  },
+  "582010": {
+    "id": 582010,
+    "name": "Monster Hunter: World",
+    "descriptionVi": "Khám phá vùng đất mới và săn lùng những sinh vật khổng lồ, thu thập nguyên liệu để chế tạo vũ khí giáp trụ mạnh mẽ trong những chuyến đi săn solo hoặc phối hợp tổ đội.",
+    "shortDescriptionVi": "Trải nghiệm săn quái vật khổng lồ trong thế giới sống động.",
+    "genresVi": [
+      "Hành động",
+      "Nhập vai",
+      "Phối hợp",
+      "Thế giới mở"
+    ]
+  },
+  "582660": {
+    "id": 582660,
+    "name": "Black Desert",
+    "descriptionVi": "MMORPG thế giới mở tuyệt đẹp sở hữu hệ thống chiến đấu hành động dồn dập, công thành chiến nghẹt thở cùng chuỗi hoạt động kinh tế sâu rộng từ câu cá, buôn bán đến chế tác và rèn luyện kỹ nghệ.",
+    "shortDescriptionVi": "MMORPG thế giới mở đồ họa đỉnh cao với chiến đấu hành động rực lửa.",
+    "genresVi": [
+      "Nhập vai",
+      "Nhiều người chơi trực tuyến",
+      "Thế giới mở",
+      "Hành động"
+    ]
+  },
+  "584980": {
+    "id": 584980,
+    "name": "Late Shift",
+    "descriptionVi": "Một sinh viên toán học bị ép tham gia vào vụ cướp nhà đấu giá táo tợn tại London, nơi mỗi quyết định lựa chọn trong tích tắc sẽ dẫn tới một trong bảy cái kết hoàn toàn khác biệt.",
+    "shortDescriptionVi": "Phim hành động tội phạm tương tác kịch tính với nhiều nhánh kết cục.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Tội phạm",
+      "Giật gân",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "594330": {
+    "id": 594330,
+    "name": "Visage",
+    "descriptionVi": "Khám phá ngôi nhà ma quái không ngừng biến đổi cấu trúc, lật mở những bi kịch đen tối của các gia đình từng sinh sống tại đây qua lối chơi kinh dị tâm lý căng thẳng.",
+    "shortDescriptionVi": "Trải nghiệm kinh dị tâm lý rùng rợn trong ngôi nhà bị nguyền rủa.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Phiêu lưu",
+      "Độc lập"
+    ]
+  },
+  "594570": {
+    "id": 594570,
+    "name": "Total War: WARHAMMER II",
+    "descriptionVi": "Tham gia cuộc chiến tranh giành quyền kiểm soát Vòng Xoáy Vĩ Đại tại Tân Thế Giới, chỉ huy bốn chủng tộc hùng mạnh High Elves, Dark Elves, Lizardmen và Skaven.",
+    "shortDescriptionVi": "Chiến thuật đại chiến giả tưởng quy mô lớn tại Tân Thế Giới.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Giả tưởng"
+    ]
+  },
+  "601150": {
+    "id": 601150,
+    "name": "Devil May Cry 5",
+    "descriptionVi": "Siêu phẩm chặt chém đỉnh cao đưa người chơi điều khiển ba thợ săn quỷ Dante, Nero và V thi triển những chuỗi combo kiếm thuật và súng đạn mãn nhãn bậc nhất.",
+    "shortDescriptionVi": "Hành động chặt chém tốc độ cao phong cách sành điệu.",
+    "genresVi": [
+      "Hành động",
+      "Chặt chém",
+      "Phiêu lưu"
+    ]
+  },
+  "601430": {
+    "id": 601430,
+    "name": "The Evil Within 2",
+    "descriptionVi": "Thám tử Sebastian bước vào thế giới mô phỏng STEM một lần nữa để cứu cô con gái Lily, tự do lựa chọn lối chơi lén lút hay đối đầu trực diện với những hiểm họa kinh hoàng.",
+    "shortDescriptionVi": "Hành trình cứu con gái đầy xúc động và ám ảnh trong thế giới ác mộng.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba"
+    ]
+  },
+  "602320": {
+    "id": 602320,
+    "name": "Train Valley 2",
+    "descriptionVi": "Xây dựng mạng lưới đường sắt phức tạp trong cuộc cách mạng công nghiệp, điều phối các đoàn tàu chở hàng hóa nguyên liệu đến nhà máy mà không xảy ra va chạm.",
+    "shortDescriptionVi": "Mô phỏng giải đố điều phối đường sắt công nghiệp vui nhộn.",
+    "genresVi": [
+      "Chiến thuật",
+      "Giải đố",
+      "Mô phỏng",
+      "Tàu hỏa"
+    ]
+  },
+  "613100": {
+    "id": 613100,
+    "name": "House Flipper",
+    "descriptionVi": "Mua lại những ngôi nhà cũ nát, đập phá tường mục, dọn rác, sơn sửa và trang trí nội thất rồi bán lại với mức giá hời để trở thành ông trùm bất động sản.",
+    "shortDescriptionVi": "Mô phỏng sửa sang và tân trang nhà cửa cực kỳ thỏa mãn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Xây dựng",
+      "Thiết kế"
+    ]
+  },
+  "618290": {
+    "id": 618290,
+    "name": "Desperados III",
+    "descriptionVi": "Tựa game chiến thuật lén lút thời gian thực lấy bối cảnh miền Viễn Tây hoang dã, điều khiển nhóm tay súng của John Cooper vượt qua hàng rào kẻ thù bằng mưu mẹo tinh vi.",
+    "shortDescriptionVi": "Chiến thuật lén lút miền Viễn Tây cùng tay súng John Cooper.",
+    "genresVi": [
+      "Chiến thuật",
+      "Lén lút",
+      "Viễn Tây"
+    ]
+  },
+  "635260": {
+    "id": 635260,
+    "name": "CarX Drift Racing Online",
+    "descriptionVi": "Thỏa mãn đam mê drift xe ô tô cùng bạn bè trên các đường đua chuyên dụng, tinh chỉnh góc đặt bánh xe, độ nhạy phanh tay và tạo nên những làn khói lốp mù mịt.",
+    "shortDescriptionVi": "Đua xe drift trực tuyến chân thực và thỏa mãn đam mê trượt bánh.",
+    "genresVi": [
+      "Đua xe",
+      "Drift",
+      "Mô phỏng",
+      "Nhiều người chơi"
+    ]
+  },
+  "639280": {
+    "id": 639280,
+    "name": "Horizon Chase Turbo",
+    "descriptionVi": "Tựa game đua xe arcade lấy cảm hứng từ các siêu phẩm thập niên 90 như Out Run và Top Gear, phóng nhanh xé gió qua các chân trời hoàng hôn rực rỡ.",
+    "shortDescriptionVi": "Đua xe arcade hoài cổ phong cách Top Gear thập niên 90 vui nhộn.",
+    "genresVi": [
+      "Đua xe",
+      "Arcade",
+      "Cổ điển",
+      "Độc lập"
+    ]
+  },
+  "643620": {
+    "id": 643620,
+    "name": "Night Trap - 25th Anniversary Edition",
+    "descriptionVi": "Giám sát hệ thống camera an ninh và kích hoạt cạm bẫy kịp thời trong ngôi nhà để bảo vệ nhóm nữ sinh trước sự tấn công của những sinh vật ma cà rồng kỳ quái.",
+    "shortDescriptionVi": "Tác phẩm FMV kinh điển bảo vệ căn nhà qua hệ thống bẫy và camera an ninh.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Cổ điển",
+      "Chiến thuật",
+      "Giám sát"
+    ]
+  },
+  "646570": {
+    "id": 646570,
+    "name": "Slay the Spire",
+    "descriptionVi": "Tựa game xây dựng bộ bài roguelike chuẩn mực, kết hợp các lá bài tấn công phòng thủ và thánh vật cổ xưa để chinh phục ngọn tháp Spire luôn biến đổi kỳ bí.",
+    "shortDescriptionVi": "Game thẻ bài roguelike đỉnh cao gây nghiện bậc nhất.",
+    "genresVi": [
+      "Chiến thuật",
+      "Thẻ bài",
+      "Roguelike",
+      "Độc lập"
+    ]
+  },
+  "648580": {
+    "id": 648580,
+    "name": "428: Shibuya Scramble",
+    "descriptionVi": "Vụ bắt cóc tại giao lộ Shibuya sầm uất đan kết số phận của năm con người xa lạ lại với nhau, đòi hỏi bạn phải điều phối hành động của từng người để tránh những kết cục bi thảm.",
+    "shortDescriptionVi": "Tuyệt tác tiểu thuyết hình ảnh người đóng với cốt truyện giao thoa ly kỳ.",
+    "genresVi": [
+      "Tiểu thuyết trực quan",
+      "Trinh thám",
+      "Bí ẩn",
+      "Cốt truyện phân nhánh"
+    ]
+  },
+  "648800": {
+    "id": 648800,
+    "name": "Raft",
+    "descriptionVi": "Mắc kẹt trên một chiếc bè gỗ nhỏ giữa đại dương mênh mông, dùng móc kéo rác nổi để mở rộng bè, chế tạo công cụ và phòng thủ trước cá mập đói khát.",
+    "shortDescriptionVi": "Sinh tồn trên bè gỗ trôi dạt giữa đại dương bao la cùng bạn bè.",
+    "genresVi": [
+      "Sinh tồn",
+      "Phiêu lưu",
+      "Phối hợp",
+      "Chế tạo"
+    ]
+  },
+  "674940": {
+    "id": 674940,
+    "name": "Stick Fight: The Game",
+    "descriptionVi": "Đối kháng vật lý người que 4 người chơi với nhịp độ điên cuồng, sử dụng súng lục, bazooka hay kiếm laser để tiêu diệt bạn bè trên các sàn đấu sụp đổ.",
+    "shortDescriptionVi": "Đối kháng vật lý người que hỗn loạn và xả stress cực mạnh.",
+    "genresVi": [
+      "Hành động",
+      "Vật lý",
+      "Nhiều người chơi",
+      "Vui nhộn"
+    ]
+  },
+  "681280": {
+    "id": 681280,
+    "name": "Descenders",
+    "descriptionVi": "Đua xe đạp leo núi đổ đèo tốc độ cao trên các sườn đồi hiểm trở được tạo ngẫu nhiên, thực hiện những cú nhào lộn kỹ thuật và kiểm soát thăng bằng chuẩn xác.",
+    "shortDescriptionVi": "Đua xe đạp đổ đèo mạo hiểm nghẹt thở với vật lý chân thực.",
+    "genresVi": [
+      "Thể thao",
+      "Đua xe",
+      "Xe đạp",
+      "Độc lập"
+    ]
+  },
+  "690790": {
+    "id": 690790,
+    "name": "DiRT Rally 2.0",
+    "descriptionVi": "Lái xe việt dã băng qua những cung đường sỏi đá hiểm trở của New Zealand, Argentina và Tây Ban Nha, chỉ cần một sơ suất nhỏ là chiếc xe sẽ lật văng khỏi đường đua.",
+    "shortDescriptionVi": "Đua xe việt dã đỉnh cao thử thách lòng can đảm và kỹ năng lái xe.",
+    "genresVi": [
+      "Đua xe",
+      "Mô phỏng",
+      "Thể thao"
+    ]
+  },
+  "698670": {
+    "id": 698670,
+    "name": "Scorn",
+    "descriptionVi": "Bước chân vào thế giới cơ sinh học kỳ dị lấy cảm hứng từ phong cách nghệ thuật của H.R. Giger, khám phá các mê cung xương thịt và giải những câu đố máy móc bí ẩn.",
+    "shortDescriptionVi": "Kinh dị góc nhìn thứ nhất khám phá thế giới cơ sinh học siêu thực kỳ quái.",
+    "genresVi": [
+      "Kinh dị",
+      "Bắn súng góc nhìn thứ nhất",
+      "Giải đố",
+      "Khám phá"
+    ]
+  },
+  "703080": {
+    "id": 703080,
+    "name": "Planet Zoo",
+    "descriptionVi": "Xây dựng vườn thú thiên đường của riêng bạn với các loài động vật hoang dã sống động, thiết kế chuồng trại tự nhiên và chăm sóc phúc lợi cho muông thú.",
+    "shortDescriptionVi": "Mô phỏng xây dựng và quản trị sở thú thiên đường tuyệt đẹp.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Động vật",
+      "Xây dựng"
+    ]
+  },
+  "711540": {
+    "id": 711540,
+    "name": "Lonely Mountains: Downhill",
+    "descriptionVi": "Một chiếc xe đạp và một ngọn núi thanh bình: tự tìm lối mòn băng qua rừng cây, vượt vách đá và dòng suối để xuống núi an toàn và lập kỷ lục thời gian.",
+    "shortDescriptionVi": "Đua xe đạp đổ núi thư giãn tuyệt đẹp và khéo léo.",
+    "genresVi": [
+      "Thể thao",
+      "Xe đạp",
+      "Độc lập",
+      "Thư giãn"
+    ]
+  },
+  "712730": {
+    "id": 712730,
+    "name": "SIMULACRA",
+    "descriptionVi": "Nhặt được chiếc điện thoại của một cô gái mất tích, người chơi phải lướt qua tin nhắn, hình ảnh và tài khoản mạng xã hội để vén màn bí ẩn rùng rợn đang ẩn náu bên trong thiết bị.",
+    "shortDescriptionVi": "Trải nghiệm kinh dị trinh thám độc đáo trên giao diện điện thoại thất lạc.",
+    "genresVi": [
+      "Kinh dị",
+      "Giả lập điện thoại",
+      "Bí ẩn",
+      "Giải đố"
+    ]
+  },
+  "732430": {
+    "id": 732430,
+    "name": "Superflight",
+    "descriptionVi": "Mặc bộ đồ lượn wingsuit bay lượn tự do qua những hẻm núi hùng vĩ được tạo ngẫu nhiên, cảm nhận luồng gió rít bên tai trong một tựa game thư giãn tốc độ.",
+    "shortDescriptionVi": "Bay lượn wingsuit tự do qua những vách núi đá kỳ vĩ.",
+    "genresVi": [
+      "Hành động",
+      "Thể thao",
+      "Bay lượn",
+      "Độc lập"
+    ]
+  },
+  "739630": {
+    "id": 739630,
+    "name": "Phasmophobia",
+    "descriptionVi": "Trò chơi kinh dị săn ma phối hợp 4 người, sử dụng các thiết bị săn ma chuyên dụng để tìm manh mối nhận diện danh tính hồn ma tại những ngôi nhà bị ma ám.",
+    "shortDescriptionVi": "Săn ma kinh dị phối hợp 4 người đầy ám ảnh và chân thực.",
+    "genresVi": [
+      "Kinh dị",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "747660": {
+    "id": 747660,
+    "name": "Five Nights at Freddy's: Security Breach",
+    "descriptionVi": "Đưa người chơi vào vai cậu bé Gregory bị kẹt lại qua đêm trong khu vui chơi Mega Pizzaplex khổng lồ, hợp tác cùng chú gấu máy Freddy Fazbear để tìm đường thoát thân trước bình minh.",
+    "shortDescriptionVi": "Hành trình trốn chạy tự do góc nhìn thứ nhất trong khu phức hợp Pizzaplex.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Phiêu lưu",
+      "Bắn súng góc nhìn thứ nhất"
+    ]
+  },
+  "752590": {
+    "id": 752590,
+    "name": "A Plague Tale: Innocence",
+    "descriptionVi": "Hành trình trốn chạy bi thương của hai chị em Amicia và Hugo qua vùng đất Pháp thời trung cổ bị tàn phá bởi dịch hạch và hàng đàn chuột ăn thịt kinh hoàng.",
+    "shortDescriptionVi": "Hành trình sinh tồn cảm động giữa đại dịch chuột trung cổ.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Lén lút",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "753640": {
+    "id": 753640,
+    "name": "Outer Wilds",
+    "descriptionVi": "Khám phá hệ mặt trời bị kẹt trong vòng lặp thời gian 22 phút, giải mã các tàn tích của nền văn minh cổ Nomai trước khi ngôi sao phát nổ thành siêu tân tinh.",
+    "shortDescriptionVi": "Kiệt tác phiêu lưu giải đố vòng lặp thời gian trong vũ trụ.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Giải đố",
+      "Khoa học viễn tưởng",
+      "Độc lập"
+    ]
+  },
+  "756800": {
+    "id": 756800,
+    "name": "Contraband Police",
+    "descriptionVi": "Vào vai sĩ quan tuần tra biên giới tại một quốc gia cộng sản những năm 1980, kiểm tra giấy tờ, lục soát xe tìm hàng lậu và trấn áp các toán tội phạm nguy hiểm.",
+    "shortDescriptionVi": "Mô phỏng cảnh sát kiểm tra biên giới và truy bắt buôn lậu.",
+    "genresVi": [
+      "Mô phỏng",
+      "Hành động",
+      "Phiêu lưu"
+    ]
+  },
+  "760630": {
+    "id": 760630,
+    "name": "Tennis Elbow 4",
+    "descriptionVi": "Mô phỏng quần vợt chân thực nhất do những người đam mê tennis tạo ra, tái hiện quỹ đạo bóng, độ xoáy và chiến thuật sân đấu chuẩn xác đến từng milimet.",
+    "shortDescriptionVi": "Mô phỏng quần vợt tennis vật lý chân thực và sâu sắc.",
+    "genresVi": [
+      "Thể thao",
+      "Quần vợt",
+      "Mô phỏng"
+    ]
+  },
+  "762830": {
+    "id": 762830,
+    "name": "Telling Lies",
+    "descriptionVi": "Lục tìm qua kho dữ liệu video bí mật ghi lại cuộc sống của bốn người có liên quan đến một lời nói dối tai hại, ghép nối các cuộc trò chuyện để tìm ra chân tướng sự việc.",
+    "shortDescriptionVi": "Trinh thám video tương tác khám phá những bí mật đời tư đen tối.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Trinh thám",
+      "Bí ẩn",
+      "Độc lập"
+    ]
+  },
+  "763180": {
+    "id": 763180,
+    "name": "Redout II",
+    "descriptionVi": "Hậu bản đua phi thuyền phản trọng lực nhanh nhất vũ trụ với 36 đường đua độc đáo, cơ chế bay lượn trực quan và âm nhạc điện tử bùng nổ.",
+    "shortDescriptionVi": "Đua phi thuyền phản trọng lực thế hệ mới với tốc độ cực đại.",
+    "genresVi": [
+      "Đua xe",
+      "Khoa học viễn tưởng",
+      "Tốc độ cao"
+    ]
+  },
+  "766570": {
+    "id": 766570,
+    "name": "Russian Fishing 4",
+    "descriptionVi": "Mô phỏng câu cá thế giới mở chân thực với hệ thống hành vi cá sinh động, tự do chọn điểm buông cần và thưởng thức vẻ đẹp thiên nhiên hoang dã nước Nga.",
+    "shortDescriptionVi": "Mô phỏng câu cá thiên nhiên thế giới mở chân thực miễn phí.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Câu cá",
+      "Chơi miễn phí"
+    ]
+  },
+  "774171": {
+    "id": 774171,
+    "name": "Subnautica: Below Zero",
+    "descriptionVi": "Lặn sâu vào vùng biển băng giá của hành tinh 4546B, sinh tồn trước cái lạnh chết người, chế tạo phương tiện ngầm và khám phá bí ẩn về người tiền nhiệm mất tích.",
+    "shortDescriptionVi": "Sinh tồn khám phá đại dương băng giá kỳ bí dưới lòng biển sâu.",
+    "genresVi": [
+      "Sinh tồn",
+      "Phiêu lưu",
+      "Thế giới mở"
+    ]
+  },
+  "774201": {
+    "id": 774201,
+    "name": "Outward Definitive Edition",
+    "descriptionVi": "Trải nghiệm nhập vai phiêu lưu mạo hiểm chân thực nơi bạn chỉ là một người phàm bình thường, phải chuẩn bị ba lô, thức ăn và nước uống trước mỗi chuyến đi xa.",
+    "shortDescriptionVi": "Nhập vai sinh tồn chân thực của một lữ khách bình thường.",
+    "genresVi": [
+      "Nhập vai",
+      "Sinh tồn",
+      "Thế giới mở",
+      "Phối hợp"
+    ]
+  },
+  "779340": {
+    "id": 779340,
+    "name": "Total War: THREE KINGDOMS",
+    "descriptionVi": "Tái hiện thời kỳ Tam Quốc hào hùng của Trung Hoa cổ đại, nơi bạn vào vai các vị anh hùng Lưu Bị, Tào Tháo, Tôn Kiên chiêu mộ danh tướng và thống nhất giang sơn.",
+    "shortDescriptionVi": "Đại chiến Tam Quốc hào hùng kết hợp quản lý bang giao và dàn trận.",
+    "genresVi": [
+      "Chiến thuật",
+      "Lịch sử",
+      "Chiến thuật thời gian thực",
+      "Tam Quốc"
+    ]
+  },
+  "780290": {
+    "id": 780290,
+    "name": "Sailwind",
+    "descriptionVi": "Mô phỏng lái thuyền buồm cổ điển chân thực giữa đại dương mở, sử dụng hải đồ, la bàn và hướng gió để điều hướng vận chuyển hàng hóa giữa các quần đảo.",
+    "shortDescriptionVi": "Mô phỏng lái thuyền buồm đại dương chân thực theo hướng gió.",
+    "genresVi": [
+      "Mô phỏng",
+      "Lái thuyền",
+      "Phiêu lưu",
+      "Thư giãn"
+    ]
+  },
+  "805550": {
+    "id": 805550,
+    "name": "Assetto Corsa Competizione",
+    "descriptionVi": "Tựa game đua xe chính thức của giải vô địch GT World Challenge, mô phỏng chi tiết các cỗ xe GT3 danh tiếng với thời tiết chân thực và độ bám lốp biến thiên.",
+    "shortDescriptionVi": "Mô phỏng đua xe GT3 chuyên nghiệp chính thức của giải GT World.",
+    "genresVi": [
+      "Đua xe",
+      "Mô phỏng",
+      "Thể thao"
+    ]
+  },
+  "813780": {
+    "id": 813780,
+    "name": "Age of Empires II: Definitive Edition",
+    "descriptionVi": "Tượng đài chiến thuật thời gian thực tái xuất với đồ họa 4K và các nền văn minh mới, thu thập tài nguyên, lên đời và chỉ huy binh chủng tiêu diệt kẻ thù.",
+    "shortDescriptionVi": "Tượng đài chiến thuật thời gian thực Đế Chế 2 bất hủ chuẩn 4K.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Lịch sử",
+      "Cổ điển"
+    ]
+  },
+  "814380": {
+    "id": 814380,
+    "name": "Sekiro: Shadows Die Twice",
+    "descriptionVi": "Hóa thân thành nhẫn giả một tay trong thời kỳ Sengoku Nhật Bản, đối đầu những kẻ thù tàn bạo bằng kỹ năng kiếm thuật tinh tế và cơ chế đỡ đòn chuẩn xác từng khoảnh khắc.",
+    "shortDescriptionVi": "Hành động nhẫn giả kịch tính với kiếm thuật đỡ đòn đỉnh cao.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Nhập vai"
+    ]
+  },
+  "815370": {
+    "id": 815370,
+    "name": "Green Hell",
+    "descriptionVi": "Thử thách sinh tồn chân thực đến khắc nghiệt trong rừng rậm nhiệt đới Amazon, nơi bạn phải học cách nhóm lửa, dựng lều, chữa lành vết thương và đối phó với chứng ảo giác tâm lý.",
+    "shortDescriptionVi": "Sinh tồn sinh tử chân thực trong rừng rậm Amazon sâu thẳm.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Mô phỏng",
+      "Phiêu lưu"
+    ]
+  },
+  "837470": {
+    "id": 837470,
+    "name": "Untitled Goose Game",
+    "descriptionVi": "Vào vai một chú ngỗng tinh quái phá hoại cuộc sống yên bình của ngôi làng nhỏ, bấm còi 'quác quác', trộm chìa khóa và bày trò chọc phá dân làng.",
+    "shortDescriptionVi": "Hóa thân chú ngỗng quậy phá nghịch ngợm làng xóm siêu hài hước.",
+    "genresVi": [
+      "Vui nhộn",
+      "Lén lút",
+      "Giải đố",
+      "Độc lập"
+    ]
+  },
+  "853870": {
+    "id": 853870,
+    "name": "Goat Simulator 3",
+    "descriptionVi": "Vào vai chú dê Pilgor tinh quái quay trở lại hòn đảo San Angora, húc văng mọi thứ, gây hỗn loạn khắp nơi trong một thế giới mở vật lý hài hước không tưởng.",
+    "shortDescriptionVi": "Mô phỏng chú dê quậy phá phá hủy thế giới mở siêu hài hước.",
+    "genresVi": [
+      "Vui nhộn",
+      "Mô phỏng",
+      "Thế giới mở",
+      "Hài hước"
+    ]
+  },
+  "860510": {
+    "id": 860510,
+    "name": "Little Nightmares II",
+    "descriptionVi": "Đồng hành cùng cậu bé Mono và cô bé Six trong chiếc áo mưa vàng, vượt qua thành phố biến dạng bởi làn sóng phát sóng từ Tháp Tín Hiệu đen tối.",
+    "shortDescriptionVi": "Kinh dị giải đố đi cảnh đầy ám ảnh trong thế giới méo mó.",
+    "genresVi": [
+      "Kinh dị",
+      "Giải đố",
+      "Đi cảnh",
+      "Độc lập"
+    ]
+  },
+  "861540": {
+    "id": 861540,
+    "name": "Cyber Shadow",
+    "descriptionVi": "Game hành động đi cảnh 8-bit retro đưa bạn vào vai nhẫn giả máy Shadow vượt qua thành phố tương lai Mekacity để giải cứu gia tộc và ngăn chặn thảm họa robot.",
+    "shortDescriptionVi": "Hành động nhẫn giả đi cảnh phong cách 8-bit cổ điển.",
+    "genresVi": [
+      "Hành động",
+      "Độc lập",
+      "Đi cảnh"
+    ]
+  },
+  "867210": {
+    "id": 867210,
+    "name": "Songs of Conquest",
+    "descriptionVi": "Kế thừa tinh hoa của Heroes of Might and Magic, điều khiển các pháp sư Wielder dẫn đầu quân đoàn ma thuật khám phá bản đồ và tham gia các trận chiến theo lượt kỳ ảo.",
+    "shortDescriptionVi": "Chiến thuật theo lượt thần thoại lấy cảm hứng từ Heroes III huyền thoại.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật theo lượt",
+      "Giả tưởng",
+      "Đồ họa Pixel"
+    ]
+  },
+  "872280": {
+    "id": 872280,
+    "name": "Foxhole",
+    "descriptionVi": "Trường kỳ kháng chiến trực tuyến quy mô lớn nơi hàng ngàn người chơi định đoạt toàn bộ cuộc chiến, từ việc vận chuyển đạn dược, chế tạo khí tài cho đến chiến đấu trực diện nơi chiến hào rực lửa.",
+    "shortDescriptionVi": "Đại chiến trực tuyến mô phỏng hậu cần và chiến sự quy mô toàn diện.",
+    "genresVi": [
+      "Chiến thuật",
+      "Hành động",
+      "Nhiều người chơi trực tuyến",
+      "Mô phỏng"
+    ]
+  },
+  "883710": {
+    "id": 883710,
+    "name": "Resident Evil 2",
+    "descriptionVi": "Sống lại thảm họa zombie tại thành phố Raccoon qua góc nhìn của cảnh sát tân binh Leon và cô sinh viên Claire trong đồn cảnh sát đầy cạm bẫy.",
+    "shortDescriptionVi": "Kinh dị sinh tồn đỉnh cao khám phá đồn cảnh sát Raccoon rùng rợn.",
+    "genresVi": [
+      "Kinh dị",
+      "Hành động",
+      "Sinh tồn"
+    ]
+  },
+  "892970": {
+    "id": 892970,
+    "name": "Valheim",
+    "descriptionVi": "Sinh tồn trong thế giới thanh tẩy Bắc Âu thứ 10, xây dựng nhà dài Viking, rèn vũ khí và giương buồm vượt biển săn lùng các cự thú phục vụ thần Odin.",
+    "shortDescriptionVi": "Sinh tồn thế giới mở thần thoại Viking rực rỡ và lôi cuốn.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Thần thoại",
+      "Phối hợp"
+    ]
+  },
+  "894940": {
+    "id": 894940,
+    "name": "Golf With Your Friends",
+    "descriptionVi": "Chơi golf mini sôi động cùng tối đa 12 người bạn qua các sân golf theo chủ đề hải tặc, không gian với hàng loạt cơ chế bẫy bóng thú vị.",
+    "shortDescriptionVi": "Golf mini nhiều người chơi vui nhộn thử thách tình bạn.",
+    "genresVi": [
+      "Thể thao",
+      "Vui nhộn",
+      "Nhiều người chơi"
+    ]
+  },
+  "898650": {
+    "id": 898650,
+    "name": "The Shapeshifting Detective",
+    "descriptionVi": "Vào vai một thám tử sở hữu năng lực biến hình thành bất kỳ ai, trà trộn vào cuộc sống của các nghi phạm để khai thác bí mật và tìm ra kẻ giết hại nghệ sĩ cello.",
+    "shortDescriptionVi": "Trinh thám tương tác siêu nhiên với khả năng biến hình độc đáo.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Siêu nhiên",
+      "Trinh thám",
+      "Bí ẩn"
+    ]
+  },
+  "913740": {
+    "id": 913740,
+    "name": "WORLD OF HORROR",
+    "descriptionVi": "Bức thư tình 1-bit gửi đến phong cách manga kinh dị Junji Ito và vũ trụ Lovecraft, nơi bạn điều tra những hiện tượng quái đản và chiến đấu theo lượt trước ngày tận thế cận kề.",
+    "shortDescriptionVi": "Kinh dị roguelite 1-bit độc đáo lấy cảm hứng từ Junji Ito và Lovecraft.",
+    "genresVi": [
+      "Kinh dị",
+      "Roguelike",
+      "Thẻ bài",
+      "Theo lượt"
+    ]
+  },
+  "916440": {
+    "id": 916440,
+    "name": "Anno 1800",
+    "descriptionVi": "Xây dựng đế chế công nghiệp đồ sộ đầu thế kỷ 19, thiết lập các tuyến hàng hải thương mại giữa Cựu Thế Giới và Tân Thế Giới trong thời đại hơi nước rực rỡ.",
+    "shortDescriptionVi": "Xây dựng thành phố và quản lý thương mại thời kỳ Cách mạng Công nghiệp.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng thành phố",
+      "Kinh tế",
+      "Mô phỏng"
+    ]
+  },
+  "933110": {
+    "id": 933110,
+    "name": "Age of Empires III: Definitive Edition",
+    "descriptionVi": "Chỉ huy các cường quốc châu Âu, châu Mỹ và châu Á trong kỷ nguyên khám phá Tân Thế Giới, với hệ thống Thành phố Quê hương và đồ họa 4K rực rỡ.",
+    "shortDescriptionVi": "Chiến thuật Đế Chế 3 làm lại chuẩn 4K trong thời kỳ khai phá Tân Thế Giới.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Lịch sử"
+    ]
+  },
+  "939850": {
+    "id": 939850,
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "descriptionVi": "Chuyến lặn biển nghỉ dưỡng của năm người bạn biến thành cơn ác mộng kinh hoàng khi họ bị kẹt lại trên một con tàu ma trôi dạt giữa Thái Bình Dương.",
+    "shortDescriptionVi": "Chuyến thám hiểm con tàu ma bí ẩn đầy ảo giác và hiểm họa khôn lường.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "945360": {
+    "id": 945360,
+    "name": "Among Us",
+    "descriptionVi": "Chuẩn bị phi thuyền cất cánh cùng các thuyền viên, nhưng hãy cẩn thận vì có kẻ mạo danh Impostor đang âm thầm trà trộn để phá hoại và sát hại mọi người.",
+    "shortDescriptionVi": "Tìm kiếm kẻ mạo danh Impostor trên phi thuyền vũ trụ vui nhộn.",
+    "genresVi": [
+      "Vui nhộn",
+      "Nhiều người chơi",
+      "Suy đoán xã hội"
+    ]
+  },
+  "960910": {
+    "id": 960910,
+    "name": "Heavy Rain",
+    "descriptionVi": "Trải nghiệm bộ phim tâm lý tội phạm giật gân điều khiển bốn nhân vật khác nhau để truy lùng Kẻ Sát Nhân Gấp Giấy (Origami Killer) trước khi hắn cướp đi sinh mạng của nạn nhân tiếp theo.",
+    "shortDescriptionVi": "Kiệt tác trinh thám điện ảnh cảm xúc với những ngã rẽ cốt truyện sâu sắc.",
+    "genresVi": [
+      "Trinh thám",
+      "Điện ảnh",
+      "Giật gân",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "960990": {
+    "id": 960990,
+    "name": "Beyond: Two Souls",
+    "descriptionVi": "Dõi theo cuộc đời đặc biệt của Jodie Holmes và mối liên kết tâm linh kỳ bí với thực thể siêu nhiên Aiden qua diễn xuất xuất sắc của Elliot Page và Willem Dafoe.",
+    "shortDescriptionVi": "Hành trình hành động tâm lý điện ảnh độc nhất về mối liên kết siêu nhiên.",
+    "genresVi": [
+      "Điện ảnh",
+      "Phiêu lưu",
+      "Siêu nhiên",
+      "Hành động"
+    ]
+  },
+  "962130": {
+    "id": 962130,
+    "name": "Grounded",
+    "descriptionVi": "Bị thu nhỏ bằng hạt bụi giữa sân sau nhà, bạn và bạn bè phải cùng nhau chế tạo vũ khí từ cỏ cây và sinh tồn trước các bầy nhện và côn trùng khổng lồ.",
+    "shortDescriptionVi": "Sinh tồn thế giới thu nhỏ giữa bầy côn trùng khổng lồ nơi sân sau.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Phối hợp",
+      "Chế tạo"
+    ]
+  },
+  "962730": {
+    "id": 962730,
+    "name": "Skater XL - Ultimate Skateboarding Game",
+    "descriptionVi": "Trò chơi trượt ván tự do điều khiển trực tiếp bằng hai cần analog, mô phỏng chuẩn xác từng cú lật ván và trượt lan can trên các con phố nổi tiếng nước Mỹ.",
+    "shortDescriptionVi": "Trượt ván đường phố tự do điều khiển bằng hai cần analog.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Trượt ván"
+    ]
+  },
+  "967050": {
+    "id": 967050,
+    "name": "Pacify",
+    "descriptionVi": "Làm việc cho công ty săn bắt hiện tượng siêu nhiên PAH Inc, cùng bạn bè tìm kiếm manh mối, làm dịu và bắt giữ những đứa trẻ ma quỷ hung dữ trước khi bị chúng tóm gọn.",
+    "shortDescriptionVi": "Kinh dị phối hợp săn ma vui nhộn và giật gân cùng bạn bè.",
+    "genresVi": [
+      "Kinh dị",
+      "Phối hợp",
+      "Nhiều người chơi",
+      "Sinh tồn"
+    ]
+  },
+  "972660": {
+    "id": 972660,
+    "name": "Spiritfarer: Farewell Edition",
+    "descriptionVi": "Trở thành người lái đò đưa tiễn các linh hồn sang thế giới bên kia, đóng thuyền chăm sóc bạn bè muông thú và học cách nói lời chia tay xúc động.",
+    "shortDescriptionVi": "Hành trình quản lý lái đò đưa tiễn linh hồn đầy xúc động và ý nghĩa.",
+    "genresVi": [
+      "Mô phỏng",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc",
+      "Độc lập"
+    ]
+  },
+  "973810": {
+    "id": 973810,
+    "name": "Edge Of Eternity",
+    "descriptionVi": "Chống lại dịch bệnh Ăn Mòn đe dọa thế giới Heryon trong tựa game JRPG đánh theo lượt trên lưới ô lục giác đầy phong cách của nhà phát triển Midgar Studio.",
+    "shortDescriptionVi": "Nhập vai JRPG theo lượt hào hùng giải cứu thế giới Heryon.",
+    "genresVi": [
+      "Nhập vai",
+      "Chiến thuật theo lượt",
+      "JRPG"
+    ]
+  },
+  "979640": {
+    "id": 979640,
+    "name": "Slipways",
+    "descriptionVi": "Game chiến thuật không gian tối giản không có chiến tranh, nơi bạn kết nối các hành tinh thành mạng lưới thương mại thịnh vượng chỉ trong vài phút chơi thư giãn.",
+    "shortDescriptionVi": "Chiến thuật kết nối giao thương các hành tinh thư giãn và trí tuệ.",
+    "genresVi": [
+      "Chiến thuật",
+      "Không gian",
+      "Giải đố",
+      "Độc lập"
+    ]
+  },
+  "983220": {
+    "id": 983220,
+    "name": "Inertial Drift",
+    "descriptionVi": "Game đua xe arcade phong cách tương lai thập niên 90 với cơ chế drift hai cần analog độc đáo: cần trái bẻ lái, cần phải kiểm soát góc trượt bánh xe.",
+    "shortDescriptionVi": "Đua xe drift hai cần analog độc đáo phong cách anime retro.",
+    "genresVi": [
+      "Đua xe",
+      "Arcade",
+      "Anime",
+      "Độc lập"
+    ]
+  },
+  "983870": {
+    "id": 983870,
+    "name": "FOUNDRY",
+    "descriptionVi": "Xây dựng nhà máy tự động hóa vô tận dựa trên các khối ô vuông voxel trong thế giới 3D, thiết kế băng chuyền và mạng lưới điện ngầm phức tạp.",
+    "shortDescriptionVi": "Tự động hóa nhà máy hộp cát 3D voxel không giới hạn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Tự động hóa",
+      "Xây dựng",
+      "Hộp cát"
+    ]
+  },
+  "985890": {
+    "id": 985890,
+    "name": "Streets of Rogue",
+    "descriptionVi": "Tựa game nhập vai roguelike thế giới hỗn loạn, cho phép bạn lựa chọn hàng chục lớp nhân vật từ binh lính, hacker đến bác sĩ để lật đổ chính quyền độc tài theo cách riêng.",
+    "shortDescriptionVi": "Roguelike tự do hành động trong thành phố hỗn loạn.",
+    "genresVi": [
+      "Nhập vai",
+      "Độc lập",
+      "Hành động",
+      "Roguelike"
+    ]
+  },
+  "999220": {
+    "id": 999220,
+    "name": "Amnesia: Rebirth",
+    "descriptionVi": "Hành trình tìm lại ký ức và đấu tranh cho mạng sống giữa sa mạc Algeria hoang vắng, kiềm chế nỗi sợ hãi để không bị căn bệnh bí ẩn nuốt chửng tâm trí.",
+    "shortDescriptionVi": "Cuộc phiêu lưu kinh dị tìm lại ký ức giữa sa mạc hoang tàn.",
+    "genresVi": [
+      "Kinh dị",
+      "Phiêu lưu",
+      "Giải đố",
+      "Tâm lý"
+    ]
+  },
+  "1002300": {
+    "id": 1002300,
+    "name": "Fear & Hunger",
+    "descriptionVi": "Tựa game ngục tối kinh dị sinh tồn kết hợp nhập vai theo lượt tàn bạo, thử thách lòng kiên nhẫn của người chơi với độ khó trừng phạt và thế giới giả tưởng đen tối không khoan nhượng.",
+    "shortDescriptionVi": "Nhập vai ngục tối kinh dị tàn bạo với độ khó thử thách tột cùng.",
+    "genresVi": [
+      "Kinh dị",
+      "Nhập vai",
+      "Roguelike",
+      "Độc lập"
+    ]
+  },
+  "1011190": {
+    "id": 1011190,
+    "name": "SIMULACRA 2",
+    "descriptionVi": "Điều tra cái chết bất thường của một nữ người mẫu mạng xã hội qua chiếc điện thoại di động của nạn nhân, thẩm vấn các nghi phạm và phục hồi dữ liệu bị xóa.",
+    "shortDescriptionVi": "Phá án kinh dị thời đại số qua ứng dụng và tin nhắn điện thoại.",
+    "genresVi": [
+      "Kinh dị",
+      "Giả lập điện thoại",
+      "Trinh thám",
+      "Bí ẩn"
+    ]
+  },
+  "1016120": {
+    "id": 1016120,
+    "name": "PGA TOUR 2K21",
+    "descriptionVi": "Chinh phục danh hiệu FedExCup và so tài với danh thủ Justin Thomas trên các sân golf danh tiếng bậc nhất thế giới.",
+    "shortDescriptionVi": "Đánh golf chuyên nghiệp PGA Tour cùng các tay golf hàng đầu.",
+    "genresVi": [
+      "Thể thao",
+      "Golf",
+      "Mô phỏng"
+    ]
+  },
+  "1022470": {
+    "id": 1022470,
+    "name": "Hotshot Racing",
+    "descriptionVi": "Đua xe arcade tốc độ cao với đồ họa đa giác low-poly rực rỡ, ôm cua drift cháy lốp và sử dụng bình nitro tăng tốc vượt mặt đối thủ.",
+    "shortDescriptionVi": "Đua xe arcade đồ họa đa giác hoài cổ tốc độ cao cực vui.",
+    "genresVi": [
+      "Đua xe",
+      "Arcade",
+      "Đa giác"
+    ]
+  },
+  "1029780": {
+    "id": 1029780,
+    "name": "Going Medieval",
+    "descriptionVi": "Dẫn dắt những người sống sót sau trận đại dịch trung cổ xây dựng lại pháo đài bằng gỗ và đá, bảo vệ cư dân trước thời tiết khắc nghiệt và các cuộc cướp bóc.",
+    "shortDescriptionVi": "Xây dựng pháo đài trung cổ 3D và sinh tồn trước hiểm nguy.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng",
+      "Mô phỏng",
+      "Trung cổ"
+    ]
+  },
+  "1040210": {
+    "id": 1040210,
+    "name": "Crime Scene Cleaner",
+    "descriptionVi": "Vào vai người dọn dẹp hiện trường vụ án cho giới giang hồ, lau sạch vết máu, tiêu hủy bằng chứng và giấu xác trước khi cảnh sát phát hiện.",
+    "shortDescriptionVi": "Mô phỏng dọn dẹp hiện trường tội phạm giang hồ ly kỳ và hồi hộp.",
+    "genresVi": [
+      "Mô phỏng",
+      "Góc nhìn thứ nhất",
+      "Tội phạm",
+      "Hành động"
+    ]
+  },
+  "1044720": {
+    "id": 1044720,
+    "name": "Farthest Frontier",
+    "descriptionVi": "Bảo vệ và dẫn dắt nhóm người định cư gầy dựng thị trấn từ vùng hoang dã, canh tác mùa màng theo chu kỳ thổ nhưỡng và bảo vệ người dân trước dịch bệnh và cướp bóc.",
+    "shortDescriptionVi": "Xây dựng thị trấn sinh tồn chi tiết nơi vùng đất biên cương hoang dã.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng thành phố",
+      "Mô phỏng",
+      "Sinh tồn"
+    ]
+  },
+  "1055540": {
+    "id": 1055540,
+    "name": "A Short Hike",
+    "descriptionVi": "Hóa thân thành chú chim nhỏ Claire đi bộ leo lên đỉnh núi Hawk Peak để bắt sóng điện thoại, tận hưởng không khí trong lành, câu cá và trò chuyện cùng bạn bè.",
+    "shortDescriptionVi": "Hành trình leo núi ngắn ngủi, bình yên và ấm áp tâm hồn.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Thư giãn",
+      "Khám phá",
+      "Độc lập"
+    ]
+  },
+  "1057090": {
+    "id": 1057090,
+    "name": "Ori and the Will of the Wisps",
+    "descriptionVi": "Hành trình đầy cảm xúc của tinh linh Ori vượt qua khu rừng Niwen tăm tối, kết hợp đồ họa vẽ tay tuyệt mỹ, âm nhạc lay động và cơ chế di chuyển mượt mà.",
+    "shortDescriptionVi": "Tuyệt phẩm đi cảnh giải đố đẹp như tranh vẽ cùng tinh linh Ori.",
+    "genresVi": [
+      "Metroidvania",
+      "Phiêu lưu",
+      "Đi cảnh",
+      "Độc lập"
+    ]
+  },
+  "1062090": {
+    "id": 1062090,
+    "name": "Timberborn",
+    "descriptionVi": "Nhân loại đã diệt vong, giờ là thời đại của loài hải ly thông minh! Xây dựng các đập nước kỳ vĩ, kênh dẫn dòng và thành phố gỗ nhiều tầng để sống sót qua mùa hạn hán.",
+    "shortDescriptionVi": "Xây dựng thành phố hải ly công nghệ gỗ độc đáo chống hạn hán.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng thành phố",
+      "Mô phỏng",
+      "Độc lập"
+    ]
+  },
+  "1062520": {
+    "id": 1062520,
+    "name": "Dinkum",
+    "descriptionVi": "Xây dựng thị trấn mới lấy cảm hứng từ vùng hẻo lánh nước Úc, câu cá, bắt sâu bọ, chăn nuôi kangaroo và phát triển cộng đồng ấm cúng cùng bạn bè.",
+    "shortDescriptionVi": "Mô phỏng xây dựng nông trại ấm cúng nơi hoang dã nước Úc.",
+    "genresVi": [
+      "Mô phỏng",
+      "Phiêu lưu",
+      "Chế tạo",
+      "Độc lập"
+    ]
+  },
+  "1063730": {
+    "id": 1063730,
+    "name": "New World: Aeternum",
+    "descriptionVi": "Game nhập vai trực tuyến nhiều người chơi (MMORPG) trên hòn đảo ma thuật Aeternum, khám phá vùng đất huyền bí, rèn vũ khí và tham gia các trận công thành chiến quy mô lớn.",
+    "shortDescriptionVi": "Khám phá hòn đảo ma thuật Aeternum trong game nhập vai MMORPG đồ sộ.",
+    "genresVi": [
+      "MMORPG",
+      "Nhập vai",
+      "Nhiều người chơi trực tuyến",
+      "Thế giới mở"
+    ]
+  },
+  "1072500": {
+    "id": 1072500,
+    "name": "AO Tennis 2",
+    "descriptionVi": "Tựa game quần vợt chính thức của giải Úc Mở rộng, cho phép bạn tự thiết kế tay vợt, sân vận động và so tài qua các giải đấu Grand Slam danh giá.",
+    "shortDescriptionVi": "Quần vợt Úc Mở rộng chính thức với chế độ sự nghiệp chi tiết.",
+    "genresVi": [
+      "Thể thao",
+      "Quần vợt",
+      "Mô phỏng"
+    ]
+  },
+  "1073440": {
+    "id": 1073440,
+    "name": "Circuit Superstars",
+    "descriptionVi": "Trò chơi đua xe góc nhìn từ trên xuống tôn vinh niềm đam mê đua xe thể thao, kết hợp điều khiển xe chuẩn xác, chiến thuật vào trạm dừng pit và đồ họa đáng yêu.",
+    "shortDescriptionVi": "Đua xe thể thao góc nhìn từ trên xuống khéo léo và giàu tính chiến thuật.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Độc lập"
+    ]
+  },
+  "1080110": {
+    "id": 1080110,
+    "name": "F1® 2020",
+    "descriptionVi": "Phiên bản F1 được cộng đồng đánh giá cao nhất với chế độ My Team lần đầu tiên cho phép bạn tự tạo và quản lý đội đua thứ 11 trên đường đua F1.",
+    "shortDescriptionVi": "Đua xe F1 kinh điển với chế độ tự tạo đội đua My Team xuất sắc.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô phỏng"
+    ]
+  },
+  "1081510": {
+    "id": 1081510,
+    "name": "She Sees Red - Interactive Movie",
+    "descriptionVi": "Vụ giết người bí ẩn trong hộp đêm kích hoạt cuộc điều tra khốc liệt của nữ thám tử thông minh, nơi mọi hành động và phán đoán sẽ làm thay đổi hướng đi của câu chuyện.",
+    "shortDescriptionVi": "Phim trinh thám tương tác hành động giật gân của điện ảnh Nga.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Tội phạm",
+      "Giật gân",
+      "Hành động"
+    ]
+  },
+  "1085660": {
+    "id": 1085660,
+    "name": "Destiny 2",
+    "descriptionVi": "Khám phá các bí ẩn của Thái Dương Hệ trong game bắn súng góc nhìn thứ nhất đồ sộ, mở khóa siêu năng lực hộ vệ và săn trang bị huyền thoại qua các chiến dịch cốt truyện, màn đột kích phối hợp và đấu trường đối kháng.",
+    "shortDescriptionVi": "Bắn súng góc nhìn thứ nhất khoa học viễn tưởng nhiều người chơi đồ sộ.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Hành động",
+      "Nhiều người chơi trực tuyến",
+      "Nhập vai"
+    ]
+  },
+  "1086940": {
+    "id": 1086940,
+    "name": "Baldur's Gate 3",
+    "descriptionVi": "Tựa game nhập vai theo lượt vĩ đại đạt giải Game of the Year, dựa trên luật D&D với cốt truyện phân nhánh sâu sắc nơi mọi quyết định của bạn định đoạt số phận vương quốc.",
+    "shortDescriptionVi": "Game of the Year nhập vai theo lượt D&D với cốt truyện đỉnh cao.",
+    "genresVi": [
+      "Nhập vai",
+      "Chiến thuật",
+      "Cốt truyện sâu sắc",
+      "Phối hợp"
+    ]
+  },
+  "1091500": {
+    "id": 1091500,
+    "name": "Cyberpunk 2077",
+    "descriptionVi": "Game nhập vai hành động thế giới mở lấy bối cảnh thành phố tương lai Night City, nơi bạn vào vai lính đánh thuê V đắm chìm trong những phi vụ nguy hiểm và công nghệ cấy ghép cơ thể.",
+    "shortDescriptionVi": "Game nhập vai hành động thế giới mở tại Night City tương lai.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Thế giới mở",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1092790": {
+    "id": 1092790,
+    "name": "Chernobylite Enhanced Edition",
+    "descriptionVi": "Vào vai nhà vật lý Igor quay trở lại Vùng Loại Trừ Chernobyl để tìm kiếm người hôn thê mất tích 30 năm trước, kết hợp sinh tồn, chế tạo và chiến đấu với lính đánh thuê.",
+    "shortDescriptionVi": "Nhập vai sinh tồn kinh dị khoa học viễn tưởng tại Chernobyl.",
+    "genresVi": [
+      "Nhập vai",
+      "Sinh tồn",
+      "Kinh dị",
+      "Bắn súng góc nhìn thứ nhất"
+    ]
+  },
+  "1097150": {
+    "id": 1097150,
+    "name": "Fall Guys",
+    "descriptionVi": "Đấu trường vượt chướng ngại vật vui nhộn quy tụ hàng chục hạt đậu nhảy nhót, né tránh búa tạ và sàn xoay để giật lấy vương miện quán quân danh giá.",
+    "shortDescriptionVi": "Đại chiến vượt chướng ngại vật vui nhộn giành vương miện.",
+    "genresVi": [
+      "Vui nhộn",
+      "Nhiều người chơi",
+      "Tiệc tùng",
+      "Đi cảnh"
+    ]
+  },
+  "1098170": {
+    "id": 1098170,
+    "name": "Dark Nights with Poe and Munro",
+    "descriptionVi": "Dẫn dắt hai người dẫn chương trình phát thanh radio địa phương vượt qua sáu tập phim đầy rẫy các hiện tượng kỳ bí và những câu chuyện tình cảm dí dỏm.",
+    "shortDescriptionVi": "Sáu câu chuyện siêu nhiên kỳ lạ cùng hai phát thanh viên radio hài hước.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Siêu nhiên",
+      "Bí ẩn",
+      "Hài hước"
+    ]
+  },
+  "1107790": {
+    "id": 1107790,
+    "name": "The Complex",
+    "descriptionVi": "Sau một vụ tấn công bằng vũ khí sinh học ở London, hai nhà khoa học bị nhốt trong phòng thí nghiệm kín với lượng oxy cạn kiệt dần và phải đưa ra những quyết định sinh tử.",
+    "shortDescriptionVi": "Phim tương tác khoa học viễn tưởng hồi hộp về vũ khí sinh học.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Khoa học viễn tưởng",
+      "Giật gân",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "1113560": {
+    "id": 1113560,
+    "name": "Persona 4 Golden",
+    "descriptionVi": "Đến thị trấn nông thôn Inaba, cùng nhóm bạn học sinh điều tra chuỗi án mạng bí ẩn liên quan đến Kênh Truyền Hình Nửa Đêm và thức tỉnh bản ngã Persona.",
+    "shortDescriptionVi": "Nhập vai học đường phá án mạng kỳ bí tại thị trấn Inaba.",
+    "genresVi": [
+      "Nhập vai",
+      "Học đường",
+      "Theo lượt",
+      "Anime"
+    ]
+  },
+  "1114150": {
+    "id": 1114150,
+    "name": "CarX Street",
+    "descriptionVi": "Đua xe đường phố thế giới mở tại thành phố Sunset City sầm uất, tự do độ máy, nâng cấp thân vỏ và tham gia các câu lạc bộ đua xe ngầm khét tiếng.",
+    "shortDescriptionVi": "Đua xe thế giới mở đường phố ban đêm cùng dàn xe độ cực chất.",
+    "genresVi": [
+      "Đua xe",
+      "Thế giới mở",
+      "Nhiều người chơi"
+    ]
+  },
+  "1114290": {
+    "id": 1114290,
+    "name": "Windjammers 2",
+    "descriptionVi": "Sự trở lại của trò chơi ném đĩa arcade kinh điển với đồ họa vẽ tay sắc nét, các chiêu thức ném đĩa đặc biệt và lối chơi đối kháng nhanh nghẹt thở.",
+    "shortDescriptionVi": "Đối kháng ném đĩa arcade 2D cổ điển tốc độ cao.",
+    "genresVi": [
+      "Thể thao",
+      "Hành động",
+      "Đối kháng",
+      "Độc lập"
+    ]
+  },
+  "1129580": {
+    "id": 1129580,
+    "name": "Medieval Dynasty",
+    "descriptionVi": "Hóa thân thành chàng trai trẻ chạy trốn chiến tranh, săn bắn sinh tồn, xây dựng một ngôi làng trù phú và gầy dựng triều đại dòng họ qua nhiều thế hệ thời trung cổ.",
+    "shortDescriptionVi": "Mô phỏng cuộc sống trung cổ kết hợp sinh tồn và xây dựng làng xóm.",
+    "genresVi": [
+      "Mô phỏng",
+      "Sinh tồn",
+      "Nhập vai",
+      "Trung cổ"
+    ]
+  },
+  "1142710": {
+    "id": 1142710,
+    "name": "Total War: WARHAMMER III",
+    "descriptionVi": "Đưa hàng ngàn chiến binh và quái thú kỳ dị vào các trận chiến thời gian thực hoành tráng, quyết định số phận của Vực Thẳm Hỗn Loạn trong thế giới Warhammer kỳ ảo.",
+    "shortDescriptionVi": "Đại chiến thời gian thực hoành tráng giữa các chủng tộc Warhammer.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Giả tưởng"
+    ]
+  },
+  "1144200": {
+    "id": 1144200,
+    "name": "Ready or Not",
+    "descriptionVi": "Game bắn súng chiến thuật SWAT chân thực góc nhìn thứ nhất, đưa người chơi vào các tình huống giải cứu con tin và trấn áp tội phạm có vũ trang cực kỳ căng thẳng.",
+    "shortDescriptionVi": "Bắn súng chiến thuật SWAT mô phỏng chân thực và nghẹt thở.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Chiến thuật",
+      "Phối hợp"
+    ]
+  },
+  "1145350": {
+    "id": 1145350,
+    "name": "Hades II",
+    "descriptionVi": "Vào vai Công chúa Melinoë của Thế giới ngầm sử dụng hắc thuật cổ xưa, chiến đấu vượt qua cõi chết để tiêu diệt Titan Thời gian Chronos.",
+    "shortDescriptionVi": "Tuyệt phẩm roguelike chặt chém ma thuật thần thoại Hy Lạp.",
+    "genresVi": [
+      "Hành động",
+      "Độc lập",
+      "Nhập vai",
+      "Roguelike"
+    ]
+  },
+  "1145360": {
+    "id": 1145360,
+    "name": "Hades",
+    "descriptionVi": "Tựa game roguelike chặt chém rực lửa, đưa bạn vào vai hoàng tử Zagreus sử dụng sức mạnh các vị thần đỉnh Olympus để chiến đấu vượt ngục khỏi địa ngục của cha mình.",
+    "shortDescriptionVi": "Chặt chém roguelike vượt ngục địa ngục lôi cuốn.",
+    "genresVi": [
+      "Hành động",
+      "Độc lập",
+      "Nhập vai",
+      "Roguelike"
+    ]
+  },
+  "1146320": {
+    "id": 1146320,
+    "name": "Dune: Spice Wars",
+    "descriptionVi": "Chiến thuật thời gian thực 4X lấy bối cảnh hành tinh sa mạc Arrakis, tranh giành quyền kiểm soát nguồn Hương Dược quý giá nhất vũ trụ giữa các Đại gia tộc.",
+    "shortDescriptionVi": "Chiến thuật 4X tranh giành Hương Dược trên hành tinh cát Arrakis.",
+    "genresVi": [
+      "Chiến thuật",
+      "Khoa học viễn tưởng",
+      "4X"
+    ]
+  },
+  "1147550": {
+    "id": 1147550,
+    "name": "Not For Broadcast",
+    "descriptionVi": "Ngồi vào buồng điều khiển đài truyền hình quốc gia, chọn góc máy quay, kiểm duyệt lời thoại và chèn quảng cáo để định hướng dư luận trong thời kỳ chính trị biến động hỗn loạn.",
+    "shortDescriptionVi": "Mô phỏng đạo diễn truyền hình trực tiếp hài hước và châm biếm sâu sắc.",
+    "genresVi": [
+      "Mô phỏng",
+      "Phim tương tác (FMV)",
+      "Hài hước",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "1149460": {
+    "id": 1149460,
+    "name": "Icarus",
+    "descriptionVi": "Trò chơi sinh tồn khoa học viễn tưởng theo phiên thám hiểm, nơi bạn đáp xuống hành tinh hoang vu Icarus để khai thác vật chất lạ và kịp thời trốn thoát trước bão độc.",
+    "shortDescriptionVi": "Sinh tồn khai thác tài nguyên theo phiên trên hành tinh độc hại.",
+    "genresVi": [
+      "Sinh tồn",
+      "Thế giới mở",
+      "Chế tạo",
+      "Phối hợp"
+    ]
+  },
+  "1149620": {
+    "id": 1149620,
+    "name": "Gas Station Simulator",
+    "descriptionVi": "Mua lại và cải tạo một trạm xăng bỏ hoang giữa sa mạc, bơm xăng cho xe, sửa xe trong xưởng, mở rộng cửa hàng tiện lợi và trang trí trạm xăng.",
+    "shortDescriptionVi": "Cải tạo và điều hành trạm xăng bỏ hoang ven đường cao tốc sa mạc.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Xây dựng"
+    ]
+  },
+  "1150440": {
+    "id": 1150440,
+    "name": "Aliens: Dark Descent",
+    "descriptionVi": "Chỉ huy một tiểu đội lính Thủy quân Lục chiến Không gian sống sót trước đợt bùng phát quái vật Xenomorph kinh hoàng trên mặt trăng Lethe.",
+    "shortDescriptionVi": "Chiến thuật thời gian thực chỉ huy tiểu đội sinh tồn trước quái vật Alien.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Kinh dị",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1151640": {
+    "id": 1151640,
+    "name": "Horizon Zero Dawn™ Complete Edition",
+    "descriptionVi": "Đồng hành cùng nữ thợ săn Aloy khám phá vùng đất hậu tận thế nơi những cỗ máy khổng lồ thống trị thiên nhiên, và giải mã nguồn gốc của thế giới cổ xưa đã sụp đổ.",
+    "shortDescriptionVi": "Săn lùng thú máy khổng lồ trong thế giới hậu tận thế kỳ vĩ.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Thế giới mở",
+      "Nhập vai"
+    ]
+  },
+  "1158310": {
+    "id": 1158310,
+    "name": "Crusader Kings III",
+    "descriptionVi": "Lãnh đạo một dòng tộc quý tộc thời trung cổ qua nhiều thế hệ, sử dụng mưu đồ ám sát, liên hôn chính trị và chiến tranh để bành trướng gia tộc khắp châu Âu.",
+    "shortDescriptionVi": "Mô phỏng trị quốc và mưu đồ chính trị gia tộc thời trung cổ.",
+    "genresVi": [
+      "Chiến thuật",
+      "Nhập vai",
+      "Lịch sử",
+      "Mô phỏng"
+    ]
+  },
+  "1162770": {
+    "id": 1162770,
+    "name": "Solasta: Crown of the Magister",
+    "descriptionVi": "Trò chơi nhập vai chiến thuật theo lượt trung thành với bộ luật D&D 5.1 SRD, nơi bạn điều khiển 4 nhà thám hiểm sử dụng địa hình và ánh sáng để khắc chế quái vật.",
+    "shortDescriptionVi": "Nhập vai chiến thuật theo lượt D&D chân thực và chuẩn xác.",
+    "genresVi": [
+      "Nhập vai",
+      "Chiến thuật theo lượt",
+      "Giả tưởng"
+    ]
+  },
+  "1167630": {
+    "id": 1167630,
+    "name": "Teardown",
+    "descriptionVi": "Lên kế hoạch cho các vụ trộm hoàn hảo trong thế giới voxel có thể phá hủy 100%, sử dụng búa tạ, thuốc nổ và xe ủi để dọn đường trốn thoát trước khi cảnh sát ập đến.",
+    "shortDescriptionVi": "Phá hủy thế giới voxel tự do để thực hiện các phi vụ trộm ly kỳ.",
+    "genresVi": [
+      "Mô phỏng",
+      "Vật lý",
+      "Giải đố",
+      "Hành động"
+    ]
+  },
+  "1172380": {
+    "id": 1172380,
+    "name": "STAR WARS Jedi: Fallen Order™",
+    "descriptionVi": "Một hiệp sĩ Padawan sống sót sau Sắc lệnh 66 phải hoàn thành quá trình huấn luyện, phát triển Thần lực và hồi sinh Hội hiệp sĩ Jedi.",
+    "shortDescriptionVi": "Hành trình trỗi dậy của một hiệp sĩ Jedi sau biến cố đại thanh trừng.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1172470": {
+    "id": 1172470,
+    "name": "Apex Legends",
+    "descriptionVi": "Game bắn súng sinh tồn Battle Royale tốc độ cao, điều khiển các huyền thoại sở hữu kỹ năng độc đáo phối hợp cùng tiểu đội để trở thành nhà vô địch đấu trường Apex.",
+    "shortDescriptionVi": "Bắn súng sinh tồn anh hùng Battle Royale nhịp độ nhanh đỉnh cao.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Battle Royale",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "1172620": {
+    "id": 1172620,
+    "name": "Sea of Thieves",
+    "descriptionVi": "Trở thành thuyền trưởng cướp biển tự do giương buồm khám phá đại dương, săn lùng kho báu chôn giấu, chiến đấu với tàu địch và chạm trán quái vật biển huyền thoại.",
+    "shortDescriptionVi": "Phiêu lưu cướp biển thế giới mở cùng thủy thủ đoàn của bạn.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hành động",
+      "Nhiều người chơi",
+      "Thế giới mở"
+    ]
+  },
+  "1174180": {
+    "id": 1174180,
+    "name": "Red Dead Redemption 2",
+    "descriptionVi": "Kiệt tác miền Tây hoang dã của Rockstar theo chân kẻ ngoài vòng pháp luật Arthur Morgan và băng đảng Van der Linde trốn chạy trước sự chuyển mình của nước Mỹ năm 1899.",
+    "shortDescriptionVi": "Kiệt tác phiêu lưu hành động thế giới mở miền Tây nước Mỹ.",
+    "genresVi": [
+      "Thế giới mở",
+      "Phiêu lưu",
+      "Hành động",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "1179080": {
+    "id": 1179080,
+    "name": "FAITH: The Unholy Trinity",
+    "descriptionVi": "Vào vai một linh mục trẻ đối đầu với ma quỷ và những kẻ cuồng giáo bằng cây thánh giá trong tựa game kinh dị pixel 8-bit hoài cổ lấy cảm hứng từ thập niên 1980.",
+    "shortDescriptionVi": "Kinh dị tâm linh đồ họa 8-bit với bầu không khí trừ tà rùng rợn.",
+    "genresVi": [
+      "Kinh dị",
+      "Pixel",
+      "Cổ điển",
+      "Độc lập"
+    ]
+  },
+  "1190000": {
+    "id": 1190000,
+    "name": "Car Mechanic Simulator 2021",
+    "descriptionVi": "Trở thành thợ sửa xe chuyên nghiệp, tháo lắp từng con ốc, động cơ và phục hồi những chiếc xe cổ nát thành siêu xe bóng bẩy trong xưởng cơ khí.",
+    "shortDescriptionVi": "Mô phỏng sửa chữa và độ xe ô tô chuyên nghiệp cực kỳ chân thực.",
+    "genresVi": [
+      "Mô phỏng",
+      "Ô tô",
+      "Quản lý"
+    ]
+  },
+  "1190970": {
+    "id": 1190970,
+    "name": "Disc Jam",
+    "descriptionVi": "Sự kết hợp độc đáo giữa khúc côn cầu trên không và quần vợt, nơi người chơi so tài ném và bắt đĩa phát sáng tốc độ cao trong các trận đấu kịch tính.",
+    "shortDescriptionVi": "Thể thao đối kháng ném đĩa tốc độ cao kết hợp tennis và air hockey.",
+    "genresVi": [
+      "Thể thao",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "1194630": {
+    "id": 1194630,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "descriptionVi": "Bốn sinh viên đại học và giảng viên của họ bị mắc kẹt tại thị trấn bỏ hoang Little Hope, liên tục bị những ảo ảnh ma quái từ các phiên tòa săn phù thủy trong quá khứ truy đuổi.",
+    "shortDescriptionVi": "Ác mộng sương mù và những phiên tòa xử phù thủy ám ảnh trong quá khứ.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "1196590": {
+    "id": 1196590,
+    "name": "Resident Evil Village",
+    "descriptionVi": "Ethan Winters dấn thân vào một ngôi làng tuyết phủ đầy rẫy người sói và ma cà rồng quyền năng nhằm tìm lại đứa con gái sơ sinh bị bắt cóc.",
+    "shortDescriptionVi": "Kinh dị sinh tồn nghẹt thở tại ngôi làng quái vật châu Âu.",
+    "genresVi": [
+      "Kinh dị",
+      "Hành động",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ nhất"
+    ]
+  },
+  "1198970": {
+    "id": 1198970,
+    "name": "Haven",
+    "descriptionVi": "Câu chuyện tình yêu của cặp đôi Yu và Kay trốn chạy đến một hành tinh hoang sơ, cùng nhau lướt trên những dải cỏ năng lượng, nấu ăn và gìn giữ mái ấm.",
+    "shortDescriptionVi": "Hành trình tình yêu lãng mạn khám phá hành tinh kỳ lạ.",
+    "genresVi": [
+      "Nhập vai",
+      "Phiêu lưu",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "1203630": {
+    "id": 1203630,
+    "name": "Enshrouded",
+    "descriptionVi": "Sinh tồn nhập vai hành động trong vương quốc bị sương mù độc hại che phủ, tự do đào bới xây dựng lâu đài và chiến đấu giải phóng vùng đất Embervale.",
+    "shortDescriptionVi": "Sinh tồn nhập vai thế giới mở trong màn sương huyền bí.",
+    "genresVi": [
+      "Nhập vai",
+      "Sinh tồn",
+      "Thế giới mở",
+      "Chế tạo"
+    ]
+  },
+  "1214060": {
+    "id": 1214060,
+    "name": "Command & Conquer™ Remastered Collection",
+    "descriptionVi": "Bộ sưu tập làm lại chuẩn 4K của hai huyền thoại chiến thuật Tiberian Dawn và Red Alert, điều binh khiển tướng và thưởng thức phần nhạc nền Rock bất hủ của Frank Klepacki.",
+    "shortDescriptionVi": "Huyền thoại chiến thuật Báo Động Đỏ Red Alert làm lại chuẩn 4K sắc nét.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Cổ điển"
+    ]
+  },
+  "1222140": {
+    "id": 1222140,
+    "name": "Detroit: Become Human",
+    "descriptionVi": "Định đoạt tương lai của nhân loại và người máy qua câu chuyện của ba người máy Android Connor, Kara và Markus khi họ bắt đầu thức tỉnh cảm xúc con người.",
+    "shortDescriptionVi": "Điện ảnh tương tác tương lai nơi mọi lựa chọn đều thay đổi số phận.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc",
+      "Lựa chọn phân nhánh"
+    ]
+  },
+  "1222680": {
+    "id": 1222680,
+    "name": "Need for Speed™ Heat",
+    "descriptionVi": "Đua xe đường phố căng thẳng ngày và đêm tại thành phố Palm City, kiếm tiền từ các giải đua hợp pháp ban ngày và mạo hiểm đua ngầm ban đêm trốn chạy cảnh sát truy đuổi.",
+    "shortDescriptionVi": "Đua xe ngầm đường phố đối đầu cảnh sát rượt đuổi nảy lửa.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Thế giới mở"
+    ]
+  },
+  "1225570": {
+    "id": 1225570,
+    "name": "Unpacking",
+    "descriptionVi": "Trò chơi giải đố thiền định mở thùng đồ đạc và sắp xếp vào các căn phòng mới, kể câu chuyện về sự trưởng thành của một đời người qua từng món kỷ vật.",
+    "shortDescriptionVi": "Sắp xếp đồ đạc mở thùng chuyển nhà thư giãn và ấm áp.",
+    "genresVi": [
+      "Giải đố",
+      "Thư giãn",
+      "Đồ họa Pixel",
+      "Độc lập"
+    ]
+  },
+  "1235140": {
+    "id": 1235140,
+    "name": "Yakuza: Like a Dragon",
+    "descriptionVi": "Khởi đầu mới của dòng game Yakuza với nhân vật chính Ichiban Kasuga dũng cảm, biến các con phố Yokohama thành bàn cờ nhập vai theo lượt độc nhất vô nhị.",
+    "shortDescriptionVi": "Lột xác dòng game Yakuza với lối chơi nhập vai theo lượt mới lạ.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Hài hước",
+      "Theo lượt"
+    ]
+  },
+  "1238810": {
+    "id": 1238810,
+    "name": "Battlefield™ V",
+    "descriptionVi": "Tái hiện chiến trường Thế chiến II hoành tráng với các trận đánh quy mô lớn, nơi bạn lái xe tăng, điều khiển máy bay và phối hợp cùng tiểu đội để kiểm soát cứ điểm.",
+    "shortDescriptionVi": "Chiến trường Thế chiến II quy mô lớn đầy kịch tính.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "1243830": {
+    "id": 1243830,
+    "name": "Dorfromantik",
+    "descriptionVi": "Xếp các mảnh đất lục giác phong cảnh để mở rộng một vùng thôn quê thanh bình với đồng cỏ, rừng cây, dòng sông và những ngôi làng xinh xắn.",
+    "shortDescriptionVi": "Ghép ô lục giác xây dựng cảnh quan thôn quê êm đềm thư giãn.",
+    "genresVi": [
+      "Giải đố",
+      "Xây dựng",
+      "Thư giãn",
+      "Độc lập"
+    ]
+  },
+  "1244090": {
+    "id": 1244090,
+    "name": "Sea of Stars",
+    "descriptionVi": "Bức thư tình gửi đến dòng game JRPG cổ điển thập niên 90, theo chân hai Đứa Trẻ Điểm Chí kết hợp sức mạnh Mặt Trời và Mặt Trăng để chống lại tà thuật giả kim đen tối.",
+    "shortDescriptionVi": "Nhập vai pixel cổ điển tuyệt đẹp với lối chơi theo lượt cuốn hút.",
+    "genresVi": [
+      "Nhập vai",
+      "JRPG",
+      "Theo lượt",
+      "Đồ họa Pixel"
+    ]
+  },
+  "1244460": {
+    "id": 1244460,
+    "name": "Jurassic World Evolution 2",
+    "descriptionVi": "Xây dựng công viên kỷ Jura của riêng bạn, nhân bản và chăm sóc hơn 75 loài khủng long tiền sử hùng vĩ trong một tựa game mô phỏng quản lý xuất sắc.",
+    "shortDescriptionVi": "Mô phỏng xây dựng và quản trị công viên khủng long kỷ Jura.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Khủng long"
+    ]
+  },
+  "1245620": {
+    "id": 1245620,
+    "name": "ELDEN RING",
+    "descriptionVi": "Tuyệt phẩm nhập vai hành động thế giới mở của FromSoftware, đưa người chơi vào vai Kẻ Hoen Ố khám phá Vùng Đất Giữa kỳ vĩ và chinh phục chiếc nhẫn Elden cổ xưa.",
+    "shortDescriptionVi": "Tuyệt phẩm nhập vai hành động thế giới mở giả tưởng.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Thế giới mở",
+      "Phiêu lưu"
+    ]
+  },
+  "1248130": {
+    "id": 1248130,
+    "name": "Farming Simulator 22",
+    "descriptionVi": "Vào vai người nông dân hiện đại, điều khiển hàng trăm loại máy móc nông nghiệp chân thực từ các thương hiệu hàng đầu thế giới để gieo trồng và thu hoạch mùa màng.",
+    "shortDescriptionVi": "Mô phỏng quản lý trang trại nông nghiệp hiện đại quy mô lớn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Nông nghiệp",
+      "Quản lý"
+    ]
+  },
+  "1250410": {
+    "id": 1250410,
+    "name": "Microsoft Flight Simulator",
+    "descriptionVi": "Trải nghiệm mô phỏng lái máy bay chân thực nhất trên thế giới với dữ liệu bản đồ Trái Đất theo thời gian thực, điều khiển từ máy bay hạng nhẹ đến phi cơ thương mại khổng lồ.",
+    "shortDescriptionVi": "Mô phỏng lái máy bay chân thực bay lượn khắp bầu trời Trái Đất.",
+    "genresVi": [
+      "Mô phỏng",
+      "Hàng không",
+      "Thế giới mở"
+    ]
+  },
+  "1251960": {
+    "id": 1251960,
+    "name": "Deathtrap Dungeon: The Golden Room",
+    "descriptionVi": "Phim tương tác chuyển thể từ cuốn sách trò chơi kinh điển của Ian Livingstone, đưa bạn bước vào mê cung cạm bẫy nguy hiểm để chinh phục căn phòng hoàng kim.",
+    "shortDescriptionVi": "Phiêu lưu vượt mê cung ngục tối đầy hiểm nguy chuyển thể từ sách trò chơi.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Giả tưởng",
+      "Phiêu lưu",
+      "Ngục tối"
+    ]
+  },
+  "1259980": {
+    "id": 1259980,
+    "name": "RIDE 4",
+    "descriptionVi": "Trải nghiệm đua mô tô phân khối lớn đỉnh cao với hàng trăm mẫu xe bản quyền, thời tiết biến đổi và hệ thống AI thần kinh A.N.N.A thông minh.",
+    "shortDescriptionVi": "Đua mô tô phân khối lớn đỉnh cao với đồ họa chân thực sắc nét.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô tô",
+      "Mô phỏng"
+    ]
+  },
+  "1260320": {
+    "id": 1260320,
+    "name": "Party Animals",
+    "descriptionVi": "Trò chơi đối kháng vật lý hài hước, nơi bạn hóa thân thành những con thú nhồi bông đáng yêu dùng chảo, súng bắn keo hoặc nắm đấm để hất văng bạn bè khỏi sàn đấu.",
+    "shortDescriptionVi": "Đối kháng vật lý vui nhộn cùng những con thú đáng yêu.",
+    "genresVi": [
+      "Hành động",
+      "Vui nhộn",
+      "Nhiều người chơi",
+      "Tiệc tùng"
+    ]
+  },
+  "1262350": {
+    "id": 1262350,
+    "name": "SIGNALIS",
+    "descriptionVi": "Trải nghiệm kinh dị sinh tồn mang phong cách cổ điển trong bối cảnh tương lai u tối, điều khiển người máy Elster giải mã những bí mật siêu nhiên và sinh tồn với số lượng đạn dược ít ỏi.",
+    "shortDescriptionVi": "Kinh dị sinh tồn cổ điển tuyệt đẹp với bầu không khí anime u tối.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Cổ điển",
+      "Độc lập"
+    ]
+  },
+  "1262560": {
+    "id": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "descriptionVi": "Trở thành tay đua bị truy nã gắt gao nhất thành phố Fairhaven, nhấn ga đập tan đối thủ và luồn lách trốn thoát sự truy đuổi gắt gao của cảnh sát.",
+    "shortDescriptionVi": "Đua xe đường phố kinh điển trốn chạy cảnh sát truy đuổi gắt gao.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Thế giới mở"
+    ]
+  },
+  "1262580": {
+    "id": 1262580,
+    "name": "Need for Speed™ Payback",
+    "descriptionVi": "Cốt truyện hành động trả thù ly kỳ tại thung lũng Fortune Valley, tái hợp băng nhóm lật đổ tổ chức tội phạm The House qua các màn cướp xe tốc độ cao.",
+    "shortDescriptionVi": "Hành động đua xe báo thù kịch tính như phim điện ảnh Hollywood.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Thế giới mở"
+    ]
+  },
+  "1262600": {
+    "id": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "descriptionVi": "Xóa nhòa ranh giới giữa chơi đơn và nhiều người chơi trong cuộc chiến sinh tử giữa cảnh sát và tay đua trên những cung đường quận Redview.",
+    "shortDescriptionVi": "Cuộc chiến sinh tử không khoan nhượng giữa cảnh sát và tay đua.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "1265920": {
+    "id": 1265920,
+    "name": "Life is Strange Remastered",
+    "descriptionVi": "Đồng hành cùng Max Caulfield khi cô phát hiện năng lực đảo ngược thời gian để cứu người bạn thân Chloe Price, cùng nhau điều tra sự mất tích bí ẩn của nữ sinh Rachel Amber.",
+    "shortDescriptionVi": "Bản nâng cấp đồ họa tuyệt đẹp của câu chuyện du hành thời gian học đường giàu cảm xúc.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Du hành thời gian",
+      "Tường thuật",
+      "Học đường"
+    ]
+  },
+  "1274570": {
+    "id": 1274570,
+    "name": "DEVOUR",
+    "descriptionVi": "Trò chơi kinh dị phối hợp 1-4 người, nơi bạn phải ngăn chặn các thành viên giáo phái bị quỷ ám bằng cách tìm vật hiến tế và hóa giải lời nguyền trước khi bị bắt kéo xuống địa ngục.",
+    "shortDescriptionVi": "Kinh dị phối hợp 4 người giải trừ tà đạo quỷ ám rùng rợn.",
+    "genresVi": [
+      "Kinh dị",
+      "Phối hợp",
+      "Độc lập",
+      "Hành động"
+    ]
+  },
+  "1281590": {
+    "id": 1281590,
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "descriptionVi": "Lực lượng đặc nhiệm lạc vào một ngôi đền Sumer cổ đại bị chôn vùi dưới lòng đất, buộc phải gạt bỏ thù hằn để cùng kẻ thù sinh tồn trước bầy quái vật bóng đêm khát máu.",
+    "shortDescriptionVi": "Kinh dị điện ảnh chiến thuật sinh tồn trong phế tích cổ Sumer ngầm.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "1282100": {
+    "id": 1282100,
+    "name": "Remnant II",
+    "descriptionVi": "Hậu bản bắn súng góc nhìn thứ ba soulslike đưa bạn cùng đồng đội du hành qua các chiều không gian quái dị, đối đầu với những con trùm khổng lồ biến đổi ngẫu nhiên.",
+    "shortDescriptionVi": "Bắn súng soulslike phối hợp tổ đội khám phá đa chiều không gian.",
+    "genresVi": [
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba",
+      "Nhập vai",
+      "Phối hợp"
+    ]
+  },
+  "1284410": {
+    "id": 1284410,
+    "name": "Lunacid",
+    "descriptionVi": "Game nhập vai góc nhìn thứ nhất lấy cảm hứng từ dòng King's Field cổ điển, khám phá Vực Thẳm Lòng Đất tăm tối với bầu không khí u hoài và phép thuật cổ xưa.",
+    "shortDescriptionVi": "Nhập vai góc nhìn thứ nhất khám phá hầm ngục u ám cổ điển.",
+    "genresVi": [
+      "Nhập vai",
+      "Hầm ngục",
+      "Góc nhìn thứ nhất",
+      "Độc lập"
+    ]
+  },
+  "1290000": {
+    "id": 1290000,
+    "name": "PowerWash Simulator",
+    "descriptionVi": "Cầm vòi xịt nước áp lực cao tẩy sạch mọi vết bẩn cứng đầu trên xe cộ, nhà cửa và công viên trong một tựa game dọn dẹp thư giãn đến lạ kỳ.",
+    "shortDescriptionVi": "Xịt rửa áp lực cao siêu thỏa mãn và giải tỏa căng thẳng.",
+    "genresVi": [
+      "Mô phỏng",
+      "Thư giãn",
+      "Giải trí",
+      "Độc lập"
+    ]
+  },
+  "1291340": {
+    "id": 1291340,
+    "name": "Townscaper",
+    "descriptionVi": "Trò chơi thư giãn tức thì, chỉ cần nhấp chuột trên mặt biển lặng để biến hóa những ngôi nhà cổ kính, mái vòm và cây cầu xinh đẹp theo thuật toán kỳ diệu.",
+    "shortDescriptionVi": "Xây dựng thị trấn đảo cổ kính thơ mộng chỉ bằng những cú nhấp chuột.",
+    "genresVi": [
+      "Xây dựng",
+      "Thư giãn",
+      "Độc lập"
+    ]
+  },
+  "1293830": {
+    "id": 1293830,
+    "name": "Forza Horizon 4",
+    "descriptionVi": "Lễ hội đua xe thế giới mở tại nước Anh thơ mộng với 4 mùa xuân hạ thu đông thay đổi sống động hàng tuần, làm thay đổi toàn bộ điều kiện đường đua.",
+    "shortDescriptionVi": "Đua xe thế giới mở tuyệt đẹp qua bốn mùa luân chuyển tại nước Anh.",
+    "genresVi": [
+      "Đua xe",
+      "Thế giới mở",
+      "Hành động"
+    ]
+  },
+  "1295920": {
+    "id": 1295920,
+    "name": "The Mortuary Assistant",
+    "descriptionVi": "Thực hiện công việc ướp xác ca đêm tại nhà tang nghề River Fields, tìm kiếm dấu vết tà ma và tiến hành các nghi thức trục xuất quỷ dữ trước khi linh hồn bạn bị chiếm đoạt.",
+    "shortDescriptionVi": "Mô phỏng ướp xác ca đêm kết hợp trừ tà rợn tóc gáy.",
+    "genresVi": [
+      "Kinh dị",
+      "Mô phỏng",
+      "Tâm lý",
+      "Độc lập"
+    ]
+  },
+  "1304930": {
+    "id": 1304930,
+    "name": "DRIFTCE",
+    "descriptionVi": "Độ chiếc xe drift mơ ước trong xưởng cơ khí, thay đổi từng bộ phận động cơ và mang ra thử thách kỹ năng rê bánh trên đường đua huyền thoại Ebisu của Nhật Bản.",
+    "shortDescriptionVi": "Mô phỏng độ xe và drift trên đường đua huyền thoại Ebisu Nhật Bản.",
+    "genresVi": [
+      "Đua xe",
+      "Drift",
+      "Mô phỏng"
+    ]
+  },
+  "1313140": {
+    "id": 1313140,
+    "name": "Cult of the Lamb",
+    "descriptionVi": "Vào vai một chú cừu được cứu thoát khỏi án tử, thành lập giáo phái trung thành, thuyết giảng tín đồ và thảo phạt những kẻ ngoại đạo trong các chuyến đi hầm ngục.",
+    "shortDescriptionVi": "Xây dựng giáo phái sùng đạo kết hợp vượt hầm ngục roguelite độc lạ.",
+    "genresVi": [
+      "Roguelike",
+      "Quản lý",
+      "Hành động",
+      "Độc lập"
+    ]
+  },
+  "1321070": {
+    "id": 1321070,
+    "name": "Death Come True",
+    "descriptionVi": "Tỉnh dậy trong khách sạn mà không nhớ danh tính của mình trong khi bị truy nã vì tội giết người hàng loạt, nhân vật chính sở hữu năng lực hồi sinh sau cái chết để tái lập điều tra.",
+    "shortDescriptionVi": "Phim tương tác phá án vòng lặp thời gian từ tác giả bộ truyện Danganronpa.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Khoa học viễn tưởng",
+      "Trinh thám",
+      "Bí ẩn"
+    ]
+  },
+  "1326470": {
+    "id": 1326470,
+    "name": "Sons Of The Forest",
+    "descriptionVi": "Được phái đến một hòn đảo xa xôi để tìm kiếm tỷ phú mất tích, bạn phải tự chế tạo vũ khí, xây dựng căn cứ và chiến đấu chống lại bộ tộc ăn thịt người và quái vật biến dị.",
+    "shortDescriptionVi": "Sinh tồn kinh dị thế giới mở chống lại dị nhân ăn thịt người.",
+    "genresVi": [
+      "Sinh tồn",
+      "Kinh dị",
+      "Thế giới mở",
+      "Hành động"
+    ]
+  },
+  "1328660": {
+    "id": 1328660,
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "descriptionVi": "Cảm nhận sự hồi hộp của các cuộc rượt đuổi nghẹt thở, chọn trở thành cảnh sát lái siêu xe rải đinh chặn đường hoặc tay đua ngoài vòng pháp luật dùng thiết bị gây nhiễu.",
+    "shortDescriptionVi": "Đại chiến cảnh sát và quái xế rượt đuổi tốc độ cao làm lại sắc nét.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "1328670": {
+    "id": 1328670,
+    "name": "Mass Effect™ Legendary Edition",
+    "descriptionVi": "Bộ ba game nhập vai sử thi không gian huyền thoại theo chân Chỉ huy Shepard và phi hành đoàn tàu Normandy cứu vãn dải ngân hà trước hiểm họa diệt chủng Reapers.",
+    "shortDescriptionVi": "Bộ ba thiên anh hùng ca vũ trụ huyền thoại của Chỉ huy Shepard.",
+    "genresVi": [
+      "Nhập vai",
+      "Khoa học viễn tưởng",
+      "Bắn súng góc nhìn thứ ba",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "1332010": {
+    "id": 1332010,
+    "name": "Stray",
+    "descriptionVi": "Vào vai một chú mèo lạc bước vào thành phố mạng ngầm ngập tràn robot, kết bạn với chiếc drone B-12 và tìm đường trở về với đàn qua các câu đố thông minh.",
+    "shortDescriptionVi": "Phiêu lưu giải đố độc đáo dưới góc nhìn chú mèo lạc.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Độc lập",
+      "Giải đố",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1337520": {
+    "id": 1337520,
+    "name": "Against the Storm",
+    "descriptionVi": "Sự kết hợp độc đáo giữa xây dựng thành phố và roguelite, lãnh đạo con người, hải ly và thằn lằn gây dựng các tiền đồn giữa những cơn mưa giông tàn phá vô tận.",
+    "shortDescriptionVi": "Xây dựng thành phố roguelite sáng tạo trong cơn mưa giông bão táp.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng thành phố",
+      "Roguelike",
+      "Giả tưởng"
+    ]
+  },
+  "1341820": {
+    "id": 1341820,
+    "name": "As Dusk Falls",
+    "descriptionVi": "Khám phá mối lương duyên phức tạp kéo dài ba thập kỷ giữa hai gia đình bắt đầu từ một vụ cướp bất thành tại thị trấn nhỏ ở Arizona, thưởng thức cùng bạn bè qua hệ thống bỏ phiếu cốt truyện.",
+    "shortDescriptionVi": "Kịch bản điện ảnh tương tác chân thực và xúc động về gia đình và sự lựa chọn.",
+    "genresVi": [
+      "Tường thuật",
+      "Lựa chọn theo cốt truyện",
+      "Điện ảnh",
+      "Kịch tính"
+    ]
+  },
+  "1350200": {
+    "id": 1350200,
+    "name": "IMMORTALITY",
+    "descriptionVi": "Xem xét kỹ lưỡng từng thước phim chưa từng công bố từ ba bộ phim thất lạc của nữ diễn viên Marissa Marcel, lật mở bí ẩn đằng sau sự biến mất bí ẩn của cô.",
+    "shortDescriptionVi": "Bộ ba phim tương tác điện ảnh nghệ thuật lừng danh của Sam Barlow.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Bí ẩn",
+      "Tường thuật",
+      "Điện ảnh"
+    ]
+  },
+  "1353270": {
+    "id": 1353270,
+    "name": "Five Dates",
+    "descriptionVi": "Đồng hành cùng chàng trai Vinny thử sức hẹn hò qua video trực tuyến với 5 cô gái có cá tính khác nhau trong thời gian giãn cách xã hội, tìm kiếm sự hòa hợp đích thực.",
+    "shortDescriptionVi": "Phim hài lãng mạn tương tác về những buổi hẹn hò qua màn hình máy tính.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hẹn hò",
+      "Hài lãng mạn",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "1358640": {
+    "id": 1358640,
+    "name": "Dread Hunger",
+    "descriptionVi": "Hành trình thám hiểm Bắc Cực khắc nghiệt trên con tàu hơi nước, nơi thủy thủ đoàn phải sinh tồn trước cái lạnh cắt da và vạch trần những kẻ phản bội ngầm nguyền rủa.",
+    "shortDescriptionVi": "Sinh tồn suy đoán xã hội nghẹt thở giữa vùng băng tuyết Bắc Cực.",
+    "genresVi": [
+      "Hành động",
+      "Sinh tồn",
+      "Nhiều người chơi",
+      "Kinh dị"
+    ]
+  },
+  "1361000": {
+    "id": 1361000,
+    "name": "In Silence",
+    "descriptionVi": "Trận chiến sinh tồn bất đối xứng nơi một người chơi hóa thân thành quái vật mù nhưng có thính giác cực nhạy, còn những người sống sót phải di chuyển thật khẽ để sửa xe trốn thoát.",
+    "shortDescriptionVi": "Sinh tồn kinh dị săn đuổi theo tiếng động nhiều người chơi độc đáo.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Nhiều người chơi",
+      "Đối kháng trực tuyến"
+    ]
+  },
+  "1363080": {
+    "id": 1363080,
+    "name": "Manor Lords",
+    "descriptionVi": "Tựa game xây dựng thành phố thời trung cổ chân thực đến từng chi tiết, kết hợp quản lý kinh tế xã hội sâu sắc và các trận đánh dàn trận quy mô lớn.",
+    "shortDescriptionVi": "Xây dựng lãnh địa trung cổ chân thực kết hợp dàn trận quy mô lớn.",
+    "genresVi": [
+      "Chiến thuật",
+      "Xây dựng thành phố",
+      "Mô phỏng",
+      "Trung cổ"
+    ]
+  },
+  "1364780": {
+    "id": 1364780,
+    "name": "Street Fighter 6",
+    "descriptionVi": "Kỷ nguyên mới của dòng game đối kháng Street Fighter với chế độ World Tour tự do phiêu lưu, cơ chế Drive System mới và dàn võ sĩ huyền thoại Ryu, Chun-Li.",
+    "shortDescriptionVi": "Đỉnh cao đối kháng đường phố Street Fighter thế hệ mới sống động.",
+    "genresVi": [
+      "Đối kháng",
+      "Hành động",
+      "Nhiều người chơi"
+    ]
+  },
+  "1366540": {
+    "id": 1366540,
+    "name": "Dyson Sphere Program",
+    "descriptionVi": "Tự động hóa nhà máy quy mô liên hành tinh, vận chuyển tài nguyên bằng phi thuyền không gian và xây dựng Siêu cấu trúc Quả cầu Dyson để thu năng lượng mặt trời.",
+    "shortDescriptionVi": "Xây dựng mạng lưới nhà máy vũ trụ và Siêu cấu trúc Quả cầu Dyson.",
+    "genresVi": [
+      "Chiến thuật",
+      "Khoa học viễn tưởng",
+      "Tự động hóa",
+      "Không gian"
+    ]
+  },
+  "1367590": {
+    "id": 1367590,
+    "name": "Tormented Souls",
+    "descriptionVi": "Hồi sinh phong cách kinh dị sinh tồn camera góc nhìn cố định kinh điển, đưa nhân vật Caroline Walker khám phá dinh thự cổ biến thành bệnh viện quái dị để tìm kiếm hai bé gái mất tích.",
+    "shortDescriptionVi": "Kinh dị sinh tồn góc máy cố định truyền thống lấy cảm hứng từ Resident Evil.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Giải đố",
+      "Cổ điển"
+    ]
+  },
+  "1388880": {
+    "id": 1388880,
+    "name": "Doki Doki Literature Club Plus!",
+    "descriptionVi": "Tham gia câu lạc bộ văn thơ trường học để làm quen với các nữ sinh dễ thương, trước khi bức màn tâm lý đen tối bất ngờ mở ra với những cú ngoặt phá vỡ bức tường thứ tư kinh điển.",
+    "shortDescriptionVi": "Tiểu thuyết trực quan ngọt ngào ẩn giấu nỗi kinh hoàng tâm lý sâu sắc.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Tiểu thuyết trực quan",
+      "Giải trí nhẹ nhàng"
+    ]
+  },
+  "1422730": {
+    "id": 1422730,
+    "name": "Hijacker Jack : ARCADE FMV",
+    "descriptionVi": "Trải nghiệm cuộc sống giàu sang và những pha rượt đuổi nghẹt thở dưới góc nhìn thứ nhất của Jack trong tựa game hành động người đóng tốc độ cao.",
+    "shortDescriptionVi": "Hành động người đóng góc nhìn thứ nhất đậm chất arcade sôi động.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hành động",
+      "Góc nhìn thứ nhất",
+      "Arcade"
+    ]
+  },
+  "1426210": {
+    "id": 1426210,
+    "name": "It Takes Two",
+    "descriptionVi": "Tuyệt phẩm phiêu lưu co-op hai người đạt giải Game of the Year, theo chân cặp vợ chồng Cody và May hóa thành búp bê cùng nhau hàn gắn tình cảm qua các thử thách kỳ thú.",
+    "shortDescriptionVi": "Game phiêu lưu phối hợp 2 người chơi xuất sắc nhất mọi thời đại.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Phối hợp",
+      "Vui nhộn",
+      "Đi cảnh"
+    ]
+  },
+  "1432050": {
+    "id": 1432050,
+    "name": "Chorus",
+    "descriptionVi": "Game bắn phi thuyền không gian tốc độ cao, theo chân Nara và chiến phi thuyền có tri giác Forsaken trong hành trình tiêu diệt tà giáo hắc ám đã tạo ra cô.",
+    "shortDescriptionVi": "Bắn phi thuyền không gian viễn tưởng mãn nhãn và tốc độ.",
+    "genresVi": [
+      "Hành động",
+      "Khoa học viễn tưởng",
+      "Bắn súng"
+    ]
+  },
+  "1440670": {
+    "id": 1440670,
+    "name": "Shredders",
+    "descriptionVi": "Tựa game trượt tuyết ván trượt đỉnh cao đưa bạn lướt qua những sườn tuyết trắng xóa và khu nghỉ dưỡng hoành tráng, biểu diễn các cú nhảy điệu nghệ.",
+    "shortDescriptionVi": "Trượt tuyết ván trượt nghệ thuật tự do giữa núi tuyết bao la.",
+    "genresVi": [
+      "Thể thao",
+      "Trượt tuyết",
+      "Mô phỏng"
+    ]
+  },
+  "1446780": {
+    "id": 1446780,
+    "name": "Monster Hunter Rise",
+    "descriptionVi": "Cầm vũ khí săn lùng quái vật với cơ chế bọ dây Wirebug cơ động, cưỡi thú cưng Palamute vượt địa hình và bảo vệ làng Kamura trước cuộc xâm lăng Rampage.",
+    "shortDescriptionVi": "Săn quái vật hành động nhịp độ cao với cơ chế bọ dây cơ động.",
+    "genresVi": [
+      "Hành động",
+      "Nhập vai",
+      "Phối hợp"
+    ]
+  },
+  "1449690": {
+    "id": 1449690,
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "descriptionVi": "Trọn bộ bốn mùa hành trình sinh tồn và trưởng thành đầy xúc động của cô bé Clementine giữa đại dịch thây ma tàn khốc, nơi mỗi lời nói và quyết định đều để lại vết hằn trong lòng nhân vật.",
+    "shortDescriptionVi": "Tuyển tập đầy đủ kiệt tác sinh tồn đại dịch thây ma lấy đi nước mắt hàng triệu người.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hậu tận thế",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "1450830": {
+    "id": 1450830,
+    "name": "At Dead Of Night",
+    "descriptionVi": "Sự kết hợp hoàn hảo giữa phim kinh dị người đóng và đồ họa 3D, khi bạn vừa phải lẩn trốn tên quản lý khách sạn tâm thần Jimmy, vừa dùng thiết bị bắt ma để khám phá tội ác trong quá khứ.",
+    "shortDescriptionVi": "Kinh dị trốn chạy kết hợp phim người đóng nghẹt thở trong khách sạn ma quái.",
+    "genresVi": [
+      "Kinh dị",
+      "Phim tương tác (FMV)",
+      "Sinh tồn",
+      "Lén lút"
+    ]
+  },
+  "1451190": {
+    "id": 1451190,
+    "name": "Undisputed",
+    "descriptionVi": "Tựa game quyền Anh chân thực nhất với hơn 70 võ sĩ được cấp phép, hệ thống di chuyển bộ pháp tinh vi và cơ chế đấm đòn sắc bén.",
+    "shortDescriptionVi": "Mô phỏng quyền Anh chuyên nghiệp chân thực và chuẩn xác.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Đối kháng"
+    ]
+  },
+  "1454400": {
+    "id": 1454400,
+    "name": "Cookie Clicker",
+    "descriptionVi": "Bấm chuột nướng bánh quy, thuê các bà ngoại nướng bánh, xây dựng nông trại bánh và nhà máy lượng tử để tạo ra hàng tỷ tỷ chiếc bánh quy ngọt ngào.",
+    "shortDescriptionVi": "Game bấm chuột nhàn rỗi nướng bánh quy huyền thoại gây nghiện.",
+    "genresVi": [
+      "Giải trí",
+      "Nhàn rỗi",
+      "Bấm chuột"
+    ]
+  },
+  "1462040": {
+    "id": 1462040,
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descriptionVi": "Tái hiện hoành tráng thành phố Midgar, đồng hành cùng Cloud Strife và nhóm Avalanche chống lại tập đoàn độc ác Shinra trong những trận chiến kết hợp hành động và chiến thuật.",
+    "shortDescriptionVi": "Tái hiện đỉnh cao chương đầu hành trình huyền thoại của Cloud Strife.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "JRPG",
+      "Giả tưởng"
+    ]
+  },
+  "1465360": {
+    "id": 1465360,
+    "name": "SnowRunner",
+    "descriptionVi": "Điều khiển những cỗ xe địa hình hạng nặng vượt qua bùn lầy, nước lũ và băng tuyết hiểm trở để hoàn thành các hợp đồng vận chuyển gian nan.",
+    "shortDescriptionVi": "Lái xe tải vượt địa hình bùn lầy và băng tuyết khắc nghiệt đỉnh cao.",
+    "genresVi": [
+      "Mô phỏng",
+      "Lái xe",
+      "Địa hình"
+    ]
+  },
+  "1466860": {
+    "id": 1466860,
+    "name": "Age of Empires IV: Anniversary Edition",
+    "descriptionVi": "Chương mới của dòng game chiến thuật Đế Chế huyền thoại, trải nghiệm các chiến dịch lịch sử có thật với các nền văn minh độc đáo và đồ họa hiện đại sắc nét.",
+    "shortDescriptionVi": "Chiến thuật thời gian thực Đế Chế 4 hoành tráng và hiện đại.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Lịch sử"
+    ]
+  },
+  "1477920": {
+    "id": 1477920,
+    "name": "Night Book",
+    "descriptionVi": "Một nữ thông dịch viên làm việc trực tuyến tại nhà vô tình đọc phải cuốn cổ thư bị nguyền rủa, vô tình triệu hồi thế lực ma quỷ đe dọa sinh mạng gia đình mình.",
+    "shortDescriptionVi": "Phim kinh dị huyền bí tương tác nghẹt thở xoay quanh cuốn sách cổ.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Kinh dị",
+      "Siêu nhiên",
+      "Giật gân"
+    ]
+  },
+  "1487210": {
+    "id": 1487210,
+    "name": "Super Mega Baseball 4",
+    "descriptionVi": "Trò chơi bóng chày phong cách arcade vui nhộn kết hợp mô phỏng sâu sắc, thi đấu cùng các huyền thoại bóng chày với những pha đập bóng bay khỏi sân vận động.",
+    "shortDescriptionVi": "Bóng chày phong cách arcade vui nhộn và kịch tính.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng chày",
+      "Vui nhộn"
+    ]
+  },
+  "1490840": {
+    "id": 1490840,
+    "name": "Bloodshore",
+    "descriptionVi": "Bộ phim sinh tồn hành động đưa các tử tù và người nổi tiếng tham gia vào chương trình thực tế bắn giết đẫm máu trên hòn đảo biệt lập để tranh đoạt giải thưởng triệu đô.",
+    "shortDescriptionVi": "Phim hành động tương tác sinh tồn kiểu Battle Royale đầy khốc liệt.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Sinh tồn",
+      "Hành động",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "1508270": {
+    "id": 1508270,
+    "name": "Doctor Who: The Lonely Assassins",
+    "descriptionVi": "Khám phá bí mật rùng rợn tại ngôi nhà hoang Wester Drumlins và đối mặt với quái vật Thiên Thần Khóc khét tiếng qua chiếc điện thoại thất lạc của nhân vật Larry Nightingale.",
+    "shortDescriptionVi": "Trinh thám giả lập điện thoại trong vũ trụ Doctor Who ly kỳ.",
+    "genresVi": [
+      "Giả lập điện thoại",
+      "Khoa học viễn tưởng",
+      "Bí ẩn",
+      "Giải đố"
+    ]
+  },
+  "1509960": {
+    "id": 1509960,
+    "name": "PICO PARK",
+    "descriptionVi": "Trò chơi giải đố phối hợp từ 2 đến 8 người chơi, đòi hỏi toàn bộ thành viên phải tìm chìa khóa và cùng nhau vượt qua các cạm bẫy mà không làm hỏng công sức của nhau.",
+    "shortDescriptionVi": "Giải đố phối hợp vui nhộn thử thách tình bạn từ 2-8 người.",
+    "genresVi": [
+      "Giải trí",
+      "Giải đố",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "1514930": {
+    "id": 1514930,
+    "name": "Erica",
+    "descriptionVi": "Một cô gái trẻ bị ám ảnh bởi cái chết bi thảm của cha mình bị cuốn vào những sự kiện bí ẩn tại viện Delphi, nơi từng cử chỉ chạm vuốt của bạn sẽ trực tiếp tác động lên hiện thực.",
+    "shortDescriptionVi": "Phim tương tác giật gân chất lượng cao với cơ chế điều khiển trực quan.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Giật gân",
+      "Bí ẩn",
+      "Tâm lý"
+    ]
+  },
+  "1525770": {
+    "id": 1525770,
+    "name": "The Dark Side of the Moon: An Interactive FMV Thriller",
+    "descriptionVi": "Khi hai đứa con nhỏ bỗng dưng biến mất kỳ lạ trong đêm, người cha đơn thân Dean Hamilton quyết tâm lần theo những manh mối siêu nhiên kỳ bí để đưa các con trở về.",
+    "shortDescriptionVi": "Phim kinh dị giật gân khoa học viễn tưởng cảm động về tình phụ tử.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Khoa học viễn tưởng",
+      "Giật gân",
+      "Bí ẩn"
+    ]
+  },
+  "1527950": {
+    "id": 1527950,
+    "name": "Wartales",
+    "descriptionVi": "Dẫn dắt một đội lính đánh thuê lang bạt qua vùng đất thời trung cổ khắc nghiệt, nhận hợp đồng săn tiền thưởng, chiêu mộ chiến hữu và sống sót qua từng ngày.",
+    "shortDescriptionVi": "Nhập vai chiến thuật dẫn đầu đội lính đánh thuê trung cổ lang bạt.",
+    "genresVi": [
+      "Chiến thuật",
+      "Nhập vai",
+      "Chiến thuật theo lượt",
+      "Thế giới mở"
+    ]
+  },
+  "1551360": {
+    "id": 1551360,
+    "name": "Forza Horizon 5",
+    "descriptionVi": "Khám phá phong cảnh Mexico rực rỡ và tràn đầy sức sống sau vô lăng của hàng trăm siêu xe vĩ đại nhất thế giới trong một lễ hội đua xe thế giới mở đỉnh cao.",
+    "shortDescriptionVi": "Đỉnh cao đua xe thế giới mở khám phá đất nước Mexico rực rỡ.",
+    "genresVi": [
+      "Đua xe",
+      "Thế giới mở",
+      "Hành động"
+    ]
+  },
+  "1557740": {
+    "id": 1557740,
+    "name": "ROUNDS",
+    "descriptionVi": "Đấu tay đôi 1v1 theo hiệp với cơ chế roguelite: sau mỗi hiệp thua, người thua cuộc được chọn thẻ bài nâng cấp sức mạnh đặc biệt để lật ngược tình thế.",
+    "shortDescriptionVi": "Đấu súng 1v1 kịch tính với nâng cấp thẻ bài roguelite.",
+    "genresVi": [
+      "Hành động",
+      "Đối kháng",
+      "Roguelike",
+      "Độc lập"
+    ]
+  },
+  "1562430": {
+    "id": 1562430,
+    "name": "DREDGE",
+    "descriptionVi": "Lái tàu đánh cá khám phá quần đảo xa xôi, kéo lưới bắt cá bán kiếm tiền nâng cấp tàu trong khi phải đối mặt với những bí ẩn kinh dị rình rập khi màn đêm buông xuống.",
+    "shortDescriptionVi": "Câu cá khám phá kết hợp yếu tố kinh dị biển sâu lôi cuốn.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Kinh dị",
+      "Nhập vai",
+      "Độc lập"
+    ]
+  },
+  "1563180": {
+    "id": 1563180,
+    "name": "Internet Cafe Simulator 2",
+    "descriptionVi": "Xây dựng quán net từ một căn phòng tồi tàn thành trung tâm thể thao điện tử hiện đại, nâng cấp cấu hình máy, phục vụ đồ ăn và chống lại những kẻ quậy phá.",
+    "shortDescriptionVi": "Mô phỏng quản lý tiệm net cyber game từ tay trắng lập nghiệp.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Hài hước"
+    ]
+  },
+  "1566200": {
+    "id": 1566200,
+    "name": "Tape to Tape",
+    "descriptionVi": "Tựa game khúc côn cầu trên băng phong cách roguelite vui nhộn, nơi bạn chiêu mộ cầu thủ, học các tuyệt chiêu hài hước và đút lót trọng tài để giành chức vô địch.",
+    "shortDescriptionVi": "Khúc côn cầu trên băng roguelite hài hước và độc đáo.",
+    "genresVi": [
+      "Thể thao",
+      "Hài hước",
+      "Roguelike",
+      "Độc lập"
+    ]
+  },
+  "1567020": {
+    "id": 1567020,
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "descriptionVi": "Đoàn làm phim tài liệu nhận lời mời đến bản sao lâu đài sát nhân khét tiếng của H.H. Holmes, nhưng nhanh chóng nhận ra họ đang bị theo dõi và thao túng trong những căn phòng bẫy chết người.",
+    "shortDescriptionVi": "Chương kết mùa một của tuyển tập kinh dị trong lâu đài cạm bẫy tàn khốc.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "1568590": {
+    "id": 1568590,
+    "name": "Goose Goose Duck",
+    "descriptionVi": "Trò chơi suy đoán xã hội hài hước giữa bầy Ngỗng chăm chỉ và những con Vịt đội lốt sát thủ đang âm thầm trừ khử từng thành viên trên phi thuyền.",
+    "shortDescriptionVi": "Suy đoán xã hội hài hước vui nhộn giữa bầy Ngỗng và Vịt sát thủ.",
+    "genresVi": [
+      "Chiến thuật",
+      "Nhiều người chơi",
+      "Hài hước",
+      "Chơi miễn phí"
+    ]
+  },
+  "1569080": {
+    "id": 1569080,
+    "name": "Tiny Glade",
+    "descriptionVi": "Trò chơi xây dựng lâu đài cổ tích thư giãn không có áp lực quản lý hay điểm số, chỉ cần di chuột để tạo nên những bức tường đá, tháp canh và mái vòm thơ mộng.",
+    "shortDescriptionVi": "Xây dựng lâu đài cổ tích tí hon thư giãn và chữa lành tâm hồn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Thư giãn",
+      "Xây dựng",
+      "Độc lập"
+    ]
+  },
+  "1577120": {
+    "id": 1577120,
+    "name": "The Quarry",
+    "descriptionVi": "Khi ánh hoàng hôn buông xuống vào đêm cuối cùng của trại hè, chín hướng dẫn viên tuổi teen phải đối mặt với đêm kinh hoàng trước sự săn lùng của cư dân bản địa và những quái thú khát máu.",
+    "shortDescriptionVi": "Phim điện ảnh kinh dị tương tác với hàng trăm lựa chọn sinh tử phân nhánh.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Phiêu lưu"
+    ]
+  },
+  "1593500": {
+    "id": 1593500,
+    "name": "God of War",
+    "descriptionVi": "Rời xa sự báo thù với các vị thần Hy Lạp, Kratos cùng con trai Atreus bắt đầu cuộc sống mới giữa vùng đất Bắc Âu hoang dã và hiểm nguy.",
+    "shortDescriptionVi": "Hành trình làm cha đầy xúc cảm của chiến thần Kratos ở Bắc Âu.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "1599330": {
+    "id": 1599330,
+    "name": "Wildmender",
+    "descriptionVi": "Hồi sinh một sa mạc cằn cỗi thành ốc đảo xanh tươi, dẫn nguồn nước, trồng trọt các loài thực vật ma thuật và bảo vệ thiên nhiên trước tà khí bóng tối.",
+    "shortDescriptionVi": "Hồi sinh sa mạc thành ốc đảo màu mỡ đầy sức sống cùng bạn bè.",
+    "genresVi": [
+      "Sinh tồn",
+      "Làm vườn",
+      "Phiêu lưu",
+      "Phối hợp"
+    ]
+  },
+  "1599340": {
+    "id": 1599340,
+    "name": "Lost Ark",
+    "descriptionVi": "Hành trình viễn chinh tìm kiếm thánh vật Ark thất lạc trong thế giới rực rỡ, phô diễn chuỗi kỹ năng chặt chém mãn nhãn trước bầy quái vật và các thủ lĩnh ngục tối khổng lồ.",
+    "shortDescriptionVi": "Game nhập vai hành động chặt chém đỉnh cao góc nhìn từ trên xuống.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Nhiều người chơi trực tuyến",
+      "Chơi miễn phí"
+    ]
+  },
+  "1601580": {
+    "id": 1601580,
+    "name": "Session: Skate Sim",
+    "descriptionVi": "Trò chơi mô phỏng trượt ván đường phố chân thực nhất, điều khiển từng bàn chân bằng hai cần gạt analog để thực hiện các kỹ năng lướt ván điêu luyện.",
+    "shortDescriptionVi": "Mô phỏng trượt ván đường phố chân thực chuẩn xác từng động tác.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Trượt ván"
+    ]
+  },
+  "1604030": {
+    "id": 1604030,
+    "name": "V Rising",
+    "descriptionVi": "Thức dậy như một ma cà rồng suy kiệt sau nhiều thế kỷ ngủ say, săn máu người để lấy lại sức mạnh, tránh né ánh mặt trời và xây dựng lâu đài bóng đêm của riêng bạn.",
+    "shortDescriptionVi": "Sinh tồn hành động hóa thân chúa tể ma cà rồng xây dựng đế chế.",
+    "genresVi": [
+      "Hành động",
+      "Sinh tồn",
+      "Nhập vai",
+      "Chế tạo"
+    ]
+  },
+  "1611910": {
+    "id": 1611910,
+    "name": "MXGP 2021 - The Official Motocross Videogame",
+    "descriptionVi": "Tựa game đua xe cào cào địa hình Motocross chính thức mùa giải 2021, tung hoành qua những bãi lầy cát bụi và các khúc cua bay người ngoạn mục.",
+    "shortDescriptionVi": "Đua xe cào cào vượt địa hình Motocross chính thức mùa giải 2021.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Địa hình"
+    ]
+  },
+  "1612780": {
+    "id": 1612780,
+    "name": "The Centennial Case : A Shijima Story",
+    "descriptionVi": "Đồng hành cùng nhà văn tiểu thuyết bí ẩn Haruka Kagami điều tra chuỗi án mạng kéo dài suốt 100 năm của gia tộc Shijima qua các thời kỳ lịch sử Nhật Bản.",
+    "shortDescriptionVi": "Tuyệt phẩm trinh thám người đóng giải mã án mạng thế kỷ của Square Enix.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Trinh thám",
+      "Phá án",
+      "Nhật Bản"
+    ]
+  },
+  "1621690": {
+    "id": 1621690,
+    "name": "Core Keeper",
+    "descriptionVi": "Trò chơi phiêu lưu khai khoáng hộp cát dưới lòng đất từ 1 đến 8 người chơi, đào quặng, chế tạo trang bị, trồng trọt và đánh bại những sinh vật cổ đại khổng lồ.",
+    "shortDescriptionVi": "Khai khoáng sinh tồn hộp cát dưới lòng đất hấp dẫn cùng bạn bè.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Sinh tồn",
+      "Hộp cát",
+      "Độc lập"
+    ]
+  },
+  "1622910": {
+    "id": 1622910,
+    "name": "Still Wakes the Deep",
+    "descriptionVi": "Thảm kịch giáng xuống giàn khoan dầu Beira D ngoài khơi Scotland năm 1975, buộc người chơi phải leo trèo qua các kết cấu kim loại sụp đổ để thoát khỏi thứ quái vật siêu nhiên ghê rợn.",
+    "shortDescriptionVi": "Kinh dị sinh tồn trên giàn khoan dầu ngoài khơi đạt giải thưởng danh giá.",
+    "genresVi": [
+      "Kinh dị",
+      "Phiêu lưu",
+      "Tường thuật",
+      "Khám phá"
+    ]
+  },
+  "1623730": {
+    "id": 1623730,
+    "name": "Palworld",
+    "descriptionVi": "Thu phục những sinh vật kỳ diệu tên là Pal, cùng chúng xây dựng căn cứ, canh tác nông trại, chế tạo vũ khí và chiến đấu bảo vệ vùng đất trong thế giới mở rộng lớn.",
+    "shortDescriptionVi": "Sinh tồn thế giới mở kết hợp thu phục và huấn luyện sinh vật Pal.",
+    "genresVi": [
+      "Thế giới mở",
+      "Sinh tồn",
+      "Hành động",
+      "Chế tạo"
+    ]
+  },
+  "1623940": {
+    "id": 1623940,
+    "name": "Bramble: The Mountain King",
+    "descriptionVi": "Hành trình phiêu lưu đầy u ám lấy cảm hứng từ truyện cổ tích Bắc Âu, nơi cậu bé Olle phải vượt qua những sinh vật khổng lồ tàn bạo để giải cứu người chị gái bị bắt cóc.",
+    "shortDescriptionVi": "Chuyến phiêu lưu đen tối kỳ ảo dựa trên những câu chuyện cổ tích Bắc Âu.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Kinh dị",
+      "Thần thoại",
+      "Độc lập"
+    ]
+  },
+  "1627720": {
+    "id": 1627720,
+    "name": "Lies of P",
+    "descriptionVi": "Tựa game hành động soulslike lấy cảm hứng từ câu chuyện chú bé người gỗ Pinocchio, chiến đấu với lũ búp bê máy nổi loạn để tìm kiếm nhân tính trong thành phố Krat u ám.",
+    "shortDescriptionVi": "Soulslike tăm tối xuất sắc lấy cảm hứng từ câu chuyện Pinocchio.",
+    "genresVi": [
+      "Hành động",
+      "Nhập vai",
+      "Soulslike",
+      "Độ khó cao"
+    ]
+  },
+  "1628130": {
+    "id": 1628130,
+    "name": "Who Pressed Mute on Uncle Marcus?",
+    "descriptionVi": "Trong buổi họp gia đình trực tuyến hàng năm, chú Marcus tiết lộ mình vừa bị người trong nhà đầu độc và nhờ bạn bí mật điều tra để tìm ra kẻ thủ ác trước khi quá muộn.",
+    "shortDescriptionVi": "Trinh thám gia đình hài hước giải cứu chú Marcus qua cuộc gọi video.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hài hước",
+      "Bí ẩn",
+      "Giải đố"
+    ]
+  },
+  "1642380": {
+    "id": 1642380,
+    "name": "Dave the Diver",
+    "descriptionVi": "Ban ngày lặn biển sâu Blue Hole săn bắt cá và khám phá tàn tích cổ xưa, ban đêm phụ trách quán sushi tươi ngon phục vụ thực khách sành ăn.",
+    "shortDescriptionVi": "Lặn biển săn cá ban ngày và quản lý quán sushi về đêm siêu cuốn.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Nhập vai",
+      "Mô phỏng",
+      "Độc lập"
+    ]
+  },
+  "1649080": {
+    "id": 1649080,
+    "name": "Two Point Campus",
+    "descriptionVi": "Xây dựng trường đại học trong mơ với những ngành học độc lạ như Trường Hiệp sĩ hay Nấu bánh pizza khổng lồ, đào tạo các sinh viên xuất sắc nhất.",
+    "shortDescriptionVi": "Xây dựng và quản trị trường đại học với các khóa học siêu quái chiêu.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Hài hước"
+    ]
+  },
+  "1650010": {
+    "id": 1650010,
+    "name": "RIDE 5",
+    "descriptionVi": "Cầm lái những siêu mô tô mạnh mẽ nhất thế giới với hệ thống mây trời 3D chân thực, đua trên các trường đua huyền thoại và cảm nhận tốc độ xé gió.",
+    "shortDescriptionVi": "Đua siêu mô tô thế hệ mới với thời tiết động và tốc độ xé gió.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô tô",
+      "Mô phỏng"
+    ]
+  },
+  "1657630": {
+    "id": 1657630,
+    "name": "Slime Rancher 2",
+    "descriptionVi": "Tiếp tục cuộc hành trình đến Đảo Cầu Vồng rực rỡ, khám phá những loài slime mới lạ, thu thập tài nguyên bí ẩn và xây dựng nhà kính mới của Beatrix.",
+    "shortDescriptionVi": "Phiêu lưu nuôi slime trên Đảo Cầu Vồng đầy sắc màu và điều kỳ thú.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Mô phỏng",
+      "Dễ thương",
+      "Góc nhìn thứ nhất"
+    ]
+  },
+  "1659040": {
+    "id": 1659040,
+    "name": "HITMAN World of Assassination",
+    "descriptionVi": "Hóa thân thành sát thủ huyền thoại Đặc vụ 47, chu du khắp thế giới và hoàn thành các hợp đồng ám sát mục tiêu bằng hàng trăm cách thức sáng tạo và ngụy trang tinh vi.",
+    "shortDescriptionVi": "Trở thành sát thủ số một thế giới với lối chơi lén lút tự do.",
+    "genresVi": [
+      "Hành động",
+      "Lén lút",
+      "Chiến thuật"
+    ]
+  },
+  "1659420": {
+    "id": 1659420,
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "descriptionVi": "Chu du vòng quanh địa cầu tìm kiếm kho báu huyền thoại của hải tặc cùng hai nhà khảo cổ liều mạng Nathan Drake và Chloe Frazer.",
+    "shortDescriptionVi": "Săn lùng kho báu cổ xưa nghẹt thở như phim điện ảnh bom tấn.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba"
+    ]
+  },
+  "1669000": {
+    "id": 1669000,
+    "name": "Age of Wonders 4",
+    "descriptionVi": "Cai trị một vương quốc huyền ảo do chính bạn thiết kế, kết hợp chiến lược xây dựng đế chế 4X và các trận chiến chiến thuật theo lượt đậm chất ma thuật cổ xưa.",
+    "shortDescriptionVi": "Chiến thuật 4X kỳ ảo kết hợp chiến đấu theo lượt đầy biến hóa.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật theo lượt",
+      "Giả tưởng",
+      "4X"
+    ]
+  },
+  "1670870": {
+    "id": 1670870,
+    "name": "MADiSON",
+    "descriptionVi": "Sử dụng chiếc máy ảnh chụp lấy liền cổ xưa để kết nối với cõi âm, rửa ảnh và giải các câu đố kỳ quái nhằm thoát khỏi sự dày vò của một con quỷ độc ác.",
+    "shortDescriptionVi": "Kinh dị tâm lý góc nhìn thứ nhất với cơ chế giải đố bằng máy ảnh tức thì.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Giải đố",
+      "Bắn súng góc nhìn thứ nhất"
+    ]
+  },
+  "1677280": {
+    "id": 1677280,
+    "name": "Company of Heroes 3",
+    "descriptionVi": "Đưa người chơi đến chiến trường Địa Trung Hải rực nắng với các bãi biển Ý và sa mạc Bắc Phi, kết hợp bản đồ chiến dịch động và các trận giao tranh tiểu đội kịch tính.",
+    "shortDescriptionVi": "Chiến thuật thời gian thực Thế chiến II tại chiến trường Địa Trung Hải.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Chiến tranh"
+    ]
+  },
+  "1687950": {
+    "id": 1687950,
+    "name": "Persona 5 Royal",
+    "descriptionVi": "Gia nhập băng Đạo Tặc Trái Tim, ban ngày làm học sinh trung học tại Tokyo sầm uất, ban đêm thâm nhập cung điện tâm trí kẻ xấu để thanh tẩy những dục vọng tha hóa.",
+    "shortDescriptionVi": "Nhập vai học đường sành điệu cùng băng Đạo Tặc Trái Tim tại Tokyo.",
+    "genresVi": [
+      "Nhập vai",
+      "Học đường",
+      "Theo lượt",
+      "Anime"
+    ]
+  },
+  "1688080": {
+    "id": 1688080,
+    "name": "Way of the Hunter",
+    "descriptionVi": "Trải nghiệm săn bắn đạo đức chân thực tại các thung lũng rộng lớn của Mỹ và châu Âu, điều khiển vũ khí chính xác và theo dõi tập tính loài vật tinh tế.",
+    "shortDescriptionVi": "Săn bắn thế giới mở chân thực giữa thiên nhiên hùng vĩ của Mỹ và Âu.",
+    "genresVi": [
+      "Thể thao",
+      "Săn bắn",
+      "Mô phỏng",
+      "Thế giới mở"
+    ]
+  },
+  "1692250": {
+    "id": 1692250,
+    "name": "F1® 22",
+    "descriptionVi": "Bước vào kỷ nguyên mới của giải đua F1 với những chiếc xe đua thiết kế mới, tính năng F1 Life sang trọng và trường đua Miami Grand Prix rực rỡ.",
+    "shortDescriptionVi": "Đua xe F1 kỷ nguyên mới với trường đua Miami sôi động.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô phỏng"
+    ]
+  },
+  "1693980": {
+    "id": 1693980,
+    "name": "Dead Space",
+    "descriptionVi": "Bản làm lại hoàn chỉnh tái hiện nỗi kinh hoàng ngoài không gian, khi kỹ sư Isaac Clarke phải dùng các công cụ khai khoáng để cắt xẻ lũ quái vật Necromorph trên con tàu vũ trụ USG Ishimura.",
+    "shortDescriptionVi": "Tuyệt phẩm kinh dị sinh tồn không gian khoa học viễn tưởng hồi sinh.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ ba",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1703340": {
+    "id": 1703340,
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "descriptionVi": "Khám phá câu chuyện triết học châm biếm về tự do ý chí và ngành công nghiệp game, nơi bạn theo chân nhân viên văn phòng Stanley và người dẫn chuyện dí dỏm.",
+    "shortDescriptionVi": "Kiệt tác châm biếm triết học về sự lựa chọn và tự do ý chí.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hài hước",
+      "Khám phá",
+      "Độc lập"
+    ]
+  },
+  "1716740": {
+    "id": 1716740,
+    "name": "Starfield",
+    "descriptionVi": "Tựa game nhập vai vũ trụ quy mô lớn của Bethesda, cho phép bạn tự thiết kế phi thuyền, khám phá hơn 1.000 hành tinh và gia nhập hội thám hiểm Constellation.",
+    "shortDescriptionVi": "Phiêu lưu nhập vai thám hiểm dải ngân hà với hơn 1.000 hành tinh.",
+    "genresVi": [
+      "Nhập vai",
+      "Khoa học viễn tưởng",
+      "Thế giới mở",
+      "Không gian"
+    ]
+  },
+  "1721470": {
+    "id": 1721470,
+    "name": "Poppy Playtime",
+    "descriptionVi": "Dùng đôi bàn tay co giãn GrabPack để giải đố và sinh tồn trong nhà máy sản xuất đồ chơi bỏ hoang Playtime Co., trốn chạy khỏi những con thú nhồi bông khổng lồ khát máu.",
+    "shortDescriptionVi": "Kinh dị giải đố hấp dẫn trong nhà máy đồ chơi bị ma ám.",
+    "genresVi": [
+      "Kinh dị",
+      "Giải đố",
+      "Bắn súng góc nhìn thứ nhất",
+      "Độc lập"
+    ]
+  },
+  "1774580": {
+    "id": 1774580,
+    "name": "STAR WARS Jedi: Survivor™",
+    "descriptionVi": "Cal Kestis tiếp tục cuộc chiến đơn độc chống lại Đế chế Thiên hà, sử dụng các thế đánh kiếm ánh sáng mới và sức mạnh Thần lực để bảo vệ những người thân yêu.",
+    "shortDescriptionVi": "Phiêu lưu hành động sử thi cùng hiệp sĩ Jedi Cal Kestis.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1778820": {
+    "id": 1778820,
+    "name": "TEKKEN 8",
+    "descriptionVi": "Cuộc đối đầu định mệnh giữa Jin Kazama và Kazuya Mishima với đồ họa Unreal Engine 5 đỉnh cao và cơ chế Heat System mang đến những pha đấm đá nghẹt thở.",
+    "shortDescriptionVi": "Siêu phẩm đối kháng võ thuật 3D TEKKEN đồ họa Unreal Engine 5.",
+    "genresVi": [
+      "Đối kháng",
+      "Hành động",
+      "3D"
+    ]
+  },
+  "1782210": {
+    "id": 1782210,
+    "name": "Crab Game",
+    "descriptionVi": "Trò chơi sinh tồn nhiều người chơi lấy cảm hứng từ các trò chơi dân gian sinh tử, nơi bạn phải cạnh tranh với tối đa 40 người để trở thành kẻ sống sót cuối cùng nhận tiền thưởng.",
+    "shortDescriptionVi": "Đấu trường sinh tồn mini-game hỗn loạn và vui nhộn.",
+    "genresVi": [
+      "Hành động",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "1790600": {
+    "id": 1790600,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "descriptionVi": "Sự trở lại của dòng game đối kháng 3D Budokai Tenkaichi huyền thoại, quy tụ hơn 180 chiến binh Dragon Ball với các đòn chưởng Kamehameha phá hủy sàn đấu.",
+    "shortDescriptionVi": "Đại chiến đối kháng 3D Dragon Ball bùng nổ sức mạnh Siêu Xay-da.",
+    "genresVi": [
+      "Đối kháng",
+      "Hành động",
+      "Anime"
+    ]
+  },
+  "1794680": {
+    "id": 1794680,
+    "name": "Vampire Survivors",
+    "descriptionVi": "Sinh tồn trước hàng vạn quái vật bủa vây trên màn hình, di chuyển né tránh và nâng cấp vũ khí tự động bắn để trụ vững đến phút thứ 30 nghẹt thở.",
+    "shortDescriptionVi": "Sinh tồn càn quét hàng vạn quái vật gây nghiện tột đỉnh.",
+    "genresVi": [
+      "Hành động",
+      "Roguelike",
+      "Tự động bắn",
+      "Độc lập"
+    ]
+  },
+  "1817070": {
+    "id": 1817070,
+    "name": "Marvel’s Spider-Man Remastered",
+    "descriptionVi": "Hóa thân thành Người Nhện Peter Parker đu tơ lượn vòng khắp New York, sử dụng những pha võ thuật nhào lộn và tơ nhện linh hoạt để bảo vệ thành phố trước các siêu tội phạm.",
+    "shortDescriptionVi": "Đu tơ hành động giải cứu thành phố New York cùng Người Nhện.",
+    "genresVi": [
+      "Hành động",
+      "Thế giới mở",
+      "Phiêu lưu",
+      "Siêu anh hùng"
+    ]
+  },
+  "1817190": {
+    "id": 1817190,
+    "name": "Marvel’s Spider-Man: Miles Morales",
+    "descriptionVi": "Thiếu niên Miles Morales học cách làm chủ sức mạnh điện sinh học Venom và khả năng tàng hình để tiếp bước người tiền nhiệm bảo vệ khu phố Harlem.",
+    "shortDescriptionVi": "Khám phá sức mạnh Người Nhện mới của thiếu niên Miles Morales.",
+    "genresVi": [
+      "Hành động",
+      "Thế giới mở",
+      "Phiêu lưu",
+      "Siêu anh hùng"
+    ]
+  },
+  "1824220": {
+    "id": 1824220,
+    "name": "Chivalry 2",
+    "descriptionVi": "Đưa bạn bước vào các trận chiến thời trung cổ hoành tráng 64 người chơi, vung gươm giáo, bắn cung và công thành trong những pha giao tranh đẫm máu đậm chất điện ảnh.",
+    "shortDescriptionVi": "Chiến trường chặt chém thời trung cổ 64 người chơi quy mô lớn.",
+    "genresVi": [
+      "Hành động",
+      "Chặt chém",
+      "Nhiều người chơi"
+    ]
+  },
+  "1837580": {
+    "id": 1837580,
+    "name": "Mia and the Dragon Princess",
+    "descriptionVi": "Cô hầu bàn dũng cảm Mia bỗng vướng vào rắc rối lớn khi một phụ nữ bí ẩn không biết nói tiếng Anh chạy trốn những tên côn đồ nguy hiểm tìm đến quán bar của cô.",
+    "shortDescriptionVi": "Phim tương tác hành động võ thuật hấp dẫn và hài hước.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hành động",
+      "Hài hước",
+      "Võ thuật"
+    ]
+  },
+  "1846170": {
+    "id": 1846170,
+    "name": "Iron Lung",
+    "descriptionVi": "Điều khiển chiếc tàu ngầm nhỏ xíu bị hàn kín mù tịt, chỉ dựa vào bản đồ tọa độ và chiếc máy ảnh đen trắng để thám hiểm đại dương máu trên một mặt trăng ngoài hành tinh.",
+    "shortDescriptionVi": "Kinh dị ngột ngạt trong tàu ngầm thám hiểm đại dương máu bí ẩn.",
+    "genresVi": [
+      "Kinh dị",
+      "Mô phỏng",
+      "Ngắn",
+      "Độc lập"
+    ]
+  },
+  "1846380": {
+    "id": 1846380,
+    "name": "Need for Speed™ Unbound",
+    "descriptionVi": "Phong cách đua xe đường phố mới mẻ kết hợp mô hình xe chân thực và hiệu ứng nghệ thuật graffiti hoạt hình nổi bật trong thành phố Lakeshore rực rỡ.",
+    "shortDescriptionVi": "Đua xe đường phố phong cách nghệ thuật graffiti hoạt hình cá tính.",
+    "genresVi": [
+      "Đua xe",
+      "Hành động",
+      "Thế giới mở"
+    ]
+  },
+  "1849250": {
+    "id": 1849250,
+    "name": "Pacific Drive",
+    "descriptionVi": "Lái chiếc xe cũ kỹ băng qua Vùng Loại Trừ Olympic đầy hiện tượng siêu nhiên dị thường, liên tục nâng cấp xe trong gara để sống sót trở về.",
+    "shortDescriptionVi": "Sinh tồn lái xe khám phá vùng đất dị thường siêu nhiên kỳ bí.",
+    "genresVi": [
+      "Sinh tồn",
+      "Lái xe",
+      "Khoa học viễn tưởng",
+      "Độc lập"
+    ]
+  },
+  "1850570": {
+    "id": 1850570,
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "descriptionVi": "Hóa thân thành người giao hàng Sam Bridges kết nối lại nước Mỹ tan vỡ sau hiện tượng Thủy triều Chết, mang theo hy vọng tương lai trên từng bước chân cô độc.",
+    "shortDescriptionVi": "Kết nối thế giới hoang tàn sau thảm họa kỳ lạ cùng Sam Bridges.",
+    "genresVi": [
+      "Phiêu lưu",
+      "Hành động",
+      "Thế giới mở",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "1875830": {
+    "id": 1875830,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "descriptionVi": "Phiên bản hoàn chỉnh của kiệt tác JRPG u tối, đưa bạn vào vai Nahobino chiến đấu và đàm phán thu phục hàng trăm ác quỷ giữa một Tokyo hoang tàn sau thảm họa thần thoại.",
+    "shortDescriptionVi": "Thu phục ác quỷ và chiến đấu định đoạt vận mệnh thế giới.",
+    "genresVi": [
+      "Nhập vai",
+      "Chiến thuật theo lượt",
+      "Thần thoại",
+      "Anime"
+    ]
+  },
+  "1888930": {
+    "id": 1888930,
+    "name": "The Last of Us™ Part I",
+    "descriptionVi": "Hành trình sinh tồn nghẹn ngào cảm xúc của Joel và cô bé Ellie băng qua nước Mỹ hoang tàn sau đại dịch nấm ký sinh biến đổi con người thành quái vật.",
+    "shortDescriptionVi": "Kiệt tác sinh tồn hậu tận thế với câu chuyện xúc động lòng người.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc",
+      "Sinh tồn"
+    ]
+  },
+  "1911290": {
+    "id": 1911290,
+    "name": "PGA TOUR 2K23",
+    "descriptionVi": "Trải nghiệm giải đấu golf chuyên nghiệp danh giá nhất thế giới cùng huyền thoại Tiger Woods, thi đấu trên các sân golf chuẩn PGA Tour được tái hiện chân thực.",
+    "shortDescriptionVi": "Mô phỏng đánh golf chuyên nghiệp đỉnh cao cùng Tiger Woods.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Golf"
+    ]
+  },
+  "1925970": {
+    "id": 1925970,
+    "name": "SIMULACRA 3",
+    "descriptionVi": "Thị trấn Stonecreek chìm trong hoảng loạn khi người dân lần lượt bốc hơi không dấu vết, buộc bạn phải dùng chiếc điện thoại để lại để truy vết kẻ gieo rắc ác mộng.",
+    "shortDescriptionVi": "Chương tiếp theo của dòng game kinh dị giải mã bí ẩn trên điện thoại.",
+    "genresVi": [
+      "Kinh dị",
+      "Giả lập điện thoại",
+      "Bí ẩn",
+      "Giải đố"
+    ]
+  },
+  "1929610": {
+    "id": 1929610,
+    "name": "Demonologist",
+    "descriptionVi": "Cùng tối đa 3 đồng đội sử dụng các thiết bị khoa học và tâm linh để xác định danh tính linh hồn tà ác trong các địa điểm bị ám, sau đó tiến hành nghi thức thanh tẩy xua đuổi quỷ dữ.",
+    "shortDescriptionVi": "Săn ma và trừ tà phối hợp trực tuyến đồ họa Unreal Engine 5 đỉnh cao.",
+    "genresVi": [
+      "Kinh dị",
+      "Phối hợp",
+      "Nhiều người chơi",
+      "Điều tra"
+    ]
+  },
+  "1934680": {
+    "id": 1934680,
+    "name": "Age of Mythology: Retold",
+    "descriptionVi": "Bản làm lại tuyệt đẹp của kiệt tác chiến thuật thần thoại, triệu hồi các vị thần Hy Lạp, Bắc Âu, Ai Cập và dẫn dắt các đạo quân quái vật huyền thoại xung trận.",
+    "shortDescriptionVi": "Đại chiến thần thoại tái xuất với đồ họa và hiệu ứng rực rỡ.",
+    "genresVi": [
+      "Chiến thuật",
+      "Chiến thuật thời gian thực",
+      "Thần thoại",
+      "Cổ điển"
+    ]
+  },
+  "1938090": {
+    "id": 1938090,
+    "name": "Football Manager 2024",
+    "descriptionVi": "Trở thành người quản lý bóng đá toàn năng, hoạch định chiến thuật, chiêu mộ tài năng trẻ và dẫn dắt câu lạc bộ của bạn bước lên đỉnh vinh quang thế giới.",
+    "shortDescriptionVi": "Đỉnh cao mô phỏng quản lý bóng đá chi tiết và chân thực nhất.",
+    "genresVi": [
+      "Mô phỏng",
+      "Chiến thuật",
+      "Bóng đá",
+      "Quản lý"
+    ]
+  },
+  "1942660": {
+    "id": 1942660,
+    "name": "WWE 2K23",
+    "descriptionVi": "Kỷ niệm 20 năm sự nghiệp của siêu sao John Cena trong chế độ Showcase, điều khiển các huyền thoại đô vật và thống trị võ đài WarGames lồng sắt đôi.",
+    "shortDescriptionVi": "Đấu vật biểu diễn WWE rực lửa kỷ niệm 20 năm sự nghiệp John Cena.",
+    "genresVi": [
+      "Thể thao",
+      "Đối kháng",
+      "Mô phỏng"
+    ]
+  },
+  "1943950": {
+    "id": 1943950,
+    "name": "Escape the Backrooms",
+    "descriptionVi": "Trò chơi kinh dị khám phá không gian phi thực tế The Backrooms cùng nhóm 4 người, tìm đường vượt qua các tầng mê cung vô tận và trốn thoát khỏi thực thể nguy hiểm.",
+    "shortDescriptionVi": "Kinh dị co-op 4 người khám phá mê cung Backrooms vô tận.",
+    "genresVi": [
+      "Kinh dị",
+      "Phiêu lưu",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "1944430": {
+    "id": 1944430,
+    "name": "Amnesia: The Bunker",
+    "descriptionVi": "Bị kẹt lại trong căn hầm trú ẩn thời Thế chiến I, người chơi phải tìm cách duy trì nguồn điện máy phát, chế tạo công cụ và lẩn tránh con quái vật săn mồi thông minh luôn bám theo tiếng động.",
+    "shortDescriptionVi": "Kinh dị sinh tồn bán mở căng thẳng trong hầm ngầm Thế chiến I.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Bắn súng góc nhìn thứ nhất",
+      "Lén lút"
+    ]
+  },
+  "1946070": {
+    "id": 1946070,
+    "name": "Ten Dates",
+    "descriptionVi": "Phần tiếp theo của Five Dates, đưa đôi bạn thân Misha và Ryan tham gia buổi hẹn hò gián tiếp siêu tốc tại quán bar London để tìm kiếm nửa kia lý tưởng.",
+    "shortDescriptionVi": "Phim tương tác hẹn hò trực tiếp dí dỏm với đa dạng đối tượng gặp gỡ.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hẹn hò",
+      "Hài lãng mạn",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "1946700": {
+    "id": 1946700,
+    "name": "Layers of Fear",
+    "descriptionVi": "Hành trình khám phá sự điên cuồng của những người nghệ sĩ khao khát tạo nên tuyệt tác cuộc đời, được tái hiện toàn diện với nền tảng đồ họa Unreal Engine 5 rực rỡ và chân thực.",
+    "shortDescriptionVi": "Kinh dị tâm lý nghệ thuật lột tả tận cùng sự điên loạn của tâm trí.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Phiêu lưu",
+      "Độc lập"
+    ]
+  },
+  "1966720": {
+    "id": 1966720,
+    "name": "Lethal Company",
+    "descriptionVi": "Cùng phi hành đoàn đáp xuống các mặt trăng công nghiệp bỏ hoang, lùng sục phế liệu bán lấy tiền và trốn chạy khỏi những thực thể quái dị rình rập trong bóng tối.",
+    "shortDescriptionVi": "Kinh dị co-op nhặt phế liệu sinh tử cùng đồng đội cực kỳ kịch tính.",
+    "genresVi": [
+      "Kinh dị",
+      "Phối hợp",
+      "Khoa học viễn tưởng",
+      "Độc lập"
+    ]
+  },
+  "1996010": {
+    "id": 1996010,
+    "name": "Crow Country",
+    "descriptionVi": "Đưa người chơi trở về năm 1990 để điều tra vụ mất tích bí ẩn tại công viên giải trí bỏ hoang Crow Country, tái hiện trọn vẹn phong cách kinh dị giải đố của thời kỳ PlayStation 1.",
+    "shortDescriptionVi": "Kinh dị sinh tồn giải đố hoài niệm phong cách PS1 cổ điển.",
+    "genresVi": [
+      "Kinh dị",
+      "Sinh tồn",
+      "Cổ điển",
+      "Giải đố"
+    ]
+  },
+  "2000090": {
+    "id": 2000090,
+    "name": "The Isle Tide Hotel",
+    "descriptionVi": "Thâm nhập vào khách sạn bí ẩn nơi một giáo phái kỳ quái đang chuẩn bị tổ chức nghi lễ hiến tế, thu thập manh mối để giải cứu cô con gái bị bắt cóc trước khi đêm tàn.",
+    "shortDescriptionVi": "Phim tương tác trinh thám thâm nhập giáo phái với dàn diễn viên thực lực.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Trinh thám",
+      "Bí ẩn",
+      "Tà giáo"
+    ]
+  },
+  "2050650": {
+    "id": 2050650,
+    "name": "Resident Evil 4",
+    "descriptionVi": "Bản làm lại xuất sắc theo chân đặc vụ Leon S. Kennedy thâm nhập một ngôi làng hẻo lánh ở châu Âu để giải cứu con gái tổng thống bị tà giáo bắt cóc.",
+    "shortDescriptionVi": "Sinh tồn hành động kinh dị kinh điển cùng đặc vụ Leon S. Kennedy.",
+    "genresVi": [
+      "Kinh dị",
+      "Hành động",
+      "Sinh tồn"
+    ]
+  },
+  "2054970": {
+    "id": 2054970,
+    "name": "Dragon's Dogma 2",
+    "descriptionVi": "Game nhập vai hành động kỳ ảo tự do khám phá, nơi người chơi lãnh đạo những người đồng hành Pawn trung thành trong các trận chiến hoành tráng với quái vật khổng lồ.",
+    "shortDescriptionVi": "Nhập vai hành động thế giới mở cùng tùy tùng Pawn trung thành.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Thế giới mở",
+      "Phiêu lưu"
+    ]
+  },
+  "2072450": {
+    "id": 2072450,
+    "name": "Like a Dragon: Infinite Wealth",
+    "descriptionVi": "Chuyến phiêu lưu hoành tráng đưa hai huyền thoại Ichiban Kasuga và Kazuma Kiryu đến hòn đảo nhiệt đới Hawaii, chiến đấu với các băng đảng bằng hệ thống chiến đấu nhập vai hài hước.",
+    "shortDescriptionVi": "Hành trình giang hồ hài hước và cảm động của Yakuza tại Hawaii.",
+    "genresVi": [
+      "Nhập vai",
+      "Hành động",
+      "Phiêu lưu",
+      "Hài hước"
+    ]
+  },
+  "2073850": {
+    "id": 2073850,
+    "name": "THE FINALS",
+    "descriptionVi": "Đấu trường bắn súng góc nhìn thứ nhất tốc độ cao dưới dạng game show truyền hình sống còn, nơi mọi công trình và môi trường đều có thể bị phá hủy hoàn toàn để tạo lợi thế chiến thuật.",
+    "shortDescriptionVi": "Đấu trường bắn súng kịch tính với khả năng phá hủy môi trường vô hạn.",
+    "genresVi": [
+      "Bắn súng góc nhìn thứ nhất",
+      "Hành động",
+      "Nhiều người chơi",
+      "Chơi miễn phí"
+    ]
+  },
+  "2095300": {
+    "id": 2095300,
+    "name": "Breakout 13",
+    "descriptionVi": "Dựa trên các sự kiện có thật về trung tâm cai nghiện internet bạo lực, người chơi cùng nhóm học viên phải lập kế hoạch mưu trí, thu thập bằng chứng để vạch trần tội ác và trốn thoát.",
+    "shortDescriptionVi": "Phim tương tác kịch tính về cuộc đào tẩu khỏi trại cai nghiện game khắc nghiệt.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Tường thuật",
+      "Tâm lý",
+      "Lựa chọn theo cốt truyện"
+    ]
+  },
+  "2108330": {
+    "id": 2108330,
+    "name": "F1® 23",
+    "descriptionVi": "Trải nghiệm sự kịch tính của đường đua Công thức 1 cùng chế độ cốt truyện Braking Point 2 và trường đua đêm Las Vegas lộng lẫy.",
+    "shortDescriptionVi": "Đua xe Công thức 1 F1 với chế độ cốt truyện kịch tính.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô phỏng"
+    ]
+  },
+  "2124440": {
+    "id": 2124440,
+    "name": "SILENT HILL 2",
+    "descriptionVi": "James Sunderland nhận được bức thư từ người vợ quá cố dẫn lối anh đến thị trấn mù sương Silent Hill, đối mặt với những cơn ác mộng và tội lỗi ẩn giấu.",
+    "shortDescriptionVi": "Tác phẩm kinh dị tâm lý kinh điển trong thị trấn mù sương.",
+    "genresVi": [
+      "Kinh dị",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "2124490": {
+    "id": 2124490,
+    "name": "SILENT HILL 2",
+    "descriptionVi": "Bản làm lại tuyệt mỹ đưa James Sunderland trở lại thị trấn sương mù Silent Hill sau bức thư của người vợ quá cố, đối mặt với những bóng ma tội lỗi và quái vật ghê rợn ẩn mình trong màn sương.",
+    "shortDescriptionVi": "Bản làm lại đỉnh cao của kiệt tác kinh dị tâm lý huyền thoại.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Phiêu lưu",
+      "Giải đố"
+    ]
+  },
+  "2138330": {
+    "id": 2138330,
+    "name": "Monster Energy Supercross 6",
+    "descriptionVi": "Đua xe mô tô vượt chướng ngại vật trong sân vận động trong nhà cùng huấn luyện viên huyền thoại Jeremy McGrath, làm chủ những cú nhảy kỹ thuật trên bùn đất.",
+    "shortDescriptionVi": "Đua mô tô cào cào Supercross sôi động trong sân vận động.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô tô"
+    ]
+  },
+  "2139460": {
+    "id": 2139460,
+    "name": "Once Human",
+    "descriptionVi": "Sinh tồn trong thế giới hậu tận thế kỳ dị bị biến dị bởi năng lượng bí ẩn, cùng đồng đội chiến đấu chống lại dị vật khổng lồ, khai thác tài nguyên và xây dựng căn cứ an toàn.",
+    "shortDescriptionVi": "Game sinh tồn thế giới mở hậu tận thế huyền bí nhiều người chơi.",
+    "genresVi": [
+      "Sinh tồn",
+      "Nhiều người chơi trực tuyến",
+      "Thế giới mở",
+      "Bắn súng"
+    ]
+  },
+  "2140330": {
+    "id": 2140330,
+    "name": "Madden NFL 24",
+    "descriptionVi": "Điều khiển các ngôi sao bóng bầu dục NFL với công nghệ FieldSENSE mang lại sự kiểm soát và độ chính xác tối đa trong từng đường chuyền bắt bóng.",
+    "shortDescriptionVi": "Bóng bầu dục NFL với công nghệ bắt bóng FieldSENSE sắc sảo.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Bóng bầu dục"
+    ]
+  },
+  "2161700": {
+    "id": 2161700,
+    "name": "Persona 3 Reload",
+    "descriptionVi": "Bản làm lại hoàn hảo của huyền thoại JRPG, đưa bạn vào vai nam sinh chuyển trường gia nhập đội SEES để chinh phục tháp Tartarus trong Giờ Đen Tối kỳ bí.",
+    "shortDescriptionVi": "Bản làm lại hoàn hảo của kiệt tác nhập vai học đường Persona 3.",
+    "genresVi": [
+      "Nhập vai",
+      "Học đường",
+      "Theo lượt",
+      "Anime"
+    ]
+  },
+  "2171440": {
+    "id": 2171440,
+    "name": "Fear & Hunger 2: Termina",
+    "descriptionVi": "Mười bốn người lạ mặt bị cuốn vào lễ hội Termina man rợ tại thị trấn Prehevil, chỉ có 3 ngày để khám phá bí mật đen tối trước khi vầng trăng xanh bệnh hoạn lên tới đỉnh điểm.",
+    "shortDescriptionVi": "Trải nghiệm sinh tồn theo lượt khắc nghiệt giữa lễ tế đẫm máu Termina.",
+    "genresVi": [
+      "Kinh dị",
+      "Nhập vai",
+      "Theo lượt",
+      "Độc lập"
+    ]
+  },
+  "2172010": {
+    "id": 2172010,
+    "name": "Until Dawn™",
+    "descriptionVi": "Tám người bạn bị cô lập tại căn nhà gỗ trên sườn núi Blackwood tuyết phủ, nơi mỗi quyết định theo hiệu ứng cánh bướm đều có thể định đoạt ai sẽ sống sót cho đến khi bình minh ló rạng.",
+    "shortDescriptionVi": "Siêu phẩm kinh dị sinh tồn điện ảnh tái xuất rực rỡ trên PC.",
+    "genresVi": [
+      "Kinh dị",
+      "Điện ảnh",
+      "Lựa chọn theo cốt truyện",
+      "Sinh tồn"
+    ]
+  },
+  "2183900": {
+    "id": 2183900,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "descriptionVi": "Khoác lên mình bộ giáp chiến binh vũ trụ Space Marine Titus, xé xác hàng ngàn con bọ Tyranid háu đói để bảo vệ Đế chế Nhân loại trong các trận chiến đẫm máu.",
+    "shortDescriptionVi": "Chiến binh vũ trụ Space Marine càn quét hàng đàn bọ ngoài hành tinh.",
+    "genresVi": [
+      "Hành động",
+      "Bắn súng góc nhìn thứ ba",
+      "Chặt chém",
+      "Khoa học viễn tưởng"
+    ]
+  },
+  "2195250": {
+    "id": 2195250,
+    "name": "EA SPORTS FC™ 24",
+    "descriptionVi": "Kỷ nguyên bóng đá mới của EA Sports với công nghệ HyperMotionV mô phỏng chuyển động chân thực của hàng ngàn cầu thủ và giải đấu hàng đầu thế giới.",
+    "shortDescriptionVi": "Đỉnh cao bóng đá thế giới với chuyển động chân thực HyperMotionV.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng đá",
+      "Mô phỏng",
+      "Nhiều người chơi"
+    ]
+  },
+  "2215430": {
+    "id": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "descriptionVi": "Hóa thân thành samurai Jin Sakai chiến đấu bảo vệ đảo Đối Mã trước quân xâm lược Mông Cổ, đứng trước ngã rẽ giữa danh dự võ sĩ và con đường của Bóng Ma.",
+    "shortDescriptionVi": "Tuyệt phẩm kiếm sĩ samurai bảo vệ đảo Đối Mã đầy bi tráng.",
+    "genresVi": [
+      "Hành động",
+      "Thế giới mở",
+      "Phiêu lưu",
+      "Lén lút"
+    ]
+  },
+  "2217580": {
+    "id": 2217580,
+    "name": "New Star GP",
+    "descriptionVi": "Game đua xe Công thức 1 phong cách retro thập niên 90, quản lý đội đua, chiến thuật lốp và trực tiếp lái xe qua nhiều thập kỷ lịch sử đua xe thể thao.",
+    "shortDescriptionVi": "Đua xe Công thức 1 arcade cổ điển kết hợp quản lý đội đua.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Arcade",
+      "Cổ điển"
+    ]
+  },
+  "2257970": {
+    "id": 2257970,
+    "name": "NBA 2K24",
+    "descriptionVi": "Trải nghiệm văn hóa bóng rổ đỉnh cao NBA, tái hiện những khoảnh khắc huyền thoại của Kobe Bryant trong Mamba Moments và thi đấu chế độ MyCAREER.",
+    "shortDescriptionVi": "Mô phỏng bóng rổ nhà nghề Mỹ NBA đỉnh cao cùng Kobe Bryant.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng rổ",
+      "Mô phỏng"
+    ]
+  },
+  "2290180": {
+    "id": 2290180,
+    "name": "Riders Republic",
+    "descriptionVi": "Sân chơi thể thao mạo hiểm thế giới mở khổng lồ của Ubisoft, tham gia các cuộc đua xe đạp địa hình, trượt tuyết và bay lượn wingsuit cùng 50 người chơi.",
+    "shortDescriptionVi": "Đại hội thể thao mạo hiểm thế giới mở đạp xe và trượt tuyết rực lửa.",
+    "genresVi": [
+      "Thể thao",
+      "Thế giới mở",
+      "Nhiều người chơi"
+    ]
+  },
+  "2306630": {
+    "id": 2306630,
+    "name": "Cricket 24",
+    "descriptionVi": "Trò chơi bóng gậy cricket chuyên nghiệp chính thức của giải The Ashes, tập hợp hàng trăm đội tuyển quốc gia và giải đấu hàng đầu thế giới.",
+    "shortDescriptionVi": "Mô phỏng bóng gậy cricket chuyên nghiệp chính thức của giải The Ashes.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng gậy",
+      "Mô phỏng"
+    ]
+  },
+  "2315690": {
+    "id": 2315690,
+    "name": "WWE 2K24",
+    "descriptionVi": "Kỷ niệm 40 năm WrestleMania với dàn đô vật WWE huyền thoại, trải nghiệm các trận đấu rực lửa và điều hành thương hiệu đấu vật theo phong cách riêng.",
+    "shortDescriptionVi": "Đấu vật biểu diễn WWE đỉnh cao kỷ niệm 40 năm WrestleMania.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Đối kháng"
+    ]
+  },
+  "2322010": {
+    "id": 2322010,
+    "name": "God of War Ragnarök",
+    "descriptionVi": "Kratos và Atreus chu du qua chín cõi thần thoại Bắc Âu để tìm câu trả lời khi ngày tận thế Ragnarök đang cận kề, đối mặt với sự phẫn nộ của các vị thần Asgard.",
+    "shortDescriptionVi": "Chuyến phiêu lưu sử thi của Kratos và Atreus trước ngày tận thế.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Cốt truyện sâu sắc"
+    ]
+  },
+  "2322560": {
+    "id": 2322560,
+    "name": "Love Is All Around",
+    "descriptionVi": "Hóa thân vào chàng trai trẻ Cố Dịch dưới góc nhìn thứ nhất, bước vào mối nhân duyên ngọt ngào và đầy bất ngờ với sáu cô gái xinh đẹp mang sáu phong cách quyến rũ khác biệt.",
+    "shortDescriptionVi": "Phim tương tác mô phỏng tình yêu góc nhìn thứ nhất gây sốt cộng đồng mạng.",
+    "genresVi": [
+      "Phim tương tác (FMV)",
+      "Hẹn hò",
+      "Lãng mạn",
+      "Mô phỏng"
+    ]
+  },
+  "2358720": {
+    "id": 2358720,
+    "name": "Black Myth: Wukong",
+    "descriptionVi": "Tuyệt phẩm nhập vai hành động dựa trên thần thoại Tây Du Ký, đưa bạn vào vai Thiên Mệnh Nhân khám phá những bí mật ẩn giấu của huyền thoại Tây Du với đồ họa rực rỡ.",
+    "shortDescriptionVi": "Siêu phẩm hành động thần thoại hóa thân Thiên Mệnh Nhân.",
+    "genresVi": [
+      "Hành động",
+      "Nhập vai",
+      "Thần thoại",
+      "Phiêu lưu"
+    ]
+  },
+  "2369390": {
+    "id": 2369390,
+    "name": "eFootball™",
+    "descriptionVi": "Tựa game bóng đá miễn phí của Konami, cho phép bạn tự do xây dựng đội bóng trong mơ Dream Team và so tài cùng các đối thủ trên toàn thế giới.",
+    "shortDescriptionVi": "Bóng đá trực tuyến miễn phí xây dựng Dream Team của Konami.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng đá",
+      "Chơi miễn phí",
+      "Nhiều người chơi"
+    ]
+  },
+  "2379780": {
+    "id": 2379780,
+    "name": "Balatro",
+    "descriptionVi": "Hiện tượng game thẻ bài roguelike xây dựng bài Poker gây nghiện, kết hợp các lá Joker biến hóa để tạo ra những chuỗi nhân điểm khổng lồ phá đảo bàn cược.",
+    "shortDescriptionVi": "Game thẻ bài Poker roguelike biến hóa sáng tạo gây nghiện tột bậc.",
+    "genresVi": [
+      "Chiến thuật",
+      "Thẻ bài",
+      "Roguelike",
+      "Độc lập"
+    ]
+  },
+  "2395210": {
+    "id": 2395210,
+    "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+    "descriptionVi": "Bản làm lại hoàn hảo của hai tựa game trượt ván huyền thoại, biểu diễn những chuỗi combo điệu nghệ cùng dàn vận động viên trượt ván lừng danh thế giới.",
+    "shortDescriptionVi": "Huyền thoại trượt ván nghệ thuật làm lại chuẩn sắc nét cực đã tay.",
+    "genresVi": [
+      "Thể thao",
+      "Trượt ván",
+      "Cổ điển"
+    ]
+  },
+  "2475490": {
+    "id": 2475490,
+    "name": "Mouthwashing",
+    "descriptionVi": "Năm thành viên phi hành đoàn tàu Tulpar bị mắc kẹt giữa khoảng không vũ trụ vô tận, đối diện với sự hoảng loạn tâm lý tột cùng và những bi kịch đen tối khó lường.",
+    "shortDescriptionVi": "Kinh dị tâm lý không gian độc đáo với cốt truyện u tối và nghẹt thở.",
+    "genresVi": [
+      "Kinh dị",
+      "Tâm lý",
+      "Cốt truyện sâu sắc",
+      "Độc lập"
+    ]
+  },
+  "2488620": {
+    "id": 2488620,
+    "name": "F1® 24",
+    "descriptionVi": "Tựa game đua xe Công thức 1 chính thức mùa giải 2024, làm chủ hệ thống điều khiển EA SPORTS Dynamic Handling và dẫn dắt tay đua yêu thích đến chức vô địch thế giới.",
+    "shortDescriptionVi": "Mô phỏng đua xe Công thức 1 F1 chính thức mùa giải 2024.",
+    "genresVi": [
+      "Đua xe",
+      "Thể thao",
+      "Mô phỏng"
+    ]
+  },
+  "2567870": {
+    "id": 2567870,
+    "name": "Chained Together",
+    "descriptionVi": "Leo lên từ đáy địa ngục cùng bạn bè khi bị xích chặt vào nhau, đòi hỏi sự phối hợp nhịp nhàng và kiên nhẫn tối đa để không cùng nhau rơi xuống vực thẳm.",
+    "shortDescriptionVi": "Leo trèo vượt chướng ngại vật cùng xích với bạn bè.",
+    "genresVi": [
+      "Hành động",
+      "Phiêu lưu",
+      "Phối hợp",
+      "Độc lập"
+    ]
+  },
+  "2582250": {
+    "id": 2582250,
+    "name": "Madden NFL 25",
+    "descriptionVi": "Trải nghiệm môn bóng bầu dục nhà nghề Mỹ đỉnh cao với hệ thống vật lý va chạm BOOM Tech và chế độ Franchise quản lý đội bóng danh giá.",
+    "shortDescriptionVi": "Mô phỏng bóng bầu dục nhà nghề Mỹ NFL chân thực và bùng nổ.",
+    "genresVi": [
+      "Thể thao",
+      "Mô phỏng",
+      "Bóng bầu dục"
+    ]
+  },
+  "2620600": {
+    "id": 2620600,
+    "name": "Metaphor: ReFantazio",
+    "descriptionVi": "Tuyệt phẩm nhập vai giả tưởng từ các nhà sáng tạo dòng Persona, đưa bạn tham gia vào cuộc tuyển cử tranh đoạt vương vị đầy mưu mô chính trị và ma thuật kỳ bí.",
+    "shortDescriptionVi": "Tuyệt phẩm nhập vai giả tưởng tranh đoạt ngai vàng đầy kịch tính.",
+    "genresVi": [
+      "Nhập vai",
+      "Giả tưởng",
+      "Theo lượt",
+      "Anime"
+    ]
+  },
+  "2669320": {
+    "id": 2669320,
+    "name": "EA SPORTS FC™ 25",
+    "descriptionVi": "Phiên bản mới nhất của EA Sports với hệ thống chiến thuật FC IQ cách mạng và chế độ Rush 5v5 nhịp độ nhanh đem lại trải nghiệm bóng đá trọn vẹn.",
+    "shortDescriptionVi": "Bóng đá đỉnh cao với chiến thuật FC IQ và chế độ Rush 5v5 sôi động.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng đá",
+      "Mô phỏng",
+      "Nhiều người chơi"
+    ]
+  },
+  "2670630": {
+    "id": 2670630,
+    "name": "Supermarket Simulator",
+    "descriptionVi": "Tự tay điều hành một siêu thị bán lẻ, nhập hàng hóa, sắp xếp kệ hàng, định giá bán và trực tiếp đứng quầy thu ngân phục vụ khách hàng.",
+    "shortDescriptionVi": "Mô phỏng quản lý và vận hành siêu thị bán lẻ chân thực.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Góc nhìn thứ nhất"
+    ]
+  },
+  "2738490": {
+    "id": 2738490,
+    "name": "TCG Card Shop Simulator",
+    "descriptionVi": "Mở cửa hàng thẻ bài sưu tập TCG của riêng bạn, nhập các gói thẻ bài mới, tự tay xé thẻ tìm lá bài bài hiếm và bán cho các nhà sưu tập để làm giàu.",
+    "shortDescriptionVi": "Mô phỏng kinh doanh tiệm thẻ bài TCG và sưu tập bài hiếm cực cuốn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Quản lý",
+      "Sưu tập"
+    ]
+  },
+  "2780620": {
+    "id": 2780620,
+    "name": "Lockdown Protocol",
+    "descriptionVi": "Game suy đoán xã hội góc nhìn thứ nhất lấy bối cảnh tiền đồn vũ trụ đang bị phong tỏa, nơi các thành viên phải làm nhiệm vụ sửa chữa và vạch mặt kẻ xâm nhập nội gián.",
+    "shortDescriptionVi": "Suy đoán xã hội căng thẳng góc nhìn thứ nhất tại trạm vũ trụ.",
+    "genresVi": [
+      "Hành động",
+      "Chiến thuật",
+      "Nhiều người chơi"
+    ]
+  },
+  "2878950": {
+    "id": 2878950,
+    "name": "NBA 2K25",
+    "descriptionVi": "Trải nghiệm bóng rổ NBA chân thực thế hệ mới với công nghệ ProPLAY chuyển đổi trực tiếp các thước phim NBA ngoài đời thành chuyển động nhân vật.",
+    "shortDescriptionVi": "Bóng rổ nhà nghề Mỹ đỉnh cao với chuyển động ProPLAY sống động.",
+    "genresVi": [
+      "Thể thao",
+      "Bóng rổ",
+      "Mô phỏng"
+    ]
+  },
+  "2881650": {
+    "id": 2881650,
+    "name": "Content Warning",
+    "descriptionVi": "Cùng nhóm bạn cầm máy quay dấn thân vào Thế giới Cổ đại đầy rẫy quái vật rùng rợn, ghi lại những thước phim giật gân để trở nên nổi tiếng trên nền tảng SpookTube.",
+    "shortDescriptionVi": "Quay video săn quái vật rùng rợn để trở thành hiện tượng mạng.",
+    "genresVi": [
+      "Kinh dị",
+      "Hài hước",
+      "Phối hợp",
+      "Hành động"
+    ]
+  },
+  "2933480": {
+    "id": 2933480,
+    "name": "Fast Food Simulator",
+    "descriptionVi": "Cùng bạn bè vận hành nhà hàng thức ăn nhanh hỗn loạn, nướng thịt kẹp bánh burger, chiên khoai tây và phục vụ những vị khách thiếu kiên nhẫn.",
+    "shortDescriptionVi": "Mô phỏng quản lý cửa hàng thức ăn nhanh phối hợp vui nhộn.",
+    "genresVi": [
+      "Mô phỏng",
+      "Vui nhộn",
+      "Phối hợp",
+      "Nấu ăn"
+    ]
+  },
+  "3097560": {
+    "id": 3097560,
+    "name": "Liar's Bar",
+    "descriptionVi": "Bước vào quán bar ngầm tăm tối với các nhân vật động vật giang hồ, so tài nói dối trong trò chơi bài Liar's Deck và xúc xắc Liar's Dice với hình phạt cò quay Nga tử thần.",
+    "shortDescriptionVi": "Đấu trí nói dối và cò quay Nga sinh tử nghẹt thở cùng bạn bè.",
+    "genresVi": [
+      "Chiến thuật",
+      "Tâm lý",
+      "Nhiều người chơi",
+      "Hài hước"
+    ]
+  }
+}

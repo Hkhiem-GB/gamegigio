@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1145360,
+    "name": "Hades",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1145360/",
+    "popularity": "red"
+  },
+  {
+    "id": 367520,
+    "name": "Hollow Knight",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/367520/",
+    "popularity": "red"
+  },
+  {
+    "id": 1794680,
+    "name": "Vampire Survivors",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1794680/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2379780,
+    "name": "Balatro",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2379780/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1966720,
+    "name": "Lethal Company",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1966720/",
+    "popularity": "gold"
+  },
+  {
+    "id": 892970,
+    "name": "Valheim",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/892970/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1057090,
+    "name": "Ori and the Will of the Wisps",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1057090/",
+    "popularity": "purple"
+  },
+  {
+    "id": 504230,
+    "name": "Celeste",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/504230/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1313140,
+    "name": "Cult of the Lamb",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1313140/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1642380,
+    "name": "Dave the Diver",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1642380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1642380/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1284410,
+    "name": "Lunacid",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1284410/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1284410/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1055540,
+    "name": "A Short Hike",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1055540/",
+    "popularity": "gray"
+  },
+  {
+    "id": 3097560,
+    "name": "Liar's Bar",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3097560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3097560/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2567870,
+    "name": "Chained Together",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2567870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2881650,
+    "name": "Content Warning",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1040210,
+    "name": "Crime Scene Cleaner",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1040210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1040210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1782210,
+    "name": "Crab Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1782210/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1062520,
+    "name": "Dinkum",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062520/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1943950,
+    "name": "Escape the Backrooms",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1943950/",
+    "popularity": "gold"
+  },
+  {
+    "id": 268910,
+    "name": "Cuphead",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/268910/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1562430,
+    "name": "DREDGE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1562430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2933480,
+    "name": "Fast Food Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933480/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2933480/",
+    "popularity": "gray"
+  },
+  {
+    "id": 2780620,
+    "name": "Lockdown Protocol",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2780620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2780620/",
+    "popularity": "gray"
+  },
+  {
+    "id": 739630,
+    "name": "Phasmophobia",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/739630/",
+    "popularity": "red"
+  },
+  {
+    "id": 1274570,
+    "name": "DEVOUR",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1274570/",
+    "popularity": "purple"
+  },
+  {
+    "id": 448510,
+    "name": "Overcooked! 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/448510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/448510/",
+    "popularity": "gold"
+  },
+  {
+    "id": 477160,
+    "name": "Human Fall Flat",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/477160/",
+    "popularity": "red"
+  },
+  {
+    "id": 285900,
+    "name": "Gang Beasts",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/285900/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1509960,
+    "name": "PICO PARK",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1509960/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2670630,
+    "name": "Supermarket Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2670630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1149620,
+    "name": "Gas Station Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1149620/",
+    "popularity": "purple"
+  },
+  {
+    "id": 681280,
+    "name": "Descenders",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/681280/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1566200,
+    "name": "Tape to Tape",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1566200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1566200/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1114290,
+    "name": "Windjammers 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1114290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1114290/",
+    "popularity": "gray"
+  },
+  {
+    "id": 294100,
+    "name": "RimWorld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/294100/",
+    "popularity": "red"
+  },
+  {
+    "id": 427520,
+    "name": "Factorio",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/427520/",
+    "popularity": "red"
+  },
+  {
+    "id": 466560,
+    "name": "Northgard",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/466560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/466560/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1044720,
+    "name": "Farthest Frontier",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1044720/",
+    "popularity": "gray"
+  },
+  {
+    "id": 753640,
+    "name": "Outer Wilds",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/753640/",
+    "popularity": "gold"
+  },
+  {
+    "id": 383870,
+    "name": "Firewatch",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/383870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/383870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 304430,
+    "name": "INSIDE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/304430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 48000,
+    "name": "LIMBO",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/48000/",
+    "popularity": "gold"
+  },
+  {
+    "id": 553420,
+    "name": "TUNIC",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/553420/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1849250,
+    "name": "Pacific Drive",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1849250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1849250/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1145350,
+    "name": "Hades II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1145350/",
+    "popularity": "red"
+  },
+  {
+    "id": 1621690,
+    "name": "Core Keeper",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1621690/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1244090,
+    "name": "Sea of Stars",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1244090/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1337520,
+    "name": "Against the Storm",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1337520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1337520/",
+    "popularity": "gold"
+  },
+  {
+    "id": 867210,
+    "name": "Songs of Conquest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/867210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/867210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2738490,
+    "name": "TCG Card Shop Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2738490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2738490/",
+    "popularity": "gold"
+  }
+]

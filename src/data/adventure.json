@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1174180,
+    "name": "Red Dead Redemption 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1174180/",
+    "popularity": "red"
+  },
+  {
+    "id": 1086940,
+    "name": "Baldur's Gate 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1086940/",
+    "popularity": "red"
+  },
+  {
+    "id": 1151640,
+    "name": "Horizon Zero Dawn™ Complete Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1151640/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1817070,
+    "name": "Marvel’s Spider-Man Remastered",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1817070/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1332010,
+    "name": "Stray",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1332010/",
+    "popularity": "gold"
+  },
+  {
+    "id": 105600,
+    "name": "Terraria",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/105600/",
+    "popularity": "gold"
+  },
+  {
+    "id": 752590,
+    "name": "A Plague Tale: Innocence",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/752590/",
+    "popularity": "purple"
+  },
+  {
+    "id": 774171,
+    "name": "Subnautica: Below Zero",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/774171/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/774171/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1432050,
+    "name": "Chorus",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1432050/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1432050/",
+    "popularity": "gray"
+  },
+  {
+    "id": 404540,
+    "name": "Candleman: The Complete Journey",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/404540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/404540/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1198970,
+    "name": "Haven",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1198970/",
+    "popularity": "gray"
+  },
+  {
+    "id": 2567870,
+    "name": "Chained Together",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2567870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2881650,
+    "name": "Content Warning",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1062520,
+    "name": "Dinkum",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062520/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1943950,
+    "name": "Escape the Backrooms",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1943950/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1562430,
+    "name": "DREDGE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1562430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 739630,
+    "name": "Phasmophobia",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/739630/",
+    "popularity": "red"
+  },
+  {
+    "id": 1274570,
+    "name": "DEVOUR",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1274570/",
+    "popularity": "purple"
+  },
+  {
+    "id": 815370,
+    "name": "Green Hell",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/815370/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1326470,
+    "name": "Sons Of The Forest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1326470/",
+    "popularity": "red"
+  },
+  {
+    "id": 252490,
+    "name": "Rust",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/252490/",
+    "popularity": "red"
+  },
+  {
+    "id": 1172620,
+    "name": "Sea of Thieves",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1172620/",
+    "popularity": "red"
+  },
+  {
+    "id": 477160,
+    "name": "Human Fall Flat",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/477160/",
+    "popularity": "red"
+  },
+  {
+    "id": 1623730,
+    "name": "Palworld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1623730/",
+    "popularity": "red"
+  },
+  {
+    "id": 271590,
+    "name": "Grand Theft Auto V",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/271590/",
+    "popularity": "red"
+  },
+  {
+    "id": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2215430/",
+    "popularity": "red"
+  },
+  {
+    "id": 2322010,
+    "name": "God of War Ragnarök",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2322010/",
+    "popularity": "red"
+  },
+  {
+    "id": 1593500,
+    "name": "God of War",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1593500/",
+    "popularity": "red"
+  },
+  {
+    "id": 2124440,
+    "name": "SILENT HILL 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124440/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2124440/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1888930,
+    "name": "The Last of Us™ Part I",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1888930/",
+    "popularity": "red"
+  },
+  {
+    "id": 2050650,
+    "name": "Resident Evil 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2050650/",
+    "popularity": "red"
+  },
+  {
+    "id": 1196590,
+    "name": "Resident Evil Village",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1196590/",
+    "popularity": "gold"
+  },
+  {
+    "id": 883710,
+    "name": "Resident Evil 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/883710/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1817190,
+    "name": "Marvel’s Spider-Man: Miles Morales",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1817190/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1774580,
+    "name": "STAR WARS Jedi: Survivor™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1774580/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1172380,
+    "name": "STAR WARS Jedi: Fallen Order™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1172380/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1659420,
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1659420/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1426210,
+    "name": "It Takes Two",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1426210/",
+    "popularity": "red"
+  },
+  {
+    "id": 264710,
+    "name": "Subnautica",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/264710/",
+    "popularity": "red"
+  },
+  {
+    "id": 753640,
+    "name": "Outer Wilds",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/753640/",
+    "popularity": "gold"
+  },
+  {
+    "id": 383870,
+    "name": "Firewatch",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/383870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/383870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1222140,
+    "name": "Detroit: Become Human",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1222140/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1850570,
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1850570/",
+    "popularity": "gold"
+  },
+  {
+    "id": 860510,
+    "name": "Little Nightmares II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/860510/",
+    "popularity": "gold"
+  },
+  {
+    "id": 424840,
+    "name": "Little Nightmares",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/424840/",
+    "popularity": "gold"
+  },
+  {
+    "id": 304430,
+    "name": "INSIDE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/304430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 48000,
+    "name": "LIMBO",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/48000/",
+    "popularity": "gold"
+  },
+  {
+    "id": 553420,
+    "name": "TUNIC",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/553420/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1849250,
+    "name": "Pacific Drive",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1849250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1849250/",
+    "popularity": "gold"
+  },
+  {
+    "id": 962130,
+    "name": "Grounded",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/962130/",
+    "popularity": "gold"
+  }
+]

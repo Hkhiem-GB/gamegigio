@@ -1,0 +1,352 @@
+[
+  {
+    "id": 292030,
+    "name": "The Witcher® 3: Wild Hunt",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/292030/",
+    "popularity": "red"
+  },
+  {
+    "id": 1086940,
+    "name": "Baldur's Gate 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1086940/",
+    "popularity": "red"
+  },
+  {
+    "id": 1245620,
+    "name": "ELDEN RING",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1245620/",
+    "popularity": "red"
+  },
+  {
+    "id": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/489830/",
+    "popularity": "red"
+  },
+  {
+    "id": 1113560,
+    "name": "Persona 4 Golden",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1113560/",
+    "popularity": "gold"
+  },
+  {
+    "id": 435150,
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/435150/",
+    "popularity": "gold"
+  },
+  {
+    "id": 22380,
+    "name": "Fallout: New Vegas",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/22380/",
+    "popularity": "gold"
+  },
+  {
+    "id": 774201,
+    "name": "Outward Definitive Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/774201/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/774201/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1149460,
+    "name": "Icarus",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1149460/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1162770,
+    "name": "Solasta: Crown of the Magister",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1162770/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1162770/",
+    "popularity": "gray"
+  },
+  {
+    "id": 973810,
+    "name": "Edge Of Eternity",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/973810/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/973810/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1092790,
+    "name": "Chernobylite Enhanced Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1092790/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1358640,
+    "name": "Dread Hunger",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1358640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1358640/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1062520,
+    "name": "Dinkum",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062520/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1562430,
+    "name": "DREDGE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1562430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 252490,
+    "name": "Rust",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/252490/",
+    "popularity": "red"
+  },
+  {
+    "id": 1623730,
+    "name": "Palworld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1623730/",
+    "popularity": "red"
+  },
+  {
+    "id": 2358720,
+    "name": "Black Myth: Wukong",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2358720/",
+    "popularity": "red"
+  },
+  {
+    "id": 1566200,
+    "name": "Tape to Tape",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1566200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1566200/",
+    "popularity": "gray"
+  },
+  {
+    "id": 261550,
+    "name": "Mount & Blade II: Bannerlord",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/261550/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1446780,
+    "name": "Monster Hunter Rise",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1446780/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2054970,
+    "name": "Dragon's Dogma 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2054970/",
+    "popularity": "gold"
+  },
+  {
+    "id": 374320,
+    "name": "DARK SOULS™ III",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/374320/",
+    "popularity": "red"
+  },
+  {
+    "id": 238960,
+    "name": "Path of Exile",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/238960/",
+    "popularity": "red"
+  },
+  {
+    "id": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2215430/",
+    "popularity": "red"
+  },
+  {
+    "id": 2322010,
+    "name": "God of War Ragnarök",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2322010/",
+    "popularity": "red"
+  },
+  {
+    "id": 1593500,
+    "name": "God of War",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1593500/",
+    "popularity": "red"
+  },
+  {
+    "id": 2620600,
+    "name": "Metaphor: ReFantazio",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2620600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2620600/",
+    "popularity": "red"
+  },
+  {
+    "id": 2161700,
+    "name": "Persona 3 Reload",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2161700/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1687950,
+    "name": "Persona 5 Royal",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1687950/",
+    "popularity": "red"
+  },
+  {
+    "id": 2072450,
+    "name": "Like a Dragon: Infinite Wealth",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2072450/",
+    "popularity": "red"
+  },
+  {
+    "id": 1235140,
+    "name": "Yakuza: Like a Dragon",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1235140/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1627720,
+    "name": "Lies of P",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1627720/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1282100,
+    "name": "Remnant II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1282100/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1203630,
+    "name": "Enshrouded",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1203630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1203630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2183900,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2183900/",
+    "popularity": "red"
+  },
+  {
+    "id": 379430,
+    "name": "Kingdom Come: Deliverance",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/379430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1145350,
+    "name": "Hades II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1145350/",
+    "popularity": "red"
+  },
+  {
+    "id": 570940,
+    "name": "DARK SOULS™: REMASTERED",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/570940/",
+    "popularity": "gold"
+  },
+  {
+    "id": 335300,
+    "name": "DARK SOULS™ II: Scholar of the First Sin",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/335300/",
+    "popularity": "purple"
+  },
+  {
+    "id": 377160,
+    "name": "Fallout 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/377160/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1716740,
+    "name": "Starfield",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1716740/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1328670,
+    "name": "Mass Effect™ Legendary Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1328670/",
+    "popularity": "red"
+  },
+  {
+    "id": 1462040,
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1462040/",
+    "popularity": "red"
+  },
+  {
+    "id": 524220,
+    "name": "NieR:Automata™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/524220/",
+    "popularity": "red"
+  },
+  {
+    "id": 1875830,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1875830/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1604030,
+    "name": "V Rising",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1604030/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1604030/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1621690,
+    "name": "Core Keeper",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1621690/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1244090,
+    "name": "Sea of Stars",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1244090/",
+    "popularity": "gold"
+  },
+  {
+    "id": 233860,
+    "name": "Kenshi",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/233860/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/233860/",
+    "popularity": "gold"
+  }
+]

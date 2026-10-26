@@ -1,0 +1,352 @@
+[
+  {
+    "id": 368370,
+    "name": "Her Story",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368370/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/368370/",
+    "popularity": "red"
+  },
+  {
+    "id": 1350200,
+    "name": "IMMORTALITY",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1350200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1350200/",
+    "popularity": "red"
+  },
+  {
+    "id": 762830,
+    "name": "Telling Lies",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/762830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/762830/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1147550,
+    "name": "Not For Broadcast",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1147550/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1147550/",
+    "popularity": "red"
+  },
+  {
+    "id": 1450830,
+    "name": "At Dead Of Night",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1450830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1450830/",
+    "popularity": "red"
+  },
+  {
+    "id": 584980,
+    "name": "Late Shift",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/584980/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/584980/",
+    "popularity": "red"
+  },
+  {
+    "id": 1107790,
+    "name": "The Complex",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1107790/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1107790/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1353270,
+    "name": "Five Dates",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1353270/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1353270/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1946070,
+    "name": "Ten Dates",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1946070/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1946070/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1490840,
+    "name": "Bloodshore",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1490840/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1490840/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1081510,
+    "name": "She Sees Red - Interactive Movie",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1081510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1081510/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2322560,
+    "name": "Love Is All Around",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2322560/",
+    "popularity": "red"
+  },
+  {
+    "id": 2095300,
+    "name": "Breakout 13",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2095300/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2095300/",
+    "popularity": "gold"
+  },
+  {
+    "id": 648580,
+    "name": "428: Shibuya Scramble",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/648580/",
+    "popularity": "red"
+  },
+  {
+    "id": 712730,
+    "name": "SIMULACRA",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/712730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/712730/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1011190,
+    "name": "SIMULACRA 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1011190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1011190/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1925970,
+    "name": "SIMULACRA 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1925970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1925970/",
+    "popularity": "purple"
+  },
+  {
+    "id": 481110,
+    "name": "The Bunker",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/481110/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/481110/",
+    "popularity": "gold"
+  },
+  {
+    "id": 898650,
+    "name": "The Shapeshifting Detective",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/898650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/898650/",
+    "popularity": "purple"
+  },
+  {
+    "id": 545540,
+    "name": "The Infectious Madness of Doctor Dekker",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/545540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/545540/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1628130,
+    "name": "Who Pressed Mute on Uncle Marcus?",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1628130/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1628130/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2000090,
+    "name": "The Isle Tide Hotel",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2000090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2000090/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1837580,
+    "name": "Mia and the Dragon Princess",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1837580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1837580/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1477920,
+    "name": "Night Book",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1477920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1477920/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1514930,
+    "name": "Erica",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1514930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1514930/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1098170,
+    "name": "Dark Nights with Poe and Munro",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1098170/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1098170/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1508270,
+    "name": "Doctor Who: The Lonely Assassins",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1508270/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1508270/",
+    "popularity": "gold"
+  },
+  {
+    "id": 402330,
+    "name": "Press X to Not Die",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/402330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/402330/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1321070,
+    "name": "Death Come True",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1321070/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1321070/",
+    "popularity": "purple"
+  },
+  {
+    "id": 373390,
+    "name": "Contradiction: Spot The Liar",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/373390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/373390/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1612780,
+    "name": "The Centennial Case : A Shijima Story",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1612780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1612780/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1251960,
+    "name": "Deathtrap Dungeon: The Golden Room",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1251960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1251960/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1525770,
+    "name": "The Dark Side of the Moon: An Interactive FMV Thriller",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1525770/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1525770/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1422730,
+    "name": "Hijacker Jack : ARCADE FMV",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1422730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1422730/",
+    "popularity": "gray"
+  },
+  {
+    "id": 255920,
+    "name": "The 7th Guest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/255920/",
+    "popularity": "gold"
+  },
+  {
+    "id": 255940,
+    "name": "The 11th Hour",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/255940/",
+    "popularity": "gray"
+  },
+  {
+    "id": 643620,
+    "name": "Night Trap - 25th Anniversary Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/643620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/643620/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1222140,
+    "name": "Detroit: Become Human",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1222140/",
+    "popularity": "red"
+  },
+  {
+    "id": 1577120,
+    "name": "The Quarry",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1577120/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1577120/",
+    "popularity": "red"
+  },
+  {
+    "id": 2172010,
+    "name": "Until Dawn™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2172010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2172010/",
+    "popularity": "gold"
+  },
+  {
+    "id": 960910,
+    "name": "Heavy Rain",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/960910/",
+    "popularity": "red"
+  },
+  {
+    "id": 960990,
+    "name": "Beyond: Two Souls",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/960990/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/960990/",
+    "popularity": "red"
+  },
+  {
+    "id": 1341820,
+    "name": "As Dusk Falls",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1341820/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1281590,
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1281590/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1567020,
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1567020/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1567020/",
+    "popularity": "purple"
+  },
+  {
+    "id": 939850,
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/939850/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/939850/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1194630,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1194630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1194630/",
+    "popularity": "purple"
+  },
+  {
+    "id": 250320,
+    "name": "The Wolf Among Us",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/250320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/250320/",
+    "popularity": "red"
+  },
+  {
+    "id": 1449690,
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1449690/",
+    "popularity": "red"
+  },
+  {
+    "id": 1265920,
+    "name": "Life is Strange Remastered",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1265920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1265920/",
+    "popularity": "gold"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1250410,
+    "name": "Microsoft Flight Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1250410/",
+    "popularity": "red"
+  },
+  {
+    "id": 413150,
+    "name": "Stardew Valley",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/413150/",
+    "popularity": "red"
+  },
+  {
+    "id": 255710,
+    "name": "Cities: Skylines",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/255710/",
+    "popularity": "gold"
+  },
+  {
+    "id": 227300,
+    "name": "Euro Truck Simulator 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/227300/",
+    "popularity": "gold"
+  },
+  {
+    "id": 526870,
+    "name": "Satisfactory",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/526870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 648800,
+    "name": "Raft",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/648800/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1129580,
+    "name": "Medieval Dynasty",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1129580/",
+    "popularity": "purple"
+  },
+  {
+    "id": 983870,
+    "name": "FOUNDRY",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/983870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/983870/",
+    "popularity": "gray"
+  },
+  {
+    "id": 780290,
+    "name": "Sailwind",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/780290/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1040210,
+    "name": "Crime Scene Cleaner",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1040210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1040210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1062520,
+    "name": "Dinkum",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062520/",
+    "popularity": "purple"
+  },
+  {
+    "id": 756800,
+    "name": "Contraband Police",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/756800/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/756800/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2933480,
+    "name": "Fast Food Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933480/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2933480/",
+    "popularity": "gray"
+  },
+  {
+    "id": 376210,
+    "name": "The Isle",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/376210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 815370,
+    "name": "Green Hell",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/815370/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1326470,
+    "name": "Sons Of The Forest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1326470/",
+    "popularity": "red"
+  },
+  {
+    "id": 2670630,
+    "name": "Supermarket Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2670630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1563180,
+    "name": "Internet Cafe Simulator 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1563180/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1149620,
+    "name": "Gas Station Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1149620/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1190000,
+    "name": "Car Mechanic Simulator 2021",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1190000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1190000/",
+    "popularity": "gold"
+  },
+  {
+    "id": 310560,
+    "name": "DiRT Rally",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/310560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/310560/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1451190,
+    "name": "Undisputed",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1451190/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1911290,
+    "name": "PGA TOUR 2K23",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1911290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1911290/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1363080,
+    "name": "Manor Lords",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1363080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 323190,
+    "name": "Frostpunk",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/323190/",
+    "popularity": "gold"
+  },
+  {
+    "id": 294100,
+    "name": "RimWorld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/294100/",
+    "popularity": "red"
+  },
+  {
+    "id": 427520,
+    "name": "Factorio",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/427520/",
+    "popularity": "red"
+  },
+  {
+    "id": 1044720,
+    "name": "Farthest Frontier",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1044720/",
+    "popularity": "gray"
+  },
+  {
+    "id": 236390,
+    "name": "War Thunder",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/236390/",
+    "popularity": "red"
+  },
+  {
+    "id": 264710,
+    "name": "Subnautica",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/264710/",
+    "popularity": "red"
+  },
+  {
+    "id": 1849250,
+    "name": "Pacific Drive",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1849250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1849250/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1062090,
+    "name": "Timberborn",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062090/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1366540,
+    "name": "Dyson Sphere Program",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1366540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1366540/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2738490,
+    "name": "TCG Card Shop Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2738490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2738490/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1569080,
+    "name": "Tiny Glade",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1569080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1569080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 270880,
+    "name": "American Truck Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/270880/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1167630,
+    "name": "Teardown",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1167630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1167630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1465360,
+    "name": "SnowRunner",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1465360/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1248130,
+    "name": "Farming Simulator 22",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1248130/",
+    "popularity": "gold"
+  },
+  {
+    "id": 703080,
+    "name": "Planet Zoo",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/703080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 493340,
+    "name": "Planet Coaster",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/493340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 518790,
+    "name": "theHunter: Call of the Wild™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/518790/",
+    "popularity": "gold"
+  },
+  {
+    "id": 433340,
+    "name": "Slime Rancher",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/433340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1657630,
+    "name": "Slime Rancher 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1657630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1657630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 853870,
+    "name": "Goat Simulator 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/853870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/853870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 535930,
+    "name": "Two Point Hospital",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/535930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/535930/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1649080,
+    "name": "Two Point Campus",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1649080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1649080/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1244460,
+    "name": "Jurassic World Evolution 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1244460/",
+    "popularity": "gold"
+  },
+  {
+    "id": 380600,
+    "name": "Fishing Planet",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/380600/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1290000,
+    "name": "PowerWash Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1290000/",
+    "popularity": "gold"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2195250,
+    "name": "EA SPORTS FC™ 24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2195250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2195250/",
+    "popularity": "red"
+  },
+  {
+    "id": 2369390,
+    "name": "eFootball™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2369390/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2257970,
+    "name": "NBA 2K24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2257970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2257970/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1938090,
+    "name": "Football Manager 2024",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1938090/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1601580,
+    "name": "Session: Skate Sim",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1601580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1601580/",
+    "popularity": "purple"
+  },
+  {
+    "id": 894940,
+    "name": "Golf With Your Friends",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/894940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/894940/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1440670,
+    "name": "Shredders",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1440670/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1440670/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1190970,
+    "name": "Disc Jam",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1190970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1190970/",
+    "popularity": "gray"
+  },
+  {
+    "id": 228380,
+    "name": "Wreckfest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/228380/",
+    "popularity": "purple"
+  },
+  {
+    "id": 681280,
+    "name": "Descenders",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/681280/",
+    "popularity": "purple"
+  },
+  {
+    "id": 460920,
+    "name": "Steep™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460920/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/460920/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2290180,
+    "name": "Riders Republic",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2290180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2290180/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2315690,
+    "name": "WWE 2K24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2315690/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1451190,
+    "name": "Undisputed",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1451190/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1911290,
+    "name": "PGA TOUR 2K23",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1911290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1911290/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1566200,
+    "name": "Tape to Tape",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1566200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1566200/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1114290,
+    "name": "Windjammers 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1114290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1114290/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1824220,
+    "name": "Chivalry 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1824220/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1426210,
+    "name": "It Takes Two",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1426210/",
+    "popularity": "red"
+  },
+  {
+    "id": 518790,
+    "name": "theHunter: Call of the Wild™",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/518790/",
+    "popularity": "gold"
+  },
+  {
+    "id": 380600,
+    "name": "Fishing Planet",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/380600/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1097150,
+    "name": "Fall Guys",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1097150/",
+    "popularity": "gold"
+  },
+  {
+    "id": 571740,
+    "name": "Golf It!",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/571740/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2669320,
+    "name": "EA SPORTS FC™ 25",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2669320/",
+    "popularity": "red"
+  },
+  {
+    "id": 2878950,
+    "name": "NBA 2K25",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2878950/",
+    "popularity": "red"
+  },
+  {
+    "id": 1790600,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1790600/",
+    "popularity": "red"
+  },
+  {
+    "id": 1364780,
+    "name": "Street Fighter 6",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1364780/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1778820,
+    "name": "TEKKEN 8",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1778820/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2488620,
+    "name": "F1® 24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2488620/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2108330,
+    "name": "F1® 23",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2108330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2108330/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1692250,
+    "name": "F1® 22",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1692250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1692250/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2582250,
+    "name": "Madden NFL 25",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2582250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2582250/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2140330,
+    "name": "Madden NFL 24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2140330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2140330/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1942660,
+    "name": "WWE 2K23",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1942660/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1942660/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2395210,
+    "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2395210/",
+    "popularity": "gold"
+  },
+  {
+    "id": 962730,
+    "name": "Skater XL - Ultimate Skateboarding Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/962730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/962730/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1487210,
+    "name": "Super Mega Baseball 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1487210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1487210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1016120,
+    "name": "PGA TOUR 2K21",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1016120/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1016120/",
+    "popularity": "purple"
+  },
+  {
+    "id": 760630,
+    "name": "Tennis Elbow 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/760630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/760630/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1072500,
+    "name": "AO Tennis 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1072500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1072500/",
+    "popularity": "gray"
+  },
+  {
+    "id": 2306630,
+    "name": "Cricket 24",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2306630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2306630/",
+    "popularity": "gray"
+  },
+  {
+    "id": 766570,
+    "name": "Russian Fishing 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/766570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/766570/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1688080,
+    "name": "Way of the Hunter",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1688080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1688080/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1259980,
+    "name": "RIDE 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259980/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1259980/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1650010,
+    "name": "RIDE 5",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1650010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1650010/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1611910,
+    "name": "MXGP 2021 - The Official Motocross Videogame",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1611910/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1611910/",
+    "popularity": "gray"
+  },
+  {
+    "id": 2138330,
+    "name": "Monster Energy Supercross 6",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2138330/",
+    "popularity": "gray"
+  },
+  {
+    "id": 711540,
+    "name": "Lonely Mountains: Downhill",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/711540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/711540/",
+    "popularity": "purple"
+  },
+  {
+    "id": 732430,
+    "name": "Superflight",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/732430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/732430/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1551360,
+    "name": "Forza Horizon 5",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1551360/",
+    "popularity": "red"
+  }
+]

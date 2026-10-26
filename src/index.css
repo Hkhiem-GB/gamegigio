@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #10090B;
+    background-image: 
+      radial-gradient(circle at 50% 0%, rgba(229, 46, 69, 0.12) 0%, rgba(143, 23, 43, 0.04) 40%, transparent 70%),
+      radial-gradient(circle at 10% 30%, rgba(143, 23, 43, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at 90% 70%, rgba(229, 46, 69, 0.06) 0%, transparent 50%);
+    background-attachment: fixed;
+    color: #F5F3F4;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    overflow-x: hidden;
+  }
+
+  /* Custom Webkit Scrollbars with Red Accent */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #10090B;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #2C141B;
+    border-radius: 4px;
+    border: 2px solid #10090B;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E52E45;
+  }
+}
+
+/* Utilities for gaming roulette physics and smooth transitions */
+.will-change-transform {
+  will-change: transform;
+}
+
+@keyframes laser-glow {
+  0%, 100% {
+    opacity: 0.85;
+    filter: drop-shadow(0 0 6px #FF4359);
+  }
+  50% {
+    opacity: 1;
+    filter: drop-shadow(0 0 14px #E52E45);
+  }
+}
+
+.animate-laser {
+  animation: laser-glow 1.8s ease-in-out infinite;
+}
+
+/* Dark Gaming Cinematic Wallpaper for Main Section */
+.gaming-hero-wallpaper {
+  width: 100%;
+  height: 100%;
+  background-image: url('/images/gaming-background.jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 1024px) {
+  .gaming-hero-wallpaper {
+    background-size: cover;
+  }
+}
+
+@media (min-width: 1536px) {
+  .gaming-hero-wallpaper {
+    background-size: cover;
+  }
+}
+
+/* Soft Center Readability Scrim (Center darkened for text, flanks clear for neon cityscape) */
+.gaming-hero-scrim {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(ellipse 65% 55% at 50% 35%, rgba(16, 9, 11, 0.65) 0%, rgba(16, 9, 11, 0.25) 50%, rgba(16, 9, 11, 0) 85%);
+}
+
+@keyframes footer-light-sweep {
+  0% {
+    transform: translateX(-110%);
+  }
+
+  100% {
+    transform: translateX(410%);
+  }
+}
+
+.animate-footer-light {
+  animation: footer-light-sweep 3.5s linear infinite;
+}
+
+/* Running Border Light Beam along perimeter */
+@keyframes border-beam-travel {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -100;
+  }
+}
+
+.animate-border-beam {
+  animation: border-beam-travel 4s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-border-beam {
+    animation: none;
+  }
+}

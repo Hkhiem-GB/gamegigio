@@ -1,0 +1,9 @@
+{
+  "excludedAppIds": [
+    578080
+  ],
+  "excludedPatterns": [
+    "pubg",
+    "playerunknown's battlegrounds"
+  ]
+}

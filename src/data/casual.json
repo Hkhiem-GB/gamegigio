@@ -1,0 +1,352 @@
+[
+  {
+    "id": 945360,
+    "name": "Among Us",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/945360/",
+    "popularity": "red"
+  },
+  {
+    "id": 413150,
+    "name": "Stardew Valley",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/413150/",
+    "popularity": "red"
+  },
+  {
+    "id": 620,
+    "name": "Portal 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/620/",
+    "popularity": "gold"
+  },
+  {
+    "id": 440,
+    "name": "Team Fortress 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/440/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1225570,
+    "name": "Unpacking",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1225570/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1243830,
+    "name": "Dorfromantik",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1243830/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1454400,
+    "name": "Cookie Clicker",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1454400/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1055540,
+    "name": "A Short Hike",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1055540/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1599330,
+    "name": "Wildmender",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1599330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1599330/",
+    "popularity": "gray"
+  },
+  {
+    "id": 3097560,
+    "name": "Liar's Bar",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3097560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3097560/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2567870,
+    "name": "Chained Together",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2567870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 2881650,
+    "name": "Content Warning",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1040210,
+    "name": "Crime Scene Cleaner",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1040210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1040210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1782210,
+    "name": "Crab Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1782210/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1568590,
+    "name": "Goose Goose Duck",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1568590/",
+    "popularity": "red"
+  },
+  {
+    "id": 2933480,
+    "name": "Fast Food Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933480/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2933480/",
+    "popularity": "gray"
+  },
+  {
+    "id": 1260320,
+    "name": "Party Animals",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1260320/",
+    "popularity": "gold"
+  },
+  {
+    "id": 448510,
+    "name": "Overcooked! 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/448510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/448510/",
+    "popularity": "gold"
+  },
+  {
+    "id": 477160,
+    "name": "Human Fall Flat",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/477160/",
+    "popularity": "red"
+  },
+  {
+    "id": 285900,
+    "name": "Gang Beasts",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/285900/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1509960,
+    "name": "PICO PARK",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1509960/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2670630,
+    "name": "Supermarket Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2670630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1563180,
+    "name": "Internet Cafe Simulator 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1563180/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1149620,
+    "name": "Gas Station Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1149620/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1426210,
+    "name": "It Takes Two",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1426210/",
+    "popularity": "red"
+  },
+  {
+    "id": 2738490,
+    "name": "TCG Card Shop Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2738490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2738490/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1569080,
+    "name": "Tiny Glade",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1569080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1569080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 433340,
+    "name": "Slime Rancher",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/433340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1657630,
+    "name": "Slime Rancher 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1657630/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1657630/",
+    "popularity": "gold"
+  },
+  {
+    "id": 853870,
+    "name": "Goat Simulator 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/853870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/853870/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1097150,
+    "name": "Fall Guys",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1097150/",
+    "popularity": "gold"
+  },
+  {
+    "id": 837470,
+    "name": "Untitled Goose Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/837470/",
+    "popularity": "gold"
+  },
+  {
+    "id": 240720,
+    "name": "Getting Over It with Bennett Foddy",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/240720/",
+    "popularity": "gold"
+  },
+  {
+    "id": 972660,
+    "name": "Spiritfarer: Farewell Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/972660/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/972660/",
+    "popularity": "gold"
+  },
+  {
+    "id": 238460,
+    "name": "BattleBlock Theater",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/238460/",
+    "popularity": "gold"
+  },
+  {
+    "id": 204360,
+    "name": "Castle Crashers",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/204360/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1291340,
+    "name": "Townscaper",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1291340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1291340/",
+    "popularity": "purple"
+  },
+  {
+    "id": 265930,
+    "name": "Goat Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/265930/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1703340,
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1703340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1703340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 386940,
+    "name": "Ultimate Chicken Horse",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/386940/",
+    "popularity": "gold"
+  },
+  {
+    "id": 674940,
+    "name": "Stick Fight: The Game",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/674940/",
+    "popularity": "gold"
+  },
+  {
+    "id": 397950,
+    "name": "Clustertruck",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/397950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/397950/",
+    "popularity": "purple"
+  },
+  {
+    "id": 207140,
+    "name": "SpeedRunners",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/207140/",
+    "popularity": "gold"
+  },
+  {
+    "id": 571740,
+    "name": "Golf It!",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/571740/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1557740,
+    "name": "ROUNDS",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1557740/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1290000,
+    "name": "PowerWash Simulator",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1290000/",
+    "popularity": "gold"
+  },
+  {
+    "id": 613100,
+    "name": "House Flipper",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613100/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/613100/",
+    "popularity": "gold"
+  },
+  {
+    "id": 322330,
+    "name": "Don't Starve Together",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/322330/",
+    "popularity": "gold"
+  },
+  {
+    "id": 105600,
+    "name": "Terraria",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/105600/",
+    "popularity": "red"
+  },
+  {
+    "id": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/250900/",
+    "popularity": "gold"
+  }
+]

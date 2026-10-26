@@ -1,0 +1,352 @@
+[
+  {
+    "id": 289070,
+    "name": "Sid Meier’s Civilization® VI",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/289070/",
+    "popularity": "red"
+  },
+  {
+    "id": 1142710,
+    "name": "Total War: WARHAMMER III",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1142710/",
+    "popularity": "gold"
+  },
+  {
+    "id": 281990,
+    "name": "Stellaris",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/281990/",
+    "popularity": "gold"
+  },
+  {
+    "id": 394360,
+    "name": "Hearts of Iron IV",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/394360/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1158310,
+    "name": "Crusader Kings III",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1158310/",
+    "popularity": "gold"
+  },
+  {
+    "id": 646570,
+    "name": "Slay the Spire",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/646570/",
+    "popularity": "gold"
+  },
+  {
+    "id": 268500,
+    "name": "XCOM® 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/268500/",
+    "popularity": "purple"
+  },
+  {
+    "id": 813780,
+    "name": "Age of Empires II: Definitive Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/813780/",
+    "popularity": "purple"
+  },
+  {
+    "id": 979640,
+    "name": "Slipways",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/979640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/979640/",
+    "popularity": "gray"
+  },
+  {
+    "id": 602320,
+    "name": "Train Valley 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/602320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/602320/",
+    "popularity": "gray"
+  },
+  {
+    "id": 3097560,
+    "name": "Liar's Bar",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3097560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3097560/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1358640,
+    "name": "Dread Hunger",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1358640/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1358640/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1568590,
+    "name": "Goose Goose Duck",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1568590/",
+    "popularity": "red"
+  },
+  {
+    "id": 2780620,
+    "name": "Lockdown Protocol",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2780620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2780620/",
+    "popularity": "gray"
+  },
+  {
+    "id": 448510,
+    "name": "Overcooked! 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/448510/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/448510/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1144200,
+    "name": "Ready or Not",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1144200/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1363080,
+    "name": "Manor Lords",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1363080/",
+    "popularity": "gold"
+  },
+  {
+    "id": 323190,
+    "name": "Frostpunk",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/323190/",
+    "popularity": "gold"
+  },
+  {
+    "id": 294100,
+    "name": "RimWorld",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/294100/",
+    "popularity": "red"
+  },
+  {
+    "id": 427520,
+    "name": "Factorio",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/427520/",
+    "popularity": "red"
+  },
+  {
+    "id": 1466860,
+    "name": "Age of Empires IV: Anniversary Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1466860/",
+    "popularity": "gold"
+  },
+  {
+    "id": 466560,
+    "name": "Northgard",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/466560/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/466560/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1044720,
+    "name": "Farthest Frontier",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1044720/",
+    "popularity": "gray"
+  },
+  {
+    "id": 261550,
+    "name": "Mount & Blade II: Bannerlord",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/261550/",
+    "popularity": "gold"
+  },
+  {
+    "id": 233860,
+    "name": "Kenshi",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/233860/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/233860/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1934680,
+    "name": "Age of Mythology: Retold",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1934680/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1337520,
+    "name": "Against the Storm",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1337520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1337520/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1062090,
+    "name": "Timberborn",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1062090/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1366540,
+    "name": "Dyson Sphere Program",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1366540/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1366540/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1669000,
+    "name": "Age of Wonders 4",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1669000/",
+    "popularity": "gold"
+  },
+  {
+    "id": 779340,
+    "name": "Total War: THREE KINGDOMS",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/779340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 594570,
+    "name": "Total War: WARHAMMER II",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/594570/",
+    "popularity": "gold"
+  },
+  {
+    "id": 214950,
+    "name": "Total War: ROME II - Emperor Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/214950/",
+    "popularity": "gold"
+  },
+  {
+    "id": 8930,
+    "name": "Sid Meier's Civilization® V",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/8930/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1146320,
+    "name": "Dune: Spice Wars",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1146320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1146320/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1029780,
+    "name": "Going Medieval",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1029780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1029780/",
+    "popularity": "purple"
+  },
+  {
+    "id": 867210,
+    "name": "Songs of Conquest",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/867210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/867210/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1527950,
+    "name": "Wartales",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1527950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1527950/",
+    "popularity": "gold"
+  },
+  {
+    "id": 236850,
+    "name": "Europa Universalis IV",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/236850/",
+    "popularity": "gold"
+  },
+  {
+    "id": 529340,
+    "name": "Victoria 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/529340/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/529340/",
+    "popularity": "gold"
+  },
+  {
+    "id": 916440,
+    "name": "Anno 1800",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/916440/",
+    "popularity": "gold"
+  },
+  {
+    "id": 231430,
+    "name": "Company of Heroes 2",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/231430/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/231430/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1677280,
+    "name": "Company of Heroes 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1677280/",
+    "popularity": "purple"
+  },
+  {
+    "id": 1214060,
+    "name": "Command & Conquer™ Remastered Collection",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1214060/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1214060/",
+    "popularity": "purple"
+  },
+  {
+    "id": 418240,
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418240/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/418240/",
+    "popularity": "gold"
+  },
+  {
+    "id": 618290,
+    "name": "Desperados III",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/618290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/618290/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1150440,
+    "name": "Aliens: Dark Descent",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1150440/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1150440/",
+    "popularity": "purple"
+  },
+  {
+    "id": 2379780,
+    "name": "Balatro",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2379780/",
+    "popularity": "gold"
+  },
+  {
+    "id": 1086940,
+    "name": "Baldur's Gate 3",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1086940/",
+    "popularity": "red"
+  },
+  {
+    "id": 933110,
+    "name": "Age of Empires III: Definitive Edition",
+    "theme": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/933110/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/933110/",
+    "popularity": "gold"
+  }
+]
